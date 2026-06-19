@@ -36,9 +36,10 @@ DATE_RE = re.compile(
     re.I,
 )
 ADDRESS_RE = re.compile(
-    r"\b\d{1,5}\s+[A-Za-z0-9.\- ]+\s+(?:Ave|Avenue|Blvd|Boulevard|Cir|Circle|Ct|Court|Dr|Drive|"
-    r"Hwy|Highway|Ln|Lane|Rd|Road|St|Street|Ter|Terrace|Way|Trail|Pl|Place|Pkwy|Parkway|CR|County Road)\b"
-    r"(?:[A-Za-z0-9.\- ]+)?",
+    r"\b\d{1,5}\s+(?:[A-Za-z0-9.\-]+\s+){1,5}"
+    r"(?:Ave|Avenue|Blvd|Boulevard|Cir|Circle|Ct|Court|Dr|Drive|"
+    r"Hwy|Highway|Ln|Lane|Rd|Road|St|Street|Ter|Terrace|Way|Trail|Pl|Place|Pkwy|Parkway|CR|County Road|Lk|Lake)\b"
+    r"(?:\s+[A-Za-z0-9.\-]+){0,2}",
     re.I,
 )
 

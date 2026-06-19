@@ -24,6 +24,8 @@ from utils.text_utils import (
 BEDROOM_RE = re.compile(r"\b(?:studio|1|2|3|4|5)[-\s]*(?:bed|bedroom)s?\b", re.I)
 UNIT_COUNT_RE = re.compile(r"\b(\d{1,4})\s+units?\b", re.I)
 MANAGEMENT_RE = re.compile(r"(?:managed by|property manager|management company)\s*[:\-]?\s*([^.|;]+)", re.I)
+GENERIC_NAME_TOKENS = {"apts", "apt", "apartments", "apartment", "villas", "villa", "ltd", "ii", "iii", "iv", "homes"}
+TOLL_FREE_PREFIXES = {"800", "833", "844", "855", "866", "877", "888"}
 
 
 def cache_name_for_url(url: str) -> Path:
@@ -71,6 +73,24 @@ def property_search_results(property_record: HousingProperty) -> list[dict]:
         seen.add(item["url"])
         deduped.append(item)
     return deduped[:6]
+
+
+def significant_name_tokens(name: str) -> list[str]:
+    cleaned = re.sub(r"[^a-z0-9\s]", " ", name.lower())
+    return [token for token in cleaned.split() if token and token not in GENERIC_NAME_TOKENS]
+
+
+def result_matches_property(property_name: str, title: str, text: str, url: str) -> bool:
+    haystack = " ".join([title, text[:4000], url]).lower()
+    normalized_name = re.sub(r"[^a-z0-9\s]", " ", property_name.lower()).strip()
+    if normalized_name and normalized_name in haystack:
+        return True
+    tokens = significant_name_tokens(property_name)
+    if len(tokens) >= 2:
+        return sum(1 for token in tokens if token in haystack) >= 2
+    if len(tokens) == 1:
+        return tokens[0] in haystack and normalized_name in haystack
+    return False
 
 
 def infer_program_type(text: str) -> str:
@@ -133,23 +153,57 @@ def infer_application_method(text: str) -> str:
     return "call office"
 
 
+def preferred_phone(phones: list[str]) -> str:
+    for phone in phones:
+        digits = re.sub(r"\D", "", phone)
+        if len(digits) == 11 and digits.startswith("1"):
+            digits = digits[1:]
+        if len(digits) == 10 and digits[:3] not in TOLL_FREE_PREFIXES:
+            return phone
+    return ""
+
+
+def preferred_address(addresses: list[str]) -> str:
+    for address in addresses:
+        lower = address.lower()
+        if any(phrase in lower for phrase in ["low income housing", "resources nearby", "apartments for rent", "welcome", "find us"]):
+            continue
+        if len(address.split()) > 12:
+            continue
+        return address
+    return ""
+
+
+def property_context_text(property_record: HousingProperty, text: str) -> str:
+    terms = [property_record.property_name]
+    tokens = significant_name_tokens(property_record.property_name)
+    if len(tokens) >= 2:
+        terms.append(" ".join(tokens[:2]))
+    snippets = []
+    for term in terms:
+        snippets.extend(snippets_with_keywords(text, [term], window=240))
+    unique = list(dict.fromkeys(snippets))
+    return " || ".join(unique[:6]) if unique else text
+
+
 def enrich_from_text(property_record: HousingProperty, text: str, url: str, source_quality: str, raw_path: str) -> None:
-    phones = extract_phones(text)
+    context_text = property_context_text(property_record, text)
+    phones = extract_phones(context_text) or extract_phones(text)
     emails = extract_emails(text)
-    addresses = extract_addresses(text)
-    dates = extract_dates(text)
+    addresses = extract_addresses(context_text) or extract_addresses(text)
+    dates = extract_dates(context_text) or extract_dates(text)
     bedrooms = list(dict.fromkeys(match.group(0) for match in BEDROOM_RE.finditer(text)))
     unit_count = UNIT_COUNT_RE.search(text)
     management = MANAGEMENT_RE.search(text)
     key_snippets = snippets_with_keywords(
-        text,
+        context_text,
         ["rent", "income", "waitlist", "available", "application", "deposit", "utilities", "pet", "credit", "background"],
         window=200,
     )[:6]
 
-    property_record.phone = choose_preferred_value(property_record.phone, phones[0] if phones else "")
+    property_record.phone = choose_preferred_value(property_record.phone, preferred_phone(phones))
     property_record.email = choose_preferred_value(property_record.email, emails[0] if emails else "")
-    property_record.address = choose_preferred_value(property_record.address, addresses[0] if addresses else "")
+    property_record.address = choose_preferred_value(property_record.address, preferred_address(addresses))
     property_record.last_updated_date_from_source = choose_preferred_value(
         property_record.last_updated_date_from_source, dates[0] if dates else ""
     )
@@ -209,9 +263,8 @@ def main() -> None:
             if "html" not in content_type:
                 continue
             text = soup_to_text(response.text)
-            if property_record.property_name.lower().split()[0] not in text.lower():
-                if property_record.city.lower() not in text.lower():
-                    continue
+            if not result_matches_property(property_record.property_name, result.get("title", ""), text, url):
+                continue
             raw_path = Path.cwd() / cache_name_for_url(url)
             raw_path.parent.mkdir(parents=True, exist_ok=True)
             raw_path.write_text(response.text, encoding="utf-8", errors="ignore")

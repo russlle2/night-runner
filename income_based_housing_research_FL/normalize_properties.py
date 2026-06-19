@@ -10,11 +10,40 @@ from utils.normalization_utils import choose_preferred_value, likely_same_proper
 from utils.source_registry import get_known_property_leads
 
 MINIMUM_NAME_TOKENS = {"apartments", "apartment", "commons", "terrace", "townhomes", "manor", "villas", "reserve", "gardens"}
+GENERIC_NAME_PHRASES = {
+    "for rent in",
+    "apartments for rent",
+    "low income apartments and affordable housing",
+    "senior housing & apartments",
+    "affordable housing directory",
+    "county fl low income housing apartments",
+}
+
+
+def sanitize_property_name(name: str) -> str:
+    value = name.strip()
+    for separator in [" | ", " - "]:
+        if separator in value:
+            value = value.split(separator, 1)[0].strip()
+    return value
 
 
 def looks_like_property_name(name: str) -> bool:
-    lower = (name or "").lower()
+    lower = sanitize_property_name(name).lower()
+    if any(phrase in lower for phrase in GENERIC_NAME_PHRASES):
+        return False
+    if len(lower.split()) > 8:
+        return False
     return any(token in lower for token in MINIMUM_NAME_TOKENS)
+
+
+def normalize_city_hint(city: str) -> str:
+    value = city.strip()
+    replacements = {
+        "Fruitland Park Dr.": "Fruitland Park",
+        "Lady Lake Fl": "Lady Lake",
+    }
+    return replacements.get(value, value)
 
 
 def base_property_from_lead(lead: dict) -> HousingProperty:
@@ -47,13 +76,13 @@ def base_property_from_lead(lead: dict) -> HousingProperty:
 
 
 def base_property_from_snippet(snippet: dict) -> HousingProperty | None:
-    name = snippet.get("candidate_property_name", "").strip()
+    name = sanitize_property_name(snippet.get("candidate_property_name", "").strip())
     if not name or not looks_like_property_name(name):
         return None
     property_record = HousingProperty(
         property_name=name,
         address=snippet.get("address", "") or "NOT FOUND / NEEDS CALL",
-        city=snippet.get("city_hint", "") or "Unknown",
+        city=normalize_city_hint(snippet.get("city_hint", "")) or "Unknown",
         county=snippet.get("county_hint", "") or "Unknown",
         state="FL",
         phone=snippet.get("contact_phone", ""),

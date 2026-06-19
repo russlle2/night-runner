@@ -62,10 +62,49 @@ EXPORT_COLUMNS = [
     "distance_miles_to_target_area",
 ]
 
+GENERIC_EXCLUDE_PHRASES = [
+    "florida apartments",
+    "luxury 1, 2, 3 bed apartments",
+    "apartments for rent",
+    "for rent in",
+    "senior housing & apartments",
+    "county fl low income housing apartments",
+]
+
 
 def load_properties() -> list[HousingProperty]:
     payload = read_json(Path("intermediate") / "properties_final.json", default=[])
     return [HousingProperty(**item) for item in payload]
+
+
+def is_research_target_property(item: HousingProperty) -> bool:
+    lower_name = item.property_name.lower()
+    if any(phrase in lower_name for phrase in GENERIC_EXCLUDE_PHRASES):
+        return False
+    haystack = " ".join(
+        [
+            item.program_type,
+            item.property_type,
+            item.notes,
+            item.website_url,
+            " ".join(item.source_urls),
+            " ".join(item.evidence_snippets),
+        ]
+    ).lower()
+    affordability_terms = [
+        "usda",
+        "rural development",
+        "lihtc",
+        "section 8",
+        "public housing",
+        "affordable",
+        "income based",
+        "income-based",
+        "voucher",
+        "ship",
+        "hud",
+    ]
+    return any(term in haystack for term in affordability_terms)
 
 
 def flatten_properties(properties: list[HousingProperty]) -> list[dict]:
@@ -277,7 +316,7 @@ def format_excel() -> None:
 
 def main() -> None:
     ensure_directories()
-    properties = load_properties()
+    properties = [item for item in load_properties() if is_research_target_property(item)]
     properties = sorted(properties, key=lambda item: (-item.vacancy_likelihood_score, -item.confidence_score, item.property_name))
     rows = flatten_properties(properties)
     df = pd.DataFrame(rows, columns=EXPORT_COLUMNS)

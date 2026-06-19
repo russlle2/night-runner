@@ -17,6 +17,23 @@ from utils.http_utils import call_serpapi_search, call_tavily_search
 from utils.io_utils import append_log, ensure_directories, write_csv, write_json
 from utils.source_registry import get_official_seed_urls
 
+EXCLUDED_DOMAINS = {
+    "apartments.com",
+    "after55.com",
+    "forrent.com",
+    "zillow.com",
+    "trulia.com",
+    "yelp.com",
+    "hotpads.com",
+    "realtor.com",
+    "apartmentfinder.com",
+    "findhelp.org",
+    "facebook.com",
+    "instagram.com",
+    "rent.com",
+    "spotify.com",
+}
+
 
 def infer_source_quality_from_url(url: str) -> str:
     host = urlparse(url).netloc.lower()
@@ -78,6 +95,32 @@ def filter_queries(city_filter: str | None) -> list[str]:
     return [query for query in SEARCH_QUERIES if city_filter.lower() in query.lower()]
 
 
+def canonicalize_url(url: str) -> str:
+    parsed = urlparse(url)
+    netloc = parsed.netloc.lower().replace("www.", "")
+    path = parsed.path.rstrip("/")
+    if parsed.query:
+        return f"{parsed.scheme}://{netloc}{path}?{parsed.query}"
+    return f"{parsed.scheme}://{netloc}{path}"
+
+
+def is_location_relevant(url: str, title: str, snippet: str, query_city: str, query_county: str) -> bool:
+    host = urlparse(url).netloc.lower()
+    if any(domain in host for domain in EXCLUDED_DOMAINS):
+        return False
+    combined = " ".join([url, title, snippet]).lower()
+    if not combined:
+        return False
+    florida_signal = any(token in combined for token in [" florida", " fl ", "_fl", "-fl", "/fl/", ",fl", "florida"])
+    if query_city != "Unknown" and query_city.lower() in combined and (florida_signal or query_county.lower() in combined):
+        return True
+    if query_county != "Unknown" and query_county.lower() in combined:
+        return True
+    if any(domain in host for domain in ["hud.gov", "usda.gov", "rdmfhrentals.sc.egov.usda.gov", "floridahousingsearch.org"]):
+        return True
+    return False
+
+
 def search_query(query: str) -> list[DiscoveredUrlRecord]:
     city = infer_city_from_query(query)
     county = infer_county_from_query(query)
@@ -87,11 +130,15 @@ def search_query(query: str) -> list[DiscoveredUrlRecord]:
         url = result.get("link")
         if not url:
             continue
+        title = result.get("title", "")
+        snippet = result.get("snippet", "")
+        if not is_location_relevant(url, title, snippet, city, county):
+            continue
         records.append(
             DiscoveredUrlRecord(
                 url=url,
-                title=result.get("title", ""),
-                snippet=result.get("snippet", ""),
+                title=title,
+                snippet=snippet,
                 discovery_method="serpapi",
                 query=query,
                 city=city,
@@ -105,11 +152,15 @@ def search_query(query: str) -> list[DiscoveredUrlRecord]:
         url = result.get("url")
         if not url:
             continue
+        title = result.get("title", "")
+        snippet = result.get("content", "")
+        if not is_location_relevant(url, title, snippet, city, county):
+            continue
         records.append(
             DiscoveredUrlRecord(
                 url=url,
-                title=result.get("title", ""),
-                snippet=result.get("content", ""),
+                title=title,
+                snippet=snippet,
                 discovery_method="tavily",
                 query=query,
                 city=city,
@@ -124,6 +175,7 @@ def search_query(query: str) -> list[DiscoveredUrlRecord]:
 def dedupe_records(records: list[DiscoveredUrlRecord]) -> list[DiscoveredUrlRecord]:
     deduped: dict[str, DiscoveredUrlRecord] = {}
     for record in records:
+        record.url = canonicalize_url(record.url)
         if record.url not in deduped:
             deduped[record.url] = record
             continue
