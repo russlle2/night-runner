@@ -40,3 +40,16 @@ def test_extract_exact_rent_values_from_price_context():
     assert "$735.00" in values
     assert "$759.00" in values
     assert call_for_rent is False
+
+
+def test_extract_exact_rent_values_ignores_zipcode_median_rent():
+    record = HousingProperty(
+        property_name="Turtle Oaks Apartments",
+        evidence_snippets=[
+            "HUD residents usually pay 30% of their gross income for rent. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977.",
+            "Rent Beds Baths SqFt Call for Rents",
+        ],
+    )
+    values, call_for_rent = extract_exact_rent_values(record)
+    assert values == []
+    assert call_for_rent is True

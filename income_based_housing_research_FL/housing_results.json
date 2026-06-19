@@ -24,8 +24,8 @@
     "population_served": "general low-income",
     "program_type": "USDA RD 515",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -47,7 +47,7 @@
     "vacancy_likelihood_reason": "Source indicates units are available now.",
     "phone_verification_needed": true,
     "notes": "Listed on USDA Rural Development Lake County property list.",
-    "confidence_score": 72,
+    "confidence_score": 68,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -485,8 +485,8 @@
     "population_served": "disabled",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -508,7 +508,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Lakewood Villas | Leesburg",
-    "confidence_score": 94,
+    "confidence_score": 90,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -654,8 +654,8 @@
     "population_served": "general low-income",
     "program_type": "Unknown affordable rental",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$945; $951; $1250; $1572; $1665",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -677,7 +677,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Sumter County rental assistance provider lead. | Misty Wood Apartments - 352-793-8211",
-    "confidence_score": 93,
+    "confidence_score": 89,
     "distance_miles_to_target_area": 5.7,
     "evidence": [
       {
@@ -816,8 +816,8 @@
     "population_served": "general low-income",
     "program_type": "USDA RD 515",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -839,7 +839,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Listed on USDA Rural Development Lake County property list.",
-    "confidence_score": 72,
+    "confidence_score": 68,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -907,8 +907,8 @@
     "population_served": "general low-income",
     "program_type": "Unknown affordable rental",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$945; $951; $1250; $1572; $1665",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -930,7 +930,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Listed by Sumter County as rental assistance provider and in county multifamily inventory. | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace - 352-748-0013",
-    "confidence_score": 71,
+    "confidence_score": 67,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -1099,8 +1099,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $18; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -1122,7 +1122,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Orangewood Villas | Umatilla",
-    "confidence_score": 64,
+    "confidence_score": 60,
     "distance_miles_to_target_area": null,
     "evidence": [
       {
@@ -1237,190 +1237,6 @@
       "g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins St Umatilla , FL - 32 || Umatilla , FL - 32784 Total Apartments: 45 Total Low Income Apartments: 45 Orangewood Villas Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 45 Total Low Income Apartments: 45 Orangewood Villas Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins S || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins St Umatilla , FL - 32784 Total Apartments: 45 Tot"
     ],
     "discovered_from": [
-      "lead"
-    ]
-  },
-  {
-    "property_name": "Panasoffkee Family Apartments",
-    "property_type": "Family",
-    "address": "910 CR 482N",
-    "city": "Lake Panasoffkee",
-    "county": "Sumter County",
-    "state": "FL",
-    "zip": "33538",
-    "phone": "(352) 793-2288",
-    "email": "LowIncomeSupport@gmail.com",
-    "website_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
-    "management_company": "",
-    "management_company_phone": "",
-    "housing_authority_or_agency": "Sumter County Housing",
-    "source_urls": [
-      "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
-      "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
-      "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
-      "https://www.lowincomehousing.us/FL/lake_panasoffkee.html",
-      "https://www.lowincomehousing.us/FL/sumterville.html",
-      "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
-      "https://www.uslowcosthousing.com/foreclosure-housing/fl/sanford/fl-sanford-overlook-at-monroe-apartments/",
-      "https://www.lowincomehousing.us/FL/center_hill.html"
-    ],
-    "source_quality": "government",
-    "bedroom_sizes": "1 bedroom, 2 bedroom, 3 bedroom",
-    "unit_count": "",
-    "population_served": "senior",
-    "program_type": "Unknown affordable rental",
-    "rent_type": "income-based",
-    "exact_published_rent_by_bedroom": "$48,400; $88,300; $59,500",
-    "exact_published_rent_by_income_bracket": "NOT FOUND",
-    "income_limits_by_household_size": "NOT FOUND",
-    "AMI_brackets_supported": "NOT FOUND",
-    "application_fee": "NOT FOUND / NEEDS CALL",
-    "deposit": "NOT FOUND / NEEDS CALL",
-    "utilities_included": "NOT FOUND / NEEDS CALL",
-    "pet_policy": "NOT FOUND / NEEDS CALL",
-    "criminal_background_policy": "NOT FOUND / NEEDS CALL",
-    "credit_policy": "Published credit-related language found; property verification recommended.",
-    "eviction_policy": "NOT FOUND / NEEDS CALL",
-    "minimum_income_requirement": "NOT FOUND / NEEDS CALL",
-    "maximum_income_requirement": "NOT FOUND / NEEDS CALL",
-    "required_documents": "NOT FOUND / NEEDS CALL",
-    "application_method": "call office",
-    "application_url": "",
-    "waitlist_status": "call_required",
-    "vacancy_status": "call_required",
-    "last_updated_date_from_source": "",
-    "vacancy_likelihood_score": 2,
-    "vacancy_likelihood_reason": "No reliable online vacancy evidence located; property verification is required.",
-    "phone_verification_needed": true,
-    "notes": "County multifamily inventory indicates family-focused property at same site as senior apartments. | Lake Panasoffkee Apartments - 352-793-2288",
-    "confidence_score": 87,
-    "distance_miles_to_target_area": 0.0,
-    "evidence": [
-      {
-        "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name",
-          "city",
-          "phone"
-        ],
-        "snippet": "County multifamily inventory indicates family-focused property at same site as senior apartments.",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Curated official lead from planning-stage verified source."
-      },
-      {
-        "source_url": "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name",
-          "city",
-          "phone"
-        ],
-        "snippet": "County multifamily inventory indicates family-focused property at same site as senior apartments.",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Curated official lead from planning-stage verified source."
-      },
-      {
-        "source_url": "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name"
-        ],
-        "snippet": "Lake Panasoffkee Apartments - 352-793-2288",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Snippet type: lead"
-      },
-      {
-        "source_url": "https://www.lowincomehousing.us/FL/lake_panasoffkee.html",
-        "source_quality": "nonprofit_directory",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, F || e housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Hous || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-lake-panasoffkee-html-d1f3048094e0.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      },
-      {
-        "source_url": "https://www.lowincomehousing.us/FL/sumterville.html",
-        "source_quality": "nonprofit_directory",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "ome Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || low number of listings in Sumtervi || housing through Section 42, a progr || low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-sumterville-html-c158cd5777e2.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      },
-      {
-        "source_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "ee Family Apartments - UsLowCostHousing Waiting List Section 8 Waiting List Public Housing Waiting List Waiting List Openings Affordable Housing Section 8 Housing Affordable Housing Housing Authority Rent Assistance Foreclosure Hou || meless Shelter Energy Assistance Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housin || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments you like! Sign in later Hom || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33 || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby R || by Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing throu",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-lady-lake-fl-lady-lake-pan-df49927c6ecd.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      },
-      {
-        "source_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/sanford/fl-sanford-overlook-at-monroe-apartments/",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": ". You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 || contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo || s Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-sanford-fl-sanford-overloo-3677ca52257c.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      },
-      {
-        "source_url": "https://www.lowincomehousing.us/FL/center_hill.html",
-        "source_quality": "nonprofit_directory",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assista || erties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || a Medium Income (AMI) and tenant b || housing through Section 42, a progr || a Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 4",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-center-hill-html-4bbcaa9dd4be.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      }
-    ],
-    "evidence_snippets": [
-      "County multifamily inventory indicates family-focused property at same site as senior apartments.",
-      "County multifamily inventory indicates family-focused property at same site as senior apartments.",
-      "Lake Panasoffkee Apartments - 352-793-2288",
-      "State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, F || e housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Hous || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee",
-      "ome Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || low number of listings in Sumtervi || housing through Section 42, a progr || low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family",
-      "ee Family Apartments - UsLowCostHousing Waiting List Section 8 Waiting List Public Housing Waiting List Waiting List Openings Affordable Housing Section 8 Housing Affordable Housing Housing Authority Rent Assistance Foreclosure Hou || meless Shelter Energy Assistance Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housin || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments you like! Sign in later Hom || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33 || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby R || by Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing throu",
-      ". You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 || contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo || s Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910",
-      "s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assista || erties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || a Medium Income (AMI) and tenant b || housing through Section 42, a progr || a Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 4"
-    ],
-    "discovered_from": [
-      "curated_official_lead",
       "lead"
     ]
   },
@@ -1835,6 +1651,190 @@
       "Ave., Eustis FAMILY 32 units, low income, 1 & 2 bedrooms The Franklin House 483-1303 2400 Kurt St., Eustis 62 + 24-hr. security, HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on i || income, 1 & 2 bedrooms The Franklin House 483-1303 2400 Kurt St., Eustis 62 + 24-hr. security, HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 3 || HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || ipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || sidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || y Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2"
     ],
     "discovered_from": [
+      "lead"
+    ]
+  },
+  {
+    "property_name": "Panasoffkee Family Apartments",
+    "property_type": "Family",
+    "address": "910 CR 482N",
+    "city": "Lake Panasoffkee",
+    "county": "Sumter County",
+    "state": "FL",
+    "zip": "33538",
+    "phone": "(352) 793-2288",
+    "email": "LowIncomeSupport@gmail.com",
+    "website_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
+    "management_company": "",
+    "management_company_phone": "",
+    "housing_authority_or_agency": "Sumter County Housing",
+    "source_urls": [
+      "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+      "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
+      "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
+      "https://www.lowincomehousing.us/FL/lake_panasoffkee.html",
+      "https://www.lowincomehousing.us/FL/sumterville.html",
+      "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
+      "https://www.uslowcosthousing.com/foreclosure-housing/fl/sanford/fl-sanford-overlook-at-monroe-apartments/",
+      "https://www.lowincomehousing.us/FL/center_hill.html"
+    ],
+    "source_quality": "government",
+    "bedroom_sizes": "1 bedroom, 2 bedroom, 3 bedroom",
+    "unit_count": "",
+    "population_served": "senior",
+    "program_type": "Unknown affordable rental",
+    "rent_type": "income-based",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "Likely based on adjusted income; exact tenant rent requires application/property verification.",
+    "income_limits_by_household_size": "NOT FOUND",
+    "AMI_brackets_supported": "NOT FOUND",
+    "application_fee": "NOT FOUND / NEEDS CALL",
+    "deposit": "NOT FOUND / NEEDS CALL",
+    "utilities_included": "NOT FOUND / NEEDS CALL",
+    "pet_policy": "NOT FOUND / NEEDS CALL",
+    "criminal_background_policy": "NOT FOUND / NEEDS CALL",
+    "credit_policy": "Published credit-related language found; property verification recommended.",
+    "eviction_policy": "NOT FOUND / NEEDS CALL",
+    "minimum_income_requirement": "NOT FOUND / NEEDS CALL",
+    "maximum_income_requirement": "NOT FOUND / NEEDS CALL",
+    "required_documents": "NOT FOUND / NEEDS CALL",
+    "application_method": "call office",
+    "application_url": "",
+    "waitlist_status": "call_required",
+    "vacancy_status": "call_required",
+    "last_updated_date_from_source": "",
+    "vacancy_likelihood_score": 2,
+    "vacancy_likelihood_reason": "No reliable online vacancy evidence located; property verification is required.",
+    "phone_verification_needed": true,
+    "notes": "County multifamily inventory indicates family-focused property at same site as senior apartments. | Lake Panasoffkee Apartments - 352-793-2288",
+    "confidence_score": 83,
+    "distance_miles_to_target_area": 0.0,
+    "evidence": [
+      {
+        "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name",
+          "city",
+          "phone"
+        ],
+        "snippet": "County multifamily inventory indicates family-focused property at same site as senior apartments.",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Curated official lead from planning-stage verified source."
+      },
+      {
+        "source_url": "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name",
+          "city",
+          "phone"
+        ],
+        "snippet": "County multifamily inventory indicates family-focused property at same site as senior apartments.",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Curated official lead from planning-stage verified source."
+      },
+      {
+        "source_url": "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name"
+        ],
+        "snippet": "Lake Panasoffkee Apartments - 352-793-2288",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Snippet type: lead"
+      },
+      {
+        "source_url": "https://www.lowincomehousing.us/FL/lake_panasoffkee.html",
+        "source_quality": "nonprofit_directory",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, F || e housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Hous || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-lake-panasoffkee-html-d1f3048094e0.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      },
+      {
+        "source_url": "https://www.lowincomehousing.us/FL/sumterville.html",
+        "source_quality": "nonprofit_directory",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "ome Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || low number of listings in Sumtervi || housing through Section 42, a progr || low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-sumterville-html-c158cd5777e2.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      },
+      {
+        "source_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "ee Family Apartments - UsLowCostHousing Waiting List Section 8 Waiting List Public Housing Waiting List Waiting List Openings Affordable Housing Section 8 Housing Affordable Housing Housing Authority Rent Assistance Foreclosure Hou || meless Shelter Energy Assistance Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housin || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments you like! Sign in later Hom || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33 || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby R || by Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing throu",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-lady-lake-fl-lady-lake-pan-df49927c6ecd.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      },
+      {
+        "source_url": "https://www.uslowcosthousing.com/foreclosure-housing/fl/sanford/fl-sanford-overlook-at-monroe-apartments/",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": ". You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 || contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo || s Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-sanford-fl-sanford-overloo-3677ca52257c.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      },
+      {
+        "source_url": "https://www.lowincomehousing.us/FL/center_hill.html",
+        "source_quality": "nonprofit_directory",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assista || erties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || a Medium Income (AMI) and tenant b || housing through Section 42, a progr || a Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 4",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-center-hill-html-4bbcaa9dd4be.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      }
+    ],
+    "evidence_snippets": [
+      "County multifamily inventory indicates family-focused property at same site as senior apartments.",
+      "County multifamily inventory indicates family-focused property at same site as senior apartments.",
+      "Lake Panasoffkee Apartments - 352-793-2288",
+      "State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, F || e housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Hous || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee",
+      "ome Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || low number of listings in Sumtervi || housing through Section 42, a progr || low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family",
+      "ee Family Apartments - UsLowCostHousing Waiting List Section 8 Waiting List Public Housing Waiting List Waiting List Openings Affordable Housing Section 8 Housing Affordable Housing Housing Authority Rent Assistance Foreclosure Hou || meless Shelter Energy Assistance Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housin || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments you like! Sign in later Hom || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33 || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby R || by Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing throu",
+      ". You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 || contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo || s Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910",
+      "s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assista || erties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || a Medium Income (AMI) and tenant b || housing through Section 42, a progr || a Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 4"
+    ],
+    "discovered_from": [
+      "curated_official_lead",
       "lead"
     ]
   },
@@ -3147,139 +3147,6 @@
     ]
   },
   {
-    "property_name": "Bushnell Garden Apartments",
-    "property_type": "Unknown",
-    "address": "200 Jumper St S",
-    "city": "Bushnell",
-    "county": "Sumter County",
-    "state": "FL",
-    "zip": "33513",
-    "phone": "(352) 793-4838",
-    "email": "LowIncomeSupport@gmail.com",
-    "website_url": "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
-    "management_company": "manges Bushnell Garden Apartments? Bushnell Garden Apartments is managed by Hale Management Group headquartered in Gainesville, Florida",
-    "management_company_phone": "",
-    "housing_authority_or_agency": "Sumter County Housing",
-    "source_urls": [
-      "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
-      "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
-      "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
-      "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
-      "https://www.lowincomehousing.us/FL/bushnell.html"
-    ],
-    "source_quality": "government",
-    "bedroom_sizes": "3 Beds",
-    "unit_count": "",
-    "population_served": "senior",
-    "program_type": "Unknown affordable rental",
-    "rent_type": "fixed affordable rent",
-    "exact_published_rent_by_bedroom": "$600; $811; $700; $917; $775; $999",
-    "exact_published_rent_by_income_bracket": "NOT FOUND",
-    "income_limits_by_household_size": "NOT FOUND",
-    "AMI_brackets_supported": "NOT FOUND",
-    "application_fee": "NOT FOUND / NEEDS CALL",
-    "deposit": "NOT FOUND / NEEDS CALL",
-    "utilities_included": "NOT FOUND / NEEDS CALL",
-    "pet_policy": "Published pet-related language found; property verification recommended.",
-    "criminal_background_policy": "NOT FOUND / NEEDS CALL",
-    "credit_policy": "NOT FOUND / NEEDS CALL",
-    "eviction_policy": "NOT FOUND / NEEDS CALL",
-    "minimum_income_requirement": "NOT FOUND / NEEDS CALL",
-    "maximum_income_requirement": "NOT FOUND / NEEDS CALL",
-    "required_documents": "NOT FOUND / NEEDS CALL",
-    "application_method": "call office",
-    "application_url": "",
-    "waitlist_status": "unknown",
-    "vacancy_status": "unknown",
-    "last_updated_date_from_source": "",
-    "vacancy_likelihood_score": 1,
-    "vacancy_likelihood_reason": "Listing exists, but availability information is stale or unclear.",
-    "phone_verification_needed": true,
-    "notes": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider. | Bushnell Garden Apartments - 352-793-4838",
-    "confidence_score": 65,
-    "distance_miles_to_target_area": 5.7,
-    "evidence": [
-      {
-        "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name",
-          "city",
-          "phone"
-        ],
-        "snippet": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Curated official lead from planning-stage verified source."
-      },
-      {
-        "source_url": "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name",
-          "city",
-          "phone"
-        ],
-        "snippet": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Curated official lead from planning-stage verified source."
-      },
-      {
-        "source_url": "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
-        "source_quality": "government",
-        "confirmed_fields": [
-          "property_name"
-        ],
-        "snippet": "Bushnell Garden Apartments - 352-793-4838",
-        "raw_html_path": "",
-        "screenshot_path": "",
-        "notes": "Snippet type: lead"
-      },
-      {
-        "source_url": "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
-        "source_quality": "apartment_listing",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft || using Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up f || ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Ve || - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bushnell Garden Apartments is a one, two and three bedroom community for families. Located || Office Handicapped Accessible Carpet Patio Deck Or Balcony Refrigerator Trash Included On-Site Maintenance Cable & Internet Ready Electric Range Units at Bushnell Garden Apartments Unit (Bd/Ba) Ft 2 Rent 1 BR (1/1) 726ft 2 $600 $811 † 2 BR (2/1) 877ft 2 $700 $917 † 3 BR (3/1.5) 957ft 2 $775 $999 † FAQs for Bushnell Garden Apartments What property management company manges Bushnell Garden Apa || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Wai",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-bushnell-bushnell-garde-82844ca52775.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      },
-      {
-        "source_url": "https://www.lowincomehousing.us/FL/bushnell.html",
-        "source_quality": "nonprofit_directory",
-        "confirmed_fields": [
-          "address",
-          "phone",
-          "program_type",
-          "property_type",
-          "application_method"
-        ],
-        "snippet": "$59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apa || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Sec || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 M || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ || 0 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar",
-        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-bushnell-html-02dfc24c5189.html",
-        "screenshot_path": "",
-        "notes": "Targeted enrichment search result."
-      }
-    ],
-    "evidence_snippets": [
-      "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
-      "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
-      "Bushnell Garden Apartments - 352-793-4838",
-      "ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft || using Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up f || ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Ve || - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bushnell Garden Apartments is a one, two and three bedroom community for families. Located || Office Handicapped Accessible Carpet Patio Deck Or Balcony Refrigerator Trash Included On-Site Maintenance Cable & Internet Ready Electric Range Units at Bushnell Garden Apartments Unit (Bd/Ba) Ft 2 Rent 1 BR (1/1) 726ft 2 $600 $811 † 2 BR (2/1) 877ft 2 $700 $917 † 3 BR (3/1.5) 957ft 2 $775 $999 † FAQs for Bushnell Garden Apartments What property management company manges Bushnell Garden Apa || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Wai",
-      "$59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apa || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Sec || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 M || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ || 0 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar"
-    ],
-    "discovered_from": [
-      "curated_official_lead",
-      "lead"
-    ]
-  },
-  {
     "property_name": "Fruitland Acres LTD",
     "property_type": "USDA RD",
     "address": "303 Urick St",
@@ -3817,6 +3684,139 @@
     ]
   },
   {
+    "property_name": "Bushnell Garden Apartments",
+    "property_type": "Unknown",
+    "address": "200 Jumper St S",
+    "city": "Bushnell",
+    "county": "Sumter County",
+    "state": "FL",
+    "zip": "33513",
+    "phone": "(352) 793-4838",
+    "email": "LowIncomeSupport@gmail.com",
+    "website_url": "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
+    "management_company": "manges Bushnell Garden Apartments? Bushnell Garden Apartments is managed by Hale Management Group headquartered in Gainesville, Florida",
+    "management_company_phone": "",
+    "housing_authority_or_agency": "Sumter County Housing",
+    "source_urls": [
+      "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+      "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
+      "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
+      "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
+      "https://www.lowincomehousing.us/FL/bushnell.html"
+    ],
+    "source_quality": "government",
+    "bedroom_sizes": "3 Beds",
+    "unit_count": "",
+    "population_served": "senior",
+    "program_type": "Unknown affordable rental",
+    "rent_type": "fixed affordable rent",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
+    "income_limits_by_household_size": "NOT FOUND",
+    "AMI_brackets_supported": "NOT FOUND",
+    "application_fee": "NOT FOUND / NEEDS CALL",
+    "deposit": "NOT FOUND / NEEDS CALL",
+    "utilities_included": "NOT FOUND / NEEDS CALL",
+    "pet_policy": "Published pet-related language found; property verification recommended.",
+    "criminal_background_policy": "NOT FOUND / NEEDS CALL",
+    "credit_policy": "NOT FOUND / NEEDS CALL",
+    "eviction_policy": "NOT FOUND / NEEDS CALL",
+    "minimum_income_requirement": "NOT FOUND / NEEDS CALL",
+    "maximum_income_requirement": "NOT FOUND / NEEDS CALL",
+    "required_documents": "NOT FOUND / NEEDS CALL",
+    "application_method": "call office",
+    "application_url": "",
+    "waitlist_status": "unknown",
+    "vacancy_status": "unknown",
+    "last_updated_date_from_source": "",
+    "vacancy_likelihood_score": 1,
+    "vacancy_likelihood_reason": "Listing exists, but availability information is stale or unclear.",
+    "phone_verification_needed": true,
+    "notes": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider. | Bushnell Garden Apartments - 352-793-4838",
+    "confidence_score": 61,
+    "distance_miles_to_target_area": 5.7,
+    "evidence": [
+      {
+        "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name",
+          "city",
+          "phone"
+        ],
+        "snippet": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Curated official lead from planning-stage verified source."
+      },
+      {
+        "source_url": "https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name",
+          "city",
+          "phone"
+        ],
+        "snippet": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Curated official lead from planning-stage verified source."
+      },
+      {
+        "source_url": "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
+        "source_quality": "government",
+        "confirmed_fields": [
+          "property_name"
+        ],
+        "snippet": "Bushnell Garden Apartments - 352-793-4838",
+        "raw_html_path": "",
+        "screenshot_path": "",
+        "notes": "Snippet type: lead"
+      },
+      {
+        "source_url": "https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207",
+        "source_quality": "apartment_listing",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft || using Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up f || ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Ve || - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bushnell Garden Apartments is a one, two and three bedroom community for families. Located || Office Handicapped Accessible Carpet Patio Deck Or Balcony Refrigerator Trash Included On-Site Maintenance Cable & Internet Ready Electric Range Units at Bushnell Garden Apartments Unit (Bd/Ba) Ft 2 Rent 1 BR (1/1) 726ft 2 $600 $811 † 2 BR (2/1) 877ft 2 $700 $917 † 3 BR (3/1.5) 957ft 2 $775 $999 † FAQs for Bushnell Garden Apartments What property management company manges Bushnell Garden Apa || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Wai",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-bushnell-bushnell-garde-82844ca52775.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      },
+      {
+        "source_url": "https://www.lowincomehousing.us/FL/bushnell.html",
+        "source_quality": "nonprofit_directory",
+        "confirmed_fields": [
+          "address",
+          "phone",
+          "program_type",
+          "property_type",
+          "application_method"
+        ],
+        "snippet": "$59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apa || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Sec || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 M || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ || 0 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar",
+        "raw_html_path": "/workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-bushnell-html-02dfc24c5189.html",
+        "screenshot_path": "",
+        "notes": "Targeted enrichment search result."
+      }
+    ],
+    "evidence_snippets": [
+      "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
+      "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.",
+      "Bushnell Garden Apartments - 352-793-4838",
+      "ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft || using Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up f || ome \\ Florida \\ Sumter County \\ Bushnell \\ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Ve || - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bushnell Garden Apartments is a one, two and three bedroom community for families. Located || Office Handicapped Accessible Carpet Patio Deck Or Balcony Refrigerator Trash Included On-Site Maintenance Cable & Internet Ready Electric Range Units at Bushnell Garden Apartments Unit (Bd/Ba) Ft 2 Rent 1 BR (1/1) 726ft 2 $600 $811 † 2 BR (2/1) 877ft 2 $700 $917 † 3 BR (3/1.5) 957ft 2 $775 $999 † FAQs for Bushnell Garden Apartments What property management company manges Bushnell Garden Apa || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \\ Florida \\ S || in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Wai",
+      "$59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apa || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Sec || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 M || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ || 0 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar"
+    ],
+    "discovered_from": [
+      "curated_official_lead",
+      "lead"
+    ]
+  },
+  {
     "property_name": "Turtle Oaks Apartments",
     "property_type": "Unknown",
     "address": "2311 Griffin Rd Leesburg",
@@ -3841,8 +3841,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "income-based",
-    "exact_published_rent_by_bedroom": "$911; $45,059; $152,928",
-    "exact_published_rent_by_income_bracket": "NOT FOUND",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "Likely based on adjusted income; exact tenant rent requires application/property verification.",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -3864,7 +3864,7 @@
     "vacancy_likelihood_reason": "Listing exists, but availability information is stale or unclear.",
     "phone_verification_needed": true,
     "notes": "Turtle Oaks Apartments - Low Income Apartments in Leesburg, FL Home Add a Listing About Navigation Home Add a Listing About Quick Search: Select a State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Search Find An Apartment Turtle Oaks Apartments Leesbu | s 2311 Griffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC w | ffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with | ross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59 | deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59.6 Media household income of those living in this zip co | ments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-inco | the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Each program has its own eligibility requirements and application process, so it is important to do your research to find the program that is right for you. 2. Get all of your documentation in order: When you apply for low income housing, you will need to provide documentat | household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Q | me housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Eac | s, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low in | statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low income housing in Flo | Help PublicHousing.com users find out answers. We publish all Helpful information. If you know the apartment costs, let us know. Answer Are these apartments low income, sliding scale income based? Answer Do you know any waiting list details? Let us know.. Answer Friday, March 3, 2023 User Response: I been on the list for about two years now and because I donâ€™t have kids they seem to keep skipping over me, so hey, try, your luck. Are t | ome requirements: Your household income must be below 80% of the area median income (AMI). The AMI is updated annually by the Department of Housing and Urban Development (HUD) and varies by county. You must have a valid Social Security number or Individual Taxpayer Identification Number (ITIN). You must be a U.S. citizen or a legal immigrant. In addition to the income requirements, you may also need to meet other eligibility requirement | tion in order: When you apply for low income housing, you will need to provide documentation of your income, assets, and household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists fo | section 8, public housing, hud, income based",
-    "confidence_score": 12,
+    "confidence_score": 10,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -4118,8 +4118,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -4141,7 +4141,7 @@
     "vacancy_likelihood_reason": "Source states the waitlist is closed or no units are available.",
     "phone_verification_needed": true,
     "notes": "Rosemont Manor | Eustis",
-    "confidence_score": 94,
+    "confidence_score": 90,
     "distance_miles_to_target_area": null,
     "evidence": [
       {

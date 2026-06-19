@@ -12,6 +12,16 @@ RANGE_RE = re.compile(r"\$\s?\d[\d,]*(?:\.\d{2})?\s*(?:-|to)\s*\$\s?\d[\d,]*(?:\
 HOUSEHOLD_RE = re.compile(r"\b(?:1|2|3|4|5|6|7|8)[-\s]*person\b.*?\$\s?\d[\d,]*", re.I)
 RENT_KEYWORDS = (" rent", "rents", "price per month", "monthly", "floorplan", "1 br", "2 br", "3 br", "4 br", "bedroom")
 RENT_EXCLUDE_KEYWORDS = ("deposit", "application fee", "income limit", "ami", "median income", "household", "security deposit")
+NON_RENT_MONEY_CONTEXTS = (
+    "median apartment rental rate",
+    "median non-metropolitan income",
+    "median household income",
+    "population in zip code",
+    "income limits",
+    "state of florida median",
+    "household income",
+    "income requirements",
+)
 
 
 def load_properties() -> list[HousingProperty]:
@@ -46,8 +56,11 @@ def rent_related_snippets(property_record: HousingProperty) -> list[str]:
     results = []
     for snippet in evidence_snippets(property_record):
         lower = snippet.lower()
+        explicit_rent_context = any(
+            phrase in lower for phrase in ["price per month", "monthly rent", "call for rent", "call for rents", "contact for rent", "rent:"]
+        )
         if any(keyword in lower for keyword in RENT_KEYWORDS) and not (
-            any(bad in lower for bad in RENT_EXCLUDE_KEYWORDS) and "price per month" not in lower and "call for rent" not in lower
+            any(bad in lower for bad in RENT_EXCLUDE_KEYWORDS) and not explicit_rent_context
         ):
             results.append(snippet)
     return list(dict.fromkeys(results))
@@ -61,13 +74,24 @@ def extract_exact_rent_values(property_record: HousingProperty) -> tuple[list[st
         lower = snippet.lower()
         if "call for rent" in lower or "call for rents" in lower or "contact for rent" in lower:
             call_for_rent = True
+        if any(phrase in lower for phrase in NON_RENT_MONEY_CONTEXTS):
+            continue
+        explicit_context = any(
+            phrase in lower for phrase in ["price per month", "monthly rent", "call for rent", "call for rents", "floorplan", "rent:"]
+        ) or ("bedroom" in lower and "$" in snippet) or ("1 br" in lower and "$" in snippet) or ("2 br" in lower and "$" in snippet) or ("3 br" in lower and "$" in snippet) or ("4 br" in lower and "$" in snippet)
+        if not explicit_context:
+            continue
         for rent_range in RANGE_RE.findall(snippet):
             values.append(rent_range.replace(" to ", " - "))
         for raw in extract_money(snippet):
             amount = money_value(raw)
-            if 0 < amount < 10000:
+            if 0 < amount < 5000:
                 values.append(raw)
-    return list(dict.fromkeys(values)), call_for_rent
+    unique_values = list(dict.fromkeys(values))
+    range_values = [value for value in unique_values if " - " in value]
+    if range_values:
+        return range_values, call_for_rent
+    return unique_values, call_for_rent
 
 
 def infer_rent_type(property_record: HousingProperty, text: str) -> str:

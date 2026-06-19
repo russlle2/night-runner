@@ -26,7 +26,7 @@
     "population_served": "senior",
     "program_type": "Unknown affordable rental",
     "rent_type": "fixed affordable rent",
-    "exact_published_rent_by_bedroom": "$600; $811; $700; $917; $775; $999",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
     "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
@@ -49,7 +49,7 @@
     "vacancy_likelihood_reason": "Listing exists, but availability information is stale or unclear.",
     "phone_verification_needed": true,
     "notes": "Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider. | Bushnell Garden Apartments - 352-793-4838",
-    "confidence_score": 65,
+    "confidence_score": 61,
     "distance_miles_to_target_area": 5.7,
     "evidence": [
       {
@@ -230,8 +230,8 @@
     "population_served": "general low-income",
     "program_type": "Unknown affordable rental",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$945; $951; $1250; $1572; $1665",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -253,7 +253,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Sumter County rental assistance provider lead. | Misty Wood Apartments - 352-793-8211",
-    "confidence_score": 93,
+    "confidence_score": 89,
     "distance_miles_to_target_area": 5.7,
     "evidence": [
       {
@@ -777,8 +777,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -800,7 +800,7 @@
     "vacancy_likelihood_reason": "Source states the waitlist is closed or no units are available.",
     "phone_verification_needed": true,
     "notes": "Rosemont Manor | Eustis",
-    "confidence_score": 94,
+    "confidence_score": 90,
     "distance_miles_to_target_area": null,
     "evidence": [
       {
@@ -1429,7 +1429,7 @@
     "population_served": "family",
     "program_type": "Unknown",
     "rent_type": "unknown",
-    "exact_published_rent_by_bedroom": "$1,455 - $1,713",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
     "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
@@ -1452,7 +1452,7 @@
     "vacancy_likelihood_reason": "Source indicates units are available now.",
     "phone_verification_needed": true,
     "notes": "Carmendy Square Townhomes - Apartment Living in Lady Lake, FL Skip to main content We have an optimized web accessible version of this site available. Click here to view. Remove this option from view Carmendy Square Townhomes 352.309.1636 Chat Apply Menu Menu Tour Chat Visit Home Floor Plans FP Amenities Gallery Neighborhood Tour Self-guided Tour Virtual Tour Apply Residents Pay Rent Request Service Community App Leave a Review Contact Backup Title *Restrictions may apply Schedule a Tour Unique Layouts Select your floor plan Unrivaled Features Explore our amenities Elevated Lifestyle View our gallery Charming Living in the heart of Florida Spacious Town Homes with the Convenience of Apartmen | to view. Remove this option from view Carmendy Square Townhomes 352.309.1636 Chat Apply Menu Menu Tour Chat Visit Home Floor Plans FP Amenities Gallery Neighborhood Tour Self-guided Tour Virtual Tour Apply Residents Pay Rent Request Service Community App Leave a Review Contact Backup Title *Restrictions may apply Schedule a Tour Unique Layouts Select your floor plan Unrivaled Features Explore our amenities Elevated Lifestyle View our ga | re our amenities Elevated Lifestyle View our gallery Charming Living in the heart of Florida Spacious Town Homes with the Convenience of Apartment Living Carmendy Square Townhomes in Lady Lake, FL is a charming townhome rental community with convenient access to Highway 441, making your commute effortless. We are proudly located within the Lake County Public School District, with UF Health Leesburg Hospital and UF Health Spanish Plaines | ay 441, making your commute effortless. We are proudly located within the Lake County Public School District, with UF Health Leesburg Hospital and UF Health Spanish Plaines Hospital just a short drive from our homes for rent. As a resident, you'll be minutes from The Villages' Lake Sumter Landing Market Square and Spanish Springs Town Square, offering exclusive shopping, dining, and entertainment options. Enjoy local attractions like Ol | Square and Spanish Springs Town Square, offering exclusive shopping, dining, and entertainment options. Enjoy local attractions like Old Mill Playhouse and Spanish Springs Lanes Bowling Alley, just moments from your new rental home. The Neighborhood Situated just over 50 miles north of Orlando, our charming rental home community in Lady Lake is outside of the hustle and bustle of Orlando city life. Surrounded by 250 stunning lakes, the | s - Apartment Living in Lady Lake, FL Skip to main content We have an optimized web accessible version of this site available. Click here to view. Remove this option from view Carmendy Square Townhomes 352.309.1636 Chat Apply Menu Menu Tour Chat Visit Home Floor Plans FP Amenities Gallery Neighborhood Tour Self-guided Tour Virtual Tour Apply Residents Pay Rent Request Service Community App Leave a Review Contact Backup Title *Restrictio | ailable. Click here to view. Remove this option from view Carmendy Square Townhomes 352.309.1636 Chat Apply Menu Menu Tour Chat Visit Home Floor Plans FP Amenities Gallery Neighborhood Tour Self-guided Tour Virtual Tour Apply Residents Pay Rent Request Service Community App Leave a Review Contact Backup Title *Restrictions may apply Schedule a Tour Unique Layouts Select your floor plan Unrivaled Features Explore our amenities Elevated L | enu Menu Tour Chat Visit Home Floor Plans FP Amenities Gallery Neighborhood Tour Self-guided Tour Virtual Tour Apply Residents Pay Rent Request Service Community App Leave a Review Contact Backup Title *Restrictions may apply Schedule a Tour Unique Layouts Select your floor plan Unrivaled Features Explore our amenities Elevated Lifestyle View our gallery Charming Living in the heart of Florida Spacious Town Homes with the Convenience of",
-    "confidence_score": 27,
+    "confidence_score": 23,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -1617,8 +1617,8 @@
     "population_served": "general low-income",
     "program_type": "USDA RD 515",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -1640,7 +1640,7 @@
     "vacancy_likelihood_reason": "Source indicates units are available now.",
     "phone_verification_needed": true,
     "notes": "Listed on USDA Rural Development Lake County property list.",
-    "confidence_score": 72,
+    "confidence_score": 68,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -1720,8 +1720,8 @@
     "population_served": "general low-income",
     "program_type": "USDA RD 515",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -1743,7 +1743,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Listed on USDA Rural Development Lake County property list.",
-    "confidence_score": 72,
+    "confidence_score": 68,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -2239,8 +2239,8 @@
     "population_served": "senior",
     "program_type": "Unknown affordable rental",
     "rent_type": "income-based",
-    "exact_published_rent_by_bedroom": "$48,400; $88,300; $59,500",
-    "exact_published_rent_by_income_bracket": "NOT FOUND",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "Likely based on adjusted income; exact tenant rent requires application/property verification.",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -2262,7 +2262,7 @@
     "vacancy_likelihood_reason": "No reliable online vacancy evidence located; property verification is required.",
     "phone_verification_needed": true,
     "notes": "County multifamily inventory indicates family-focused property at same site as senior apartments. | Lake Panasoffkee Apartments - 352-793-2288",
-    "confidence_score": 87,
+    "confidence_score": 83,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -2504,8 +2504,8 @@
     "population_served": "disabled",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -2527,7 +2527,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Lakewood Villas | Leesburg",
-    "confidence_score": 94,
+    "confidence_score": 90,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -3086,8 +3086,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "income-based",
-    "exact_published_rent_by_bedroom": "$911; $45,059; $152,928",
-    "exact_published_rent_by_income_bracket": "NOT FOUND",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "Likely based on adjusted income; exact tenant rent requires application/property verification.",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -3109,7 +3109,7 @@
     "vacancy_likelihood_reason": "Listing exists, but availability information is stale or unclear.",
     "phone_verification_needed": true,
     "notes": "Turtle Oaks Apartments - Low Income Apartments in Leesburg, FL Home Add a Listing About Navigation Home Add a Listing About Quick Search: Select a State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Search Find An Apartment Turtle Oaks Apartments Leesbu | s 2311 Griffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC w | ffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with | ross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59 | deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59.6 Media household income of those living in this zip co | ments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-inco | the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Each program has its own eligibility requirements and application process, so it is important to do your research to find the program that is right for you. 2. Get all of your documentation in order: When you apply for low income housing, you will need to provide documentat | household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Q | me housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Eac | s, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low in | statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low income housing in Flo | Help PublicHousing.com users find out answers. We publish all Helpful information. If you know the apartment costs, let us know. Answer Are these apartments low income, sliding scale income based? Answer Do you know any waiting list details? Let us know.. Answer Friday, March 3, 2023 User Response: I been on the list for about two years now and because I donâ€™t have kids they seem to keep skipping over me, so hey, try, your luck. Are t | ome requirements: Your household income must be below 80% of the area median income (AMI). The AMI is updated annually by the Department of Housing and Urban Development (HUD) and varies by county. You must have a valid Social Security number or Individual Taxpayer Identification Number (ITIN). You must be a U.S. citizen or a legal immigrant. In addition to the income requirements, you may also need to meet other eligibility requirement | tion in order: When you apply for low income housing, you will need to provide documentation of your income, assets, and household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists fo | section 8, public housing, hud, income based",
-    "confidence_score": 12,
+    "confidence_score": 10,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
@@ -3853,8 +3853,8 @@
     "population_served": "senior",
     "program_type": "Unknown",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$1558; $1638; $18; $1857; $2362; $2849",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -3876,7 +3876,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Orangewood Villas | Umatilla",
-    "confidence_score": 64,
+    "confidence_score": 60,
     "distance_miles_to_target_area": null,
     "evidence": [
       {
@@ -4236,7 +4236,7 @@
     "population_served": "family",
     "program_type": "Unknown",
     "rent_type": "unknown",
-    "exact_published_rent_by_bedroom": "$1,000; $1,249; $99",
+    "exact_published_rent_by_bedroom": "$1,000; $1,249",
     "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
@@ -4612,8 +4612,8 @@
     "population_served": "general low-income",
     "program_type": "Unknown affordable rental",
     "rent_type": "max LIHTC rent",
-    "exact_published_rent_by_bedroom": "$945; $951; $1250; $1572; $1665",
-    "exact_published_rent_by_income_bracket": "Published amounts appear to be maximum restricted LIHTC rents; confirm actual tenant rent with property.",
+    "exact_published_rent_by_bedroom": "NOT FOUND",
+    "exact_published_rent_by_income_bracket": "NOT FOUND",
     "income_limits_by_household_size": "NOT FOUND",
     "AMI_brackets_supported": "NOT FOUND",
     "application_fee": "NOT FOUND / NEEDS CALL",
@@ -4635,7 +4635,7 @@
     "vacancy_likelihood_reason": "Source indicates the property is accepting applications or has an open waitlist.",
     "phone_verification_needed": true,
     "notes": "Listed by Sumter County as rental assistance provider and in county multifamily inventory. | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace | Wildwood | Wildwood Terrace - 352-748-0013",
-    "confidence_score": 71,
+    "confidence_score": 67,
     "distance_miles_to_target_area": 0.0,
     "evidence": [
       {
