@@ -84,14 +84,14 @@ def affordability_rank(property_record: dict) -> tuple:
 
 def infer_vacancy_from_text(text: str) -> tuple[int, str, str, str]:
     lower = (text or "").lower()
+    if any(phrase in lower for phrase in ["waitlist closed", "not accepting applications", "no availability"]):
+        return 0, "Source states the waitlist is closed or no units are available.", "closed", "no_vacancy"
     if any(phrase in lower for phrase in ["available now", "units available", "move in now", "now leasing"]):
         return 4, "Source indicates units are available now.", "open", "available_now"
     if any(phrase in lower for phrase in ["waitlist open", "accepting applications", "apply now", "open waiting list"]):
         return 3, "Source indicates the property is accepting applications or has an open waitlist.", "open", "waitlist_only"
     if any(phrase in lower for phrase in ["call for availability", "contact for availability", "check availability"]):
         return 2, "Property appears active but vacancy must be confirmed with the property.", "call_required", "call_required"
-    if any(phrase in lower for phrase in ["waitlist closed", "not accepting applications", "no availability"]):
-        return 0, "Source states the waitlist is closed or no units are available.", "closed", "no_vacancy"
     if any(phrase in lower for phrase in ["waitlist", "contact property", "availability unknown"]):
         return 1, "Listing exists, but availability information is stale or unclear.", "unknown", "unknown"
     return 2, "No reliable online vacancy evidence located; property verification is required.", "call_required", "call_required"
