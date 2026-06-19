@@ -1,0 +1,13 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+playwright
+rapidfuzz
+pydantic
+python-dotenv
+tenacity
+geopy
+tqdm
+pytest
+lxml

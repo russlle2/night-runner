@@ -1,0 +1,11 @@
+# Add one URL per line. Blank lines and comments are ignored.
+# Official sources are already built in; this file is for manual additions.
+https://www.hud.gov/states/florida
+https://rdmfhrentals.sc.egov.usda.gov/
+https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12
+https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12
+https://floridahousingsearch.org/
+https://sumtercountyfl.gov/87/Housing
+https://sumtercountyfl.gov/243/Rental-Assistance
+https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources
+https://lakecountyfl.gov/housing
