@@ -1,0 +1,11 @@
+url,title,snippet,discovery_method,query,city,county,source_quality,source_category
+https://www.hud.gov/states/florida,HUD Florida housing resources,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,hud
+https://rdmfhrentals.sc.egov.usda.gov/,USDA Rural Development MFH Rentals,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,usda
+https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12,USDA Lake County multifamily rentals,,official_seed,,Leesburg,Lake County,HUD/USDA/FHFC,usda
+https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12,USDA Sumter County multifamily rentals,,official_seed,,Wildwood,Sumter County,HUD/USDA/FHFC,usda
+https://floridahousingsearch.org/,Florida Housing Search,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,state_listing
+https://sumtercountyfl.gov/87/Housing,Sumter County Housing division,,official_seed,,Wildwood,Sumter County,government,county_housing
+https://sumtercountyfl.gov/243/Rental-Assistance,Sumter County rental assistance,,official_seed,,Wildwood,Sumter County,government,county_housing
+https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources,Sumter County rental assistance resources,,official_seed,,Wildwood,Sumter County,government,county_housing
+https://lakecountyfl.gov/housing,Lake County housing and community services,,official_seed,,Leesburg,Lake County,government,county_housing
+https://www.citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php,Citrus County Housing Choice Voucher Program,,official_seed,,Wildwood,Sumter County,housing_authority,housing_authority

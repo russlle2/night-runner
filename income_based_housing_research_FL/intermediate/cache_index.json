@@ -1,0 +1,72 @@
+[
+  {
+    "source_url": "https://www.hud.gov/states/florida",
+    "raw_path": "raw_html/www-hud-gov-d142b276ad40.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/www-hud-gov-d142b276ad40.png",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://rdmfhrentals.sc.egov.usda.gov/",
+    "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-91b6843f7bd7.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-91b6843f7bd7.png",
+    "content_type": "text/html;charset=utf-8",
+    "snippet_count": 7
+  },
+  {
+    "source_url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12",
+    "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-504876b55c23.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-504876b55c23.png",
+    "content_type": "text/html;charset=iso-8859-1",
+    "snippet_count": 171
+  },
+  {
+    "source_url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12",
+    "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-fec3e1f71684.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-fec3e1f71684.png",
+    "content_type": "text/html;charset=iso-8859-1",
+    "snippet_count": 51
+  },
+  {
+    "source_url": "https://floridahousingsearch.org/",
+    "raw_path": "raw_html/floridahousingsearch-org-9da5402e1cdb.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/floridahousingsearch-org-9da5402e1cdb.png",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 24
+  },
+  {
+    "source_url": "https://sumtercountyfl.gov/87/Housing",
+    "raw_path": "raw_html/sumtercountyfl-gov-c23c975e96f3.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/sumtercountyfl-gov-c23c975e96f3.png",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 7
+  },
+  {
+    "source_url": "https://sumtercountyfl.gov/243/Rental-Assistance",
+    "raw_path": "raw_html/sumtercountyfl-gov-be711e391ecf.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/sumtercountyfl-gov-be711e391ecf.png",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 7
+  },
+  {
+    "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+    "raw_path": "raw_html/www-sumtercountyfl-gov-560bb863f0b0.html",
+    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/www-sumtercountyfl-gov-560bb863f0b0.png",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://lakecountyfl.gov/housing",
+    "raw_path": "raw_html/lakecountyfl-gov-d6f7e8bbb763.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 1
+  },
+  {
+    "source_url": "https://www.citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php",
+    "raw_path": "raw_html/www-citruscounty-gov-33500c2a918d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 15
+  }
+]

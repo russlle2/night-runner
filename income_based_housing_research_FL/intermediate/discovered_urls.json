@@ -1,0 +1,112 @@
+[
+  {
+    "url": "https://www.hud.gov/states/florida",
+    "title": "HUD Florida housing resources",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Unknown",
+    "county": "Unknown",
+    "source_quality": "HUD/USDA/FHFC",
+    "source_category": "hud"
+  },
+  {
+    "url": "https://rdmfhrentals.sc.egov.usda.gov/",
+    "title": "USDA Rural Development MFH Rentals",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Unknown",
+    "county": "Unknown",
+    "source_quality": "HUD/USDA/FHFC",
+    "source_category": "usda"
+  },
+  {
+    "url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12",
+    "title": "USDA Lake County multifamily rentals",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Leesburg",
+    "county": "Lake County",
+    "source_quality": "HUD/USDA/FHFC",
+    "source_category": "usda"
+  },
+  {
+    "url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12",
+    "title": "USDA Sumter County multifamily rentals",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Wildwood",
+    "county": "Sumter County",
+    "source_quality": "HUD/USDA/FHFC",
+    "source_category": "usda"
+  },
+  {
+    "url": "https://floridahousingsearch.org/",
+    "title": "Florida Housing Search",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Unknown",
+    "county": "Unknown",
+    "source_quality": "HUD/USDA/FHFC",
+    "source_category": "state_listing"
+  },
+  {
+    "url": "https://sumtercountyfl.gov/87/Housing",
+    "title": "Sumter County Housing division",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Wildwood",
+    "county": "Sumter County",
+    "source_quality": "government",
+    "source_category": "county_housing"
+  },
+  {
+    "url": "https://sumtercountyfl.gov/243/Rental-Assistance",
+    "title": "Sumter County rental assistance",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Wildwood",
+    "county": "Sumter County",
+    "source_quality": "government",
+    "source_category": "county_housing"
+  },
+  {
+    "url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
+    "title": "Sumter County rental assistance resources",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Wildwood",
+    "county": "Sumter County",
+    "source_quality": "government",
+    "source_category": "county_housing"
+  },
+  {
+    "url": "https://lakecountyfl.gov/housing",
+    "title": "Lake County housing and community services",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Leesburg",
+    "county": "Lake County",
+    "source_quality": "government",
+    "source_category": "county_housing"
+  },
+  {
+    "url": "https://www.citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php",
+    "title": "Citrus County Housing Choice Voucher Program",
+    "snippet": "",
+    "discovery_method": "official_seed",
+    "query": "",
+    "city": "Wildwood",
+    "county": "Sumter County",
+    "source_quality": "housing_authority",
+    "source_category": "housing_authority"
+  }
+]

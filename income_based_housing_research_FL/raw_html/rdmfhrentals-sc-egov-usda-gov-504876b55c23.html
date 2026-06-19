@@ -1,0 +1,620 @@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://*; child-src 'none';">
+
+ <script type="text/javascript" >
+if(document.images) {
+  var aryImages = new Array(9);
+  aryImages[1] = new Image();
+  aryImages[1].src = "images/top_nav_home.gif";
+  aryImages[2] = new Image();
+  aryImages[2].src = "images/top_nav_about_mfh.gif";
+  aryImages[3] = new Image();
+  aryImages[3].src = "images/top_nav_help.gif";
+  aryImages[4] = new Image();
+  aryImages[4].src = "images/top_nav_contact_us.gif";
+  aryImages[5] = new Image();
+  aryImages[5].src = "images/r_nav_search_zipcode.gif";
+  aryImages[6] = new Image();
+  aryImages[6].src = "images/r_nav_search_property_name.gif";
+  aryImages[7] = new Image();
+  aryImages[7].src = "images/r_nav_search_mgmt_agency.gif";
+  aryImages[8] = new Image();
+  aryImages[8].src = "images/r_nav_search_town.gif";
+
+  var overImages = new Array(9);
+  overImages[1] = new Image();
+  overImages[1].src = "images/top_nav_home_over.gif";
+  overImages[2] = new Image();
+  overImages[2].src = "images/top_nav_about_mfh_over.gif";
+  overImages[3] = new Image();
+  overImages[3].src = "images/top_nav_help_over.gif";
+  overImages[4] = new Image();
+  overImages[4].src = "images/top_nav_contact_us_over.gif";
+  overImages[5] = new Image();
+  overImages[5].src = "images/r_nav_search_zipcode_over.gif";
+  overImages[6] = new Image();
+  overImages[6].src = "images/r_nav_search_property_name_over.gif";
+  overImages[7] = new Image();
+  overImages[7].src = "images/r_nav_search_mgmt_agency_over.gif";
+  overImages[8] = new Image();
+  overImages[8].src = "images/r_nav_search_town_over.gif";
+}
+function MM_swapImgRestore(from, to)
+{
+if(document.images) {
+    document.images[from].src = aryImages[to].src;
+}
+}
+function MM_swapImage(from, to)
+{
+if(document.images) {
+    document.images[from].src = overImages[to].src;
+}
+}
+
+function openExternalWindow(mypage, myname, w, h, scroll)
+{
+var winl = (screen.width - w) / 2;
+var wint = (screen.height - h) / 2;
+winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'
+win = window.open(mypage, myname, winprops)
+if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
+}
+</script>
+
+ <html>
+   <head>
+     <title>MFH Rental ( USDA RD ) Property for State & County
+     </title>
+     <script type="text/javascript">
+       function btnClick(me) {
+         window.location = "propdispservlet?proj=" + me;
+       }
+       </script>
+       <style id="antiClickjack">body{display:none !important;}</style>
+
+		<script type="text/javascript">
+	   		if (self === top) {
+	       		var antiClickjack = document.getElementById("antiClickjack");
+	       		antiClickjack.parentNode.removeChild(antiClickjack);
+	   		} else {
+	       		top.location = self.location;
+	   		}
+		</script>
+       
+       <link href="styles/usdastyle.css" type="text/css" rel="stylesheet"/>
+     </head>
+     <body bgcolor="#333366">
+       <table width="767" border="0" cellspacing="0" cellpadding="0" align="center">
+         <tr><td colspan="2" bgcolor="#333366"><img src="images/spacer.gif" alt=" " height="2" /></td></tr>
+         <!-- Include header-->
+         
+  <tr>
+    <td colspan="2">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="767" bgcolor="#FFFFFF">
+        <tr>
+	  <td valign="top" height="64" bgcolor="#333366" width="767">
+            <map name="FPMap0"><area alt="USDA logo" coords="13, 14, 74, 53" shape="rect" href="http://www.usda.gov/"></map>
+	    <img border="0" src="images/masthead_rd_prop.gif" width="767" height="64" usemap="#FPMap0" alt="Rural Development Multi-Family Housing Rentals"></td>
+	</tr>
+	<tr>
+	  <td width="767"><img src="images/picture_banner.gif" alt="Random images that represent USDA Rental Properties" width="767" height="44" border="0"></td>
+        </tr>
+        <tr>
+        </tr>
+	<td bgcolor="#FFFFFF" width="767" height="7" align="center" valign="top">
+          <img src="images/spacer.gif" alt=" " height="7" /></td>
+        </tr>
+        <tr>
+          <td>
+            <!-- Begin Top Navigation Table -->
+            <table width="767" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse">
+              <tr valign="top">
+                <td valign="top">
+                  <img border="0" src="images/top_nav_left_spacer.gif" width="449" height="21" alt=" "/>
+                </td>
+                <td valign="top"><a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/select_state.jsp?home=YES' onmouseout="MM_swapImgRestore('HOME', 1)" onmouseover="MM_swapImage('HOME', 1);"><img name="HOME" border="0" src="images/top_nav_home.gif" width="54" height="21" id="HOME" alt="Home" title="Home "/></a><img border="0" src="images/top_nav_spacer.gif" width="1" height="21" alt=" " /></td>
+                <td valign="top"><a href="about_mfh.jsp" onmouseout="MM_swapImgRestore('RURAL', 2)" onmouseover="MM_swapImage('RURAL', 2);"><img name="RURAL" border="0" src="images/top_nav_about_mfh.gif" width="130" height="21" id="RURAL" alt="About MFH Rentals" title="About MFH Rentals"/></a><img border="0" src="images/top_nav_spacer.gif" width="1" height="21" alt=" " /></td>
+                <td valign="top"><a href="help.jsp" onmouseout="MM_swapImgRestore('HELP', 3)" onmouseover="MM_swapImage('HELP', 3)"><img border="0" src="images/top_nav_help.gif" width="47" height="21" name="HELP" alt="Help" title="Help "/></a><img border="0" src="images/top_nav_spacer.gif" width="1" height="21" alt=" " /></td>
+                <td valign="top"><a href="contact_us.jsp" onmouseout="MM_swapImgRestore('CONTACT_US', 4)" onmouseover="MM_swapImage('CONTACT_US', 4)"><img border="0" src="images/top_nav_contact_us.gif" width="84" height="21" name="CONTACT_US" alt="Contact Us" title="Contact Us "/></a></td>
+           <!--<td valign="top"><a href="mailto:MFH.rentals@stl.usda.gov?subject=MFH Help" onmouseout="MM_swapImgRestore('CONTACT_US', 4)" onmouseover="MM_swapImage('CONTACT_US', 4)"><img border="0" src="images/top_nav_contact_us.gif" width="85" height="21" name="CONTACT_US" alt="Contact Us" title="Contact Us "/></a></td>-->
+           <!--<td valign="top"><a href="http://www.usda.gov/wps/portal/!ut/p/_s.7_0_A/7_0_1OB?navtype=MA&navid=CONTACT_US" onmouseout="MM_swapImgRestore('CONTACT_US', 4)" onmouseover="MM_swapImage('CONTACT_US', 4)"><img border="0" src="images/top_nav_contact_us.gif" width="85" height="21" name="CONTACT_US" alt="Contact Us" title="Contact Us "/></a></td>-->
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+    </td>
+   </tr>
+
+         <tr>
+           <td colspan=2 bgcolor="#FFFFFF"><img src="images/spacer.gif" alt=" " height="7" /></td>
+         </tr>
+         <tr>
+           <td width="767" bgcolor="#FFFFFF">
+             <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" width="767">
+               <tr>
+                 <td width="767" height="29" valign="top">
+                   <table border="0" cellpadding="0" cellspacing="0" width="767">
+                     <tr>
+                       <td width="191" valign="top" rowspan="2">
+                         <table border="0" cellpadding="0" cellspacing="0" width="191">
+                           <tr>
+                             <td><img src="images/spacer.gif" alt=" " width="10" /></td>
+                             <!-- Include Search box -->
+                                                   <td width="170">
+                        <table cellSpacing="0" cellPadding="0" width="171" border="0">
+                          <tr>
+                            <td valign="bottom" bgcolor="#BDC5D1">
+                              <img border="0" src="images/rc_nav_search_head.gif" width="171" alt="Search by"></td>
+                          </tr>
+                          <tr>
+                            <td height="8" ><img border="0" src="images/r_c_blank.gif" width="171" height="8" alt=" "></td>
+                          </tr>
+                          <tr>
+                            <td><a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/mfh_state_text?srch=Y'><img border="0" src="images/r_nav_search_town.gif" width="171" height="22" id="img8" name="TOWN" onmouseout="MM_swapImgRestore('TOWN', 8)" onmouseover="MM_swapImage('TOWN', 8);" alt="Town"></td>
+                          </tr>
+                          <tr>
+                            <td><a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/searchbyzip.jsp?zp=00000&pt=XX&sz=9'><img border="0" src="images/r_nav_search_zipcode.gif" width="171" height="22" id="img5" name="ZIP" onmouseout="MM_swapImgRestore('ZIP', 5)" onmouseover="MM_swapImage('ZIP', 5);" alt="Zip code"></td>
+                          </tr>
+                          <tr>
+                            <td><a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/searchbyprop.jsp?pr=XX&pt=XX&sz=9'><img border="0" src="images/r_nav_search_property_name.gif" width="171" height="22" id="img6" name="PROP" onmouseout="MM_swapImgRestore('PROP', 6)" onmouseover="MM_swapImage('PROP', 6);" alt="Property Name"></td>
+                          </tr>
+                          <tr>
+                            <td><a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/searchbyma.jsp?mg=XX&pt=XX&sz=9'><img border="0" src="images/r_nav_search_mgmt_agency.gif" width="171" height="32" id="img7" name="MGMT" onmouseout="MM_swapImgRestore('MGMT', 7)" onmouseover="MM_swapImage('MGMT', 7);" alt="Management Agency Name"></td>
+                          </tr>
+                          <tr>
+                            <td height="8" ><img border="0" src="images/r_c_blank.gif" width="171" height="8" alt=" "></td>
+                          </tr>
+                          <!-- Leftnav Footer -->
+                          <tr>
+                            <td vAlign=top><IMG height=18 src="images/r_c_nav_bottom.gif" width=171 alt=" "></td>
+                          </tr>
+                        </table>
+                      </td>
+
+                             <td><img src="images/spacer.gif" alt=" " width="10" /></td>
+                           </tr>
+                         </table>
+                       </td>
+                     </tr>
+                     <tr>
+                       <td width="576" valign="top">
+                         <table border="0" cellpadding="0" cellspacing="0" width="576" >
+                           <tr valign="top" class="Breadcrumhere">
+                             <td colspan="2" width="566">You are here:
+                               <a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/select_state.jsp?home=YES' title="Home">Home</a> /
+                               
+                               <a href="select_state.jsp" title="Select State">Select State</a> /
+                               <a href="null" title="Select County">Select County</a> /
+                               
+                               Properties</td>
+                             </tr>
+                             <tr valign="top">
+                               <td colspan="2" width="566">
+                                 <img src="images/content_mfh_head.gif" valign="bottom" width="576" height="23" alt="Multi-Family Housing Rentals" title="Multi-Family Housing Rentals">
+                                 </td>
+                               </tr>
+                             </table>
+                             <br>
+                               
+                               <table border="0" cellpadding="0" cellspacing="0" align=left width="566" bgcolor=#FFFFFF>
+                                 <TR vAlign=top>
+                                   <td><img src="images/spacer.gif" alt=" " width="5" /></td>
+                                   <TD class = "BodyText">
+                                     <TABLE border=1 cellpadding="0" cellspacing="0"width="561" class = "BodyText" bgcolor="#DBE4ED">
+                                       
+                                         <TH id=NameCity vAlign=top scope=col>
+                                           <tr><td class = "BodyText" colspan="2" align="left" bgcolor=#838594><font color="#FFFFFF">
+                                             <b>Rental Properties Located in - </b>
+                                             
+                                               Lake                         County, Florida
+                                             
+                                             <br>
+                                               
+                                             </font></td></tr>
+                                             <tr>
+                                               <!-- TD width="15%"></TD -->
+                                               <TD class = "BodyText" width="55%"><b>Name</b></td>
+                                               <td class = "BodyText" width="30%"><b>Town</b></td>
+                                             </tr>
+                                           </TH>
+                                           
+                                           <tbody>
+                                             
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7557'>Clermont Sands</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Clermont</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7538'>Lakeview Villas LTD</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Clermont</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=21180'>Sunny Hill Apts.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Clermont</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=24271'>Woodcliff Apts.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Clermont</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=25019'>Austin Commons</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=23987'>Colony Court</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7576'>Eustis Homes LTD</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7555'>Eustis Sands Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7554'>Foxwood Apts.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7547'>Pendry Villas</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=24016'>Rosemont Manor</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7573'>Tall Pines Villas</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Eustis</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7569'>Fruitland Acres LTD</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Fruitland Park</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7536'>Mirror Lake Manor</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Fruitland Park   Dr.</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=24015'>Greenleaf Village</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Groveland</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7560'>Sun Village, Ltd.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Groveland</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7561'>Lake North Apts II</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Lady Lake</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7552'>Lake North Apts LTD</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Lady Lake</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7570'>Lakewood Villas</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Lady Lake</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7567'>Lakewood Villas</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Leesburg</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7544'>Montclair Village</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Leesburg</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7574'>Palm Brook Apts LTD</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Leesburg</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7539'>Pepper Tree Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Leesburg</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7543'>Pepper Tree Apts II</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Leesburg</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7563'>The Ridge At Mount Dora Apts.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Mount Dora</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7542'>Villas Of Mt. Dora</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Mount Dora</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=24471'>Colonial Pines Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Tavares</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7571'>Colony West Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Tavares</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7568'>Lakebreeze Apts.</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Tavares</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7575'>Sierra Village Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Tavares</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=7553'>East Lake Apts</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Umatilla</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=23986'>Orangewood Villas</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Umatilla</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               
+                                                 <tr>
+                                                   
+                                                   <td class = "BodyText">&nbsp<a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/propdispservlet?st=12&cnty=69&proj=23284'>Pearl Lane</a></td>
+                                                   
+                                                   
+                                                   <td class = "BodyText">Umatilla</td>
+                                                   
+                                                 </tr>
+                                                 
+                                               </tbody>
+                                             </TABLE>
+                                           </center>
+                                         </td>
+                                       </tr>
+                                     </table>
+                                   </td>
+                                 </tr>
+                               </table>
+                             </td>
+                           </tr>
+                         </table>
+                       </td>
+                     </tr>
+                     <tr class = "BodyText" bgcolor="#FFFFFF">
+                       <td colspan=2 align="right">
+                         <br><br>
+                           &nbsp;&nbsp;&nbsp;&nbsp;
+                         </td>
+                       </tr>
+                       <!-- Include Footnote-->
+                       	<tr>
+          <td>
+            <table class="footertable" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="767">
+              <tr class="FooterText" >
+                <td width="20" height="24" valign="bottom"><img border=0 src="images/footer_corner_left.gif" width="24" height="22" alt=" "></td>
+		<td width="747" height="24" align="left" >
+                  <a href='https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/select_state.jsp?home=YES' title="MFH Rentals Home"><font color="000099">MFH Rentals Home </font></a>|
+                  <a href="http://www.usda.gov/" title="USDA Website"><font color="000099">USDA.gov </font></a>|
+                  <a href="https://www.rd.usda.gov/" title="Rural Development"><font color="000099">Rural Development </font></a> &nbsp;<br>
+                  <a href="https://www.usda.gov/accessibility-statement" title="Accessibility Statement"><font color="000099">Accessibility Statement</font></a> |
+		  <a href="https://www.usda.gov/privacy-policy" title="Privacy Policy"><font color="000099">Privacy Policy</font></a> |
+		  <a href="https://www.usda.gov/non-discrimination-statement" title="Non-Discrimination Statement"><font color="000099">Non-Discrimination Statement</font></a>
+                </td>
+              </tr>
+	      <tr>
+		<td height="50" colspan="2" class="BodyTextBlue" bgcolor="#333366">&nbsp;</td>
+              </tr>
+            </table>
+         </td>
+      </tr>
+
+                     </table>
+                     <script type="text/javascript" >
+                       aryImages[1].src = "images/top_nav_home.gif";
+                       aryImages[2].src = "images/top_nav_about_mfh.gif";
+                       aryImages[3].src = "images/top_nav_help.gif";
+                       aryImages[4].src = "images/top_nav_contact_us.gif";
+                       overImages[1].src = "images/top_nav_home_over.gif";
+                       overImages[2].src = "images/top_nav_about_mfh_over.gif";
+                       overImages[3].src = "images/top_nav_help_over.gif";
+                       overImages[4].src = "images/top_nav_contact_us_over.gif";
+                       document.images["HOME"].src = aryImages[1].src;
+                       document.images["RURAL"].src = aryImages[2].src;
+                       document.images["HELP"].src = aryImages[3].src;
+                       document.images["CONTACT_US"].src = aryImages[4].src;
+                       </script>
+                       </body>
+                     </html>
+                     

@@ -292,7 +292,7 @@ def main() -> None:
             ["vacancy_likelihood_score", "confidence_score"], ascending=[False, False]
         ).to_excel(writer, index=False, sheet_name="Highest Vacancy Likelihood")
         df[df["rent_type"].isin(["income-based", "max LIHTC rent", "fixed affordable rent"])].to_excel(
-            writer, index=False, sheet_name="Lowest Rent / Income-Based"
+            writer, index=False, sheet_name="Lowest Rent - Income-Based"
         )
         df[df["phone_verification_needed"] == True].to_excel(writer, index=False, sheet_name="Call Required")  # noqa: E712
         df[df["source_quality"].isin(["official_property_site", "government", "housing_authority", "HUD/USDA/FHFC"])].to_excel(

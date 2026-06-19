@@ -6,6 +6,11 @@ from typing import Any
 from rapidfuzz import fuzz
 
 
+def is_placeholder_value(value: str) -> bool:
+    normalized = (value or "").strip().lower()
+    return normalized in {"", "unknown", "not found", "not found / needs call", "needs call"}
+
+
 def normalize_phone(phone: str) -> str:
     digits = re.sub(r"\D", "", phone or "")
     if len(digits) == 11 and digits.startswith("1"):
@@ -43,13 +48,17 @@ def normalize_name(name: str) -> str:
 
 
 def likely_same_property(left: dict[str, Any], right: dict[str, Any]) -> bool:
-    left_address = normalize_address(left.get("address", ""))
-    right_address = normalize_address(right.get("address", ""))
+    left_raw_address = left.get("address", "")
+    right_raw_address = right.get("address", "")
+    left_address = "" if is_placeholder_value(left_raw_address) else normalize_address(left_raw_address)
+    right_address = "" if is_placeholder_value(right_raw_address) else normalize_address(right_raw_address)
     if left_address and right_address and left_address == right_address:
         return True
 
-    left_phone = normalize_phone(left.get("phone", ""))
-    right_phone = normalize_phone(right.get("phone", ""))
+    left_raw_phone = left.get("phone", "")
+    right_raw_phone = right.get("phone", "")
+    left_phone = "" if is_placeholder_value(left_raw_phone) else normalize_phone(left_raw_phone)
+    right_phone = "" if is_placeholder_value(right_raw_phone) else normalize_phone(right_raw_phone)
     if left_phone and right_phone and left_phone == right_phone:
         left_name = normalize_name(left.get("property_name", ""))
         right_name = normalize_name(right.get("property_name", ""))
