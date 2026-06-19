@@ -10,6 +10,8 @@ from utils.text_utils import extract_ami, extract_money
 
 RANGE_RE = re.compile(r"\$\s?\d[\d,]*(?:\.\d{2})?\s*(?:-|to)\s*\$\s?\d[\d,]*(?:\.\d{2})?", re.I)
 HOUSEHOLD_RE = re.compile(r"\b(?:1|2|3|4|5|6|7|8)[-\s]*person\b.*?\$\s?\d[\d,]*", re.I)
+RENT_KEYWORDS = (" rent", "rents", "price per month", "monthly", "floorplan", "1 br", "2 br", "3 br", "4 br", "bedroom")
+RENT_EXCLUDE_KEYWORDS = ("deposit", "application fee", "income limit", "ami", "median income", "household", "security deposit")
 
 
 def load_properties() -> list[HousingProperty]:
@@ -25,6 +27,47 @@ def combined_text(property_record: HousingProperty) -> str:
     parts = [property_record.notes, property_record.program_type]
     parts.extend(property_record.evidence_snippets)
     return " || ".join(part for part in parts if part)
+
+
+def money_value(raw: str) -> float:
+    try:
+        return float(raw.replace("$", "").replace(",", "").strip())
+    except ValueError:
+        return 0.0
+
+
+def evidence_snippets(property_record: HousingProperty) -> list[str]:
+    snippets = [property_record.notes]
+    snippets.extend(property_record.evidence_snippets)
+    return [snippet for snippet in snippets if snippet]
+
+
+def rent_related_snippets(property_record: HousingProperty) -> list[str]:
+    results = []
+    for snippet in evidence_snippets(property_record):
+        lower = snippet.lower()
+        if any(keyword in lower for keyword in RENT_KEYWORDS) and not (
+            any(bad in lower for bad in RENT_EXCLUDE_KEYWORDS) and "price per month" not in lower and "call for rent" not in lower
+        ):
+            results.append(snippet)
+    return list(dict.fromkeys(results))
+
+
+def extract_exact_rent_values(property_record: HousingProperty) -> tuple[list[str], bool]:
+    snippets = rent_related_snippets(property_record)
+    call_for_rent = False
+    values: list[str] = []
+    for snippet in snippets:
+        lower = snippet.lower()
+        if "call for rent" in lower or "call for rents" in lower or "contact for rent" in lower:
+            call_for_rent = True
+        for rent_range in RANGE_RE.findall(snippet):
+            values.append(rent_range.replace(" to ", " - "))
+        for raw in extract_money(snippet):
+            amount = money_value(raw)
+            if 0 < amount < 10000:
+                values.append(raw)
+    return list(dict.fromkeys(values)), call_for_rent
 
 
 def infer_rent_type(property_record: HousingProperty, text: str) -> str:
@@ -48,24 +91,18 @@ def main() -> None:
     properties = load_properties()
     for property_record in properties:
         text = combined_text(property_record)
-        money_values = extract_money(text)
-        ranges = RANGE_RE.findall(text)
         ami_values = extract_ami(text)
         household_limits = HOUSEHOLD_RE.findall(text)
         lower = text.lower()
+        rent_values, call_for_rent = extract_exact_rent_values(property_record)
 
         property_record.rent_type = infer_rent_type(property_record, text)
-        if ranges:
+        if rent_values:
             property_record.exact_published_rent_by_bedroom = choose_preferred_value(
                 property_record.exact_published_rent_by_bedroom,
-                "; ".join(dict.fromkeys(ranges)),
+                "; ".join(rent_values[:6]),
             )
-        elif money_values:
-            property_record.exact_published_rent_by_bedroom = choose_preferred_value(
-                property_record.exact_published_rent_by_bedroom,
-                "; ".join(dict.fromkeys(money_values[:6])),
-            )
-        elif "call for rent" in lower or "contact for rent" in lower:
+        elif call_for_rent:
             property_record.exact_published_rent_by_bedroom = "NOT FOUND"
             property_record.phone_verification_needed = True
 

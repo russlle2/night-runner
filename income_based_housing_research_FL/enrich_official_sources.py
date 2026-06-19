@@ -9,7 +9,7 @@ from models import HousingProperty
 from search_sources import infer_source_quality_from_url
 from utils.evidence_utils import add_evidence
 from utils.http_utils import call_serpapi_search, call_tavily_search, can_fetch_url, fetch_url
-from utils.io_utils import append_log, ensure_directories, read_json, slugify, write_json
+from utils.io_utils import append_log, ensure_directories, read_json, sanitize_html_content, slugify, write_json
 from utils.normalization_utils import choose_preferred_value
 from utils.text_utils import (
     extract_addresses,
@@ -159,7 +159,7 @@ def preferred_phone(phones: list[str]) -> str:
         if len(digits) == 11 and digits.startswith("1"):
             digits = digits[1:]
         if len(digits) == 10 and digits[:3] not in TOLL_FREE_PREFIXES:
-            return phone
+            return f"({digits[:3]}) {digits[3:6]}-{digits[6:]}"
     return ""
 
 
@@ -175,13 +175,16 @@ def preferred_address(addresses: list[str]) -> str:
 
 
 def property_context_text(property_record: HousingProperty, text: str) -> str:
+    exact_snippets = snippets_with_keywords(text, [property_record.property_name], window=140)
+    if exact_snippets:
+        return " || ".join(list(dict.fromkeys(exact_snippets[:3])))
     terms = [property_record.property_name]
     tokens = significant_name_tokens(property_record.property_name)
     if len(tokens) >= 2:
         terms.append(" ".join(tokens[:2]))
     snippets = []
     for term in terms:
-        snippets.extend(snippets_with_keywords(text, [term], window=240))
+        snippets.extend(snippets_with_keywords(text, [term], window=160))
     unique = list(dict.fromkeys(snippets))
     return " || ".join(unique[:6]) if unique else text
 
@@ -267,7 +270,7 @@ def main() -> None:
                 continue
             raw_path = Path.cwd() / cache_name_for_url(url)
             raw_path.parent.mkdir(parents=True, exist_ok=True)
-            raw_path.write_text(response.text, encoding="utf-8", errors="ignore")
+            raw_path.write_text(sanitize_html_content(response.text), encoding="utf-8", errors="ignore")
             if ".gov" in url or any(token in url.lower() for token in ["apartments", "rentcafe", "zillow", "affordablehousing"]):
                 property_record.website_url = choose_preferred_value(property_record.website_url, url)
             enrich_from_text(property_record, text, url, source_quality, str(raw_path))

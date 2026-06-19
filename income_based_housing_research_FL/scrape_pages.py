@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 from config import DISCOVERED_URLS_CSV, EXTRACTED_SNIPPETS_CSV, INTERMEDIATE_DIR, MAX_PLAYWRIGHT_SCREENSHOTS
 from models import SnippetRecord
 from utils.http_utils import can_fetch_url, fetch_url
-from utils.io_utils import append_log, ensure_directories, read_csv, slugify, write_csv, write_json
+from utils.io_utils import append_log, ensure_directories, read_csv, sanitize_html_content, slugify, write_csv, write_json
 from utils.text_utils import (
     extract_addresses,
     extract_dates,
@@ -240,7 +240,7 @@ def main() -> None:
             (Path.cwd() / absolute_raw_path).write_bytes(response.content)
             html = ""
         else:
-            html = response.text
+            html = sanitize_html_content(response.text)
             (Path.cwd() / absolute_raw_path).write_text(html, encoding="utf-8", errors="ignore")
 
         screenshot_ref = ""

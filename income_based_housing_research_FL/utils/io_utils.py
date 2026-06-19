@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import csv
 import json
+import re
 from pathlib import Path
 from typing import Any
 
@@ -64,4 +65,14 @@ def append_log(message: str) -> None:
     PIPELINE_LOG.parent.mkdir(parents=True, exist_ok=True)
     with PIPELINE_LOG.open("a", encoding="utf-8") as handle:
         handle.write(message.rstrip() + "\n")
+
+
+def sanitize_html_content(text: str) -> str:
+    patterns = [
+        re.compile(r"pk\.[A-Za-z0-9._-]{20,}"),
+    ]
+    sanitized = text
+    for pattern in patterns:
+        sanitized = pattern.sub("[REDACTED_TOKEN]", sanitized)
+    return sanitized
 

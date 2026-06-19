@@ -1,11 +1,3220 @@
 url,title,snippet,discovery_method,query,city,county,source_quality,source_category
-https://www.hud.gov/states/florida,HUD Florida housing resources,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,hud
-https://rdmfhrentals.sc.egov.usda.gov/,USDA Rural Development MFH Rentals,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,usda
+https://hud.gov/states/florida,HUD Florida housing resources,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,hud
+https://rdmfhrentals.sc.egov.usda.gov,USDA Rural Development MFH Rentals,"|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  --- 
+| |  |  |  |  |  |  |  |  |  |  |  |  ---  ---  ---  ---  ---  |  | |  |  | Search by | |  | | Town | | Zip code | | Property Name | | Management Agency Name | |  | |  | |  | | |  |  |  |  |  ---  --- | | You are here: Home / Select State | | | | | Multi-Family Housing Rentals | | | | |  | Select a state on the map below to locate properties for rent. | Text Version |  |  |  |  |  |  ---  |  | | | |  | Click on a state | | |
+
+|  |  |  |  |  |  |  |  |  |  |  |
+ ---  ---  ---  ---  --- 
+|  | |  |  | Search by | |  | | Town | | Zip code | | Property Name | | Management Agency Name | |  | |  | |  |
+
+ 
+
+|  | [...] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+ ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  --- |
+| |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  ---  | |  |  |  |  |  |  |  |  |  |  |  |  ---  ---  ---  ---  ---  |  | |  |  | Search by | |  | | Town | | Zip code | | Property Name | | Management Agency Name | |  | |  | |  | | |  |  |  |  |  ---  --- | | You are here: Home / Select State | | | | | Multi-Family Housing Rentals | | | | |  | Select a state on the map below to locate properties for rent. | Text Version |  |  |  |  |  |  ---  |  | | | |  | Click on a state | | | | [...] |  |  |
+ --- |
+|  | |
+| |  |  | Rural Development Multi-Family Housing Rentals | | Random images that represent USDA Rental Properties | |   | | |
+| |  |  |  |  |  |  ---  ---  |  | Home | About MFH Rentals | Help | Contact Us | |
+
+ 
+
+|  |
+
+| Rural Development Multi-Family Housing Rentals |
+| Random images that represent USDA Rental Properties |
+|
+  |
+
+Rural Development Multi-Family Housing Rentals
+Random images that represent USDA Rental Properties
+ 
+
+|  |  |  |  |  |
+ ---  --- 
+|  | Home | About MFH Rentals | Help | Contact Us |
+
+ 
+Home
+ 
+About MFH Rentals
+ 
+Help
+ 
+Contact Us",official_seed;tavily,,Unknown,Unknown,HUD/USDA/FHFC,usda
 https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12,USDA Lake County multifamily rentals,,official_seed,,Leesburg,Lake County,HUD/USDA/FHFC,usda
 https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12,USDA Sumter County multifamily rentals,,official_seed,,Wildwood,Sumter County,HUD/USDA/FHFC,usda
-https://floridahousingsearch.org/,Florida Housing Search,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,state_listing
-https://sumtercountyfl.gov/87/Housing,Sumter County Housing division,,official_seed,,Wildwood,Sumter County,government,county_housing
-https://sumtercountyfl.gov/243/Rental-Assistance,Sumter County rental assistance,,official_seed,,Wildwood,Sumter County,government,county_housing
-https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources,Sumter County rental assistance resources,,official_seed,,Wildwood,Sumter County,government,county_housing
-https://lakecountyfl.gov/housing,Lake County housing and community services,,official_seed,,Leesburg,Lake County,government,county_housing
-https://www.citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php,Citrus County Housing Choice Voucher Program,,official_seed,,Wildwood,Sumter County,housing_authority,housing_authority
+https://floridahousingsearch.org,Florida Housing Search,,official_seed,,Unknown,Unknown,HUD/USDA/FHFC,state_listing
+https://sumtercountyfl.gov/87/Housing,"Housing | Sumter County, FL - Official Website","## Mission
+
+Provide safe, decent, and affordable housing for income-eligible residents of Sumter County. The Division encourages homeownership, helps to enhance residential neighborhoods, and assists with creating diverse, affordable housing opportunities. Housing assistance can improve quality of life, strengthen families, and promote economic growth. Access to quality affordable housing is a crucial aspect of maintaining a sustainable community.
+
+### Contact Us
+
+### Denna Lafferty
+
+Housing Coordinator
+
+404 East Anderson Ave  
+Bushnell, FL 33513
+
+Phone: 352-689-4400  
+Fax: 352-689-4401  
+Email Denna Lafferty
+
+### Hours
+
+Monday - Friday  
+7:30 a.m. - 4:00 p.m.
+
+## Loading [...] Fair Housing Pamphlet
+
+It is the policy of Sumter County, in keeping with the laws of the United States of America and the spirit of the Constitution of the State of Florida, to promote through fair, orderly and lawful procedure the opportunity for each person so desiring to obtain housing of such person's choice in this county, without regard to race, color, ancestry, pregnancy, national origin, religion, sex, marital status, familial status, handicap, or age, and, to that end, to prohibit discrimination in housing by any person. For more information on Fair Housing contact Denna Lafferty, Housing Coordinator.
+
+## Mission [...] ### 
+
+Create a Website Account - Manage notification subscriptions, save form progress and more.   
+
+Home page
+Search
+
+# Housing
+
+## Types of Assistance
+
+## Customer Satisfaction Survey
+
+We invite you to rate our services by completing a customer satisfaction survey.
+
+## Program Information
+
+Multifamily Analysis  
+High Residential Density Ordinance 2018-20
+
+Expedited Processing of Building Permits and Development Orders
+
+SAIL FUNDING LOCAL GOVERNMENT CONTRIBUTION  
+Developers can  email Denna Lafferty to request an application.
+
+## Affordable Housing Advisory Committee (AHAC)
+
+BOCC Committee
+
+## Fair Housing Coordinator & Information
+
+Fair Housing Pamphlet",official_seed;serpapi;serpapi;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi,,Wildwood,Sumter County,government,county_housing
+https://sumtercountyfl.gov/243/Rental-Assistance,"Rental Assistance | Sumter County, FL - Official Website","### 
+
+Create a Website Account - Manage notification subscriptions, save form progress and more.   
+
+Home page
+Search
+
+# Rental Assistance
+
+## Section 8 Program
+
+The Section 8 Housing Choice Voucher Rental Assistance Program has been transferred to Citrus County Housing Services effective October 1, 2011.  The transfer is a result of diminishing funding allocations and planned reorganization of the Sumter County Housing Department.  All administrative responsibilities of the program will be under the direct control and supervision of Citrus County.
+
+For rental assistance questions or information, please contact Citrus County Housing Services at 1-352-527-7520.  Their main office is located at 2804 W. Marc Knighton Court - Key #12, Lecanto, FL. 34461.",official_seed;serpapi;serpapi;serpapi;serpapi;serpapi;tavily,,Wildwood,Sumter County,government,county_housing
+https://sumtercountyfl.gov/246/Rental-Assistance-Resources,"Rental Assistance Resources | Sumter County, FL","Skip to Main Content
+
+Create a Website Account - Manage notification subscriptions, save form progress and more.   
+
+ Website Sign In
+
+Home page
+
+Search
+
+1. Home
+2. Government Services
+3. Divisions H - Z
+4. Housing
+5. Rental Assistance
+6. Rental Assistance Resources
+
+# Rental Assistance Resources
+
+## Rental Assistance Providers
+
+ Bushnell Garden Apartments - 352-793-4838
+ Lake Panasoffkee Apartments - 352-793-2288
+ Misty Wood Apartments - 352-793-8211
+ Webster Apartments - 352-793-4060
+ Wildwood Commons - 352-748-0047
+ Wildwood Terrace - 352-748-0013
+ Wildwood Townhomes - 352-748-5677
+
+## One Time Assistance
+
+ The Salvation Army - 352-568-2284
+ United Way of Lake & Sumter Counties - 352-787-7530
+
+## Links [...] ## Links
+
+ Department of Children and Families
+ PHA All State Contact Information
+ Department of Housing and Urban Development
+
+Loading
+
+­",official_seed;serpapi;serpapi;serpapi;tavily;serpapi;serpapi;tavily,,Wildwood,Sumter County,government,county_housing
+https://lakecountyfl.gov/housing,Lake County housing and community services,"Lake County, FL Office of Housing and Community Services provides services such as rental assistance, home ownership assistance, home repair assistance, ...",official_seed;serpapi;serpapi;serpapi;serpapi;serpapi,,Leesburg,Lake County,government,county_housing
+https://citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php,Citrus County Housing Choice Voucher Program,,official_seed,,Wildwood,Sumter County,housing_authority,housing_authority
+https://rollingacresapts.com,"Apartments in Lady Lake, FL | Rolling Acres Apartments ...","These uniquely designed apartments feature one, two, and three-bedroom homes with an open floor plan perfect for entertaining and private entry on select homes.",serpapi;serpapi,The Villages FL income based apartments,The Villages,Sumter County,unknown,search_result
+https://lowincomehousing.us/FL/the_villages.html,"The Villages, FL Low Income Housing","|  |  |
+ --- |
+| 1 bdrm / 2 bdrm / 3 bdrm / 4 bdrm |  |
+
+Income Limits in The Villages, Florida. Sumter County, FL Income Limits Summary\
+
+|  |  |
+ --- |
+| Income Limit Area | Sumter County |
+| Median Income | $88,300 |
+| Income Limit Category | Very Low (50%) Income Limits | Extremely Low Income Limits |
+| Person(s) In Family | 1 | $30,650 | $18,410 |
+| 2 | $35,050 | $21,040 |
+| 3 | $39,450 | $23,670 |
+| 4 | $43,800 | $26,300 |
+| 5 | $47,350 | $28,404 |
+
+\ Important: Your income, and income limit category, is needed to apply to most of the apartments on our list.
+
+Share:
+
+Nationwide Low Income Search
+
+Cities in Sumter County 
+
+ Bushnell
+ Center Hill
+ Wildwood
+ The Villages
+ Coleman
+ Lake Panasoffkee
+ Sumterville
+ Webster
+ Oxford
+
+Sumter County  
+Low Income Housing [...] Rental Assistance Programs Looking for government and non-profit programs to assist you with paying for your rent?  
+ Check our sister website   
+Rental Assistance Programs at RentAssistance.us   
+  
+ Low Income/Affordable Housing in The Villages, FL statistics
+
+How does income and housing costs in The Villages compare with Florida income averages.
+
+|  |  |
+ --- |
+| State of Florida Median Income | $88,300 |
+| State of Florida Median Metropolitan Income | $59,500 |
+| State of Florida Median Non-Metropolitan Income | $48,400 |
+
+### Low Income Housing Apartments Nearest To The Villages, FL
+
+Low Income Housing Near The Villages
+
+Due to the low number of listings in The Villages, we have added area listings below.
+
+1 of 10
+
+Rolling Acres Apartments
+
+#### Rolling Acres Apartments [...] Login Register
+
+|  |
+
+| Call us anytime  (+200) 123 456 5665 |
+
+|  |
+
+| Send us an email  LowIncomeSupport@gmail.com |
+
+Low Income Housing
+
+Submit Property
+
+ Home
+ About Us
+ Contact
+
+# The Villages, FL Low Income Housing
+
+Home Florida The Villages
+
+## Low Income Housing in The Villages, Florida
+
+Due to the small amount of listings, we searched a 30 mile radius from The Villages, FL. If we located any, we list them below along with the distance from The Villages, FL. We did not find any low income / affordable housing in The Villages, so we have listed the closest low income housing and housing assistance agencies nearest to The Villages, FL. Our search checked a full 30 mile radius from the center of The Villages. The distances from The Villages are displayed next to each listing.",serpapi;tavily;serpapi;tavily;tavily;serpapi;tavily;tavily,The Villages FL income based apartments,The Villages,Sumter County,nonprofit_directory,search_result
+https://rd.usda.gov/programs-services/multi-family-housing-programs,Multifamily Housing Programs - USDA Rural Development,"Multifamily Housing revitalizes and supports over 14,000 properties in USDA’s rural rental portfolio. Multifamily Housing assists rural property owners through loans, loan guarantees, and grants to develop and rehabilitate properties for low-income, elderly, domestic farm laborers, disabled individuals, and their families.
+
+Multifamily Housing subsidizes rents for eligible low-income tenants who cannot afford to pay their full rent by providing vouchers to the owners of its direct and farm labor housing loan properties. When a direct loan ends before its initial term, Multifamily Housing can protect eligible tenants who otherwise may face hardship if they cannot find other affordable housing. [...] ## Quick Links
+
+ Multifamily Housing Appraisal Assignment Guidance
+ Access the Multifamily Housing Construction Monitoring Checklists
+ Search for an affordable rural rental apartment near you.
+ Find the loan specialist assigned to a MFH property.
+ Determine if a specific location is eligible for MFH programs.
+ Form 3560-12-Request for Authorization to Withdraw Reserve Funds
+ Need assistance regarding your USDA Voucher, email RDVoucher@usda.gov.
+
+Multifamily Housing Organizational Structure
+
+### For all other questions or general inquiries, please contact Multifamily Housing at 800-292-8293 or MultifamilyHousing@usda.gov
+
+## Email Updates [...] USDA Rural Development awards grants to eligible nonprofit organizations and public housing authorities (PHAs) to provide technical assistance (TA) and other services to enable affordable housing preservation through the transfer of Multifamily Housing Direct Loan properties from current owners to nonprofits or PHAs.
+
+More Information
+
+### Farm Labor Housing Technical Assistance Grants
+
+USDA Rural Development awards grants to nonprofit organizations to provide technical assistance to applicants for Farm Labor Housing (FLH) loans and grants.
+
+More Information
+
+### Section 521 Stand-Alone Rental Assistance",serpapi;tavily;serpapi;tavily,The Villages FL USDA rural rental assistance apartments,The Villages,Sumter County,HUD/USDA/FHFC,search_result
+https://rd.usda.gov/programs-services/multifamily-housing-programs/multifamily-housing-rental-assistance,Multifamily Housing Rental Assistance - USDA Rural Development,"Who may apply for this program?
+
+ Project owners as part of their Rural Rental Housing or Farm Labor Housing new construction financing applications
+ Rural Rental Housing and Farm Labor Housing projects must be established on a nonprofit or limited profit basis
+
+What is an eligible area?  
+Rental Assistance can only be provided for apartments in new or existing Rural Rental Housing and Farm Labor Housing financed properties.
+
+How may funds be used?  
+Payments are made on behalf of the tenants and become part of the property’s income, which pays operational expenses.
+
+Who may receive assistance?  
+Properties with low- or very low-income (1) tenants qualify to receive assistance.  Properties with very low-income tenants receive first priority. [...] # Multifamily Housing Rental Assistance
+
+Open
+
+This program is currently accepting applications for processing from eligible Direct Loan Borrowers who have submitted a prepayment application requesting incentive RA.   
+   
+ Good to know:   
+   
+ To begin, contact a program official in your region (see contact tab below) to review the requirements for completing an application.   
+   
+ The preparation process can take anywhere from a few weeks to several months, depending on the complexity of the application and the completeness of the materials provided.
+
+Fact Sheet
+
+## 
+
+What does this program do?  
+This program provides payments to owners of USDA-financed Rural Rental Housing or Farm Labor Housing projects on behalf of low-income tenants unable to pay their full rent. [...] How do we get started?  
+Rental Assistance is coupled with an application for new construction financing under the Rural Rental Housing or Farm Labor Housing programs.
+
+Current Rural Rental Housing or Farm Labor Housing owners may contact your designated regional coordinator listed on the Contact tab for more information on the availability of Rental Assistance.
+
+Who can answer questions?  
+Find a regional contact on the Contact tab, or you can find local contact information at Rural Rental Properties.
+
+What governs this program?
+
+ Code of Federal Regulation, 7 CFR 3560-Subpart F
+ This program is authorized by Title V of the Housing Act of 1949",serpapi;tavily;serpapi;serpapi;tavily,The Villages FL USDA rural rental assistance apartments,The Villages,Sumter County,HUD/USDA/FHFC,search_result
+https://affordablehousing.com/lady-lake-fl/section8-owners,"Section 8 Rental Properties in Lady Lake, FL | AffordableHousing.com","Learn about your applicants
+
+With Premium, instantly see renter scores generated by our advanced algorithm, showing each applicant's fit for your property.
+
+Boost your property
+
+Your premium listings are larger and appear above free listings in search results. You can also boost them to the top!
+
+Tip: Get even more attention and show you're trustworthy by earning a Trusted Owner Badge.  Join our program and request your badge today.
+
+Lease Templates
+
+Send and eSign leases quickly by using our pre-populated lease templates, tailored to each state's unique laws, or create your own lease. [...] #### Take a tour
+
+ Welcome to Premium! 
+
+Learn how to start getting value out of your new Premium features today.
+
+Get Started
+
+To start your premium subscription and attract top renters, create your first listing now.
+
+Contact prospects
+
+Proactively reach out to hot leads in the prospects tab. Click on one or multiple leads to send an email or text.
+
+Tip: Filter leads by best fit for each property listing.
+
+Pre-screen your way
+
+Control how renters apply to your property by using the pre-screening settings found in the dropdown menu of each available property listing.
+
+ Send applicants to your website
+ Create an auto-response message
+ Add your own questions and disclosures.
+
+Learn about your applicants",serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi,Lady Lake FL income based apartments,Lady Lake,Lake County,apartment_listing,search_result
+https://carmendysquare.com,Carmendy Square Townhomes - Apartment Living in Lady ...,"Fantastic pet-friendly 2 and 3 bedroom townhomes. Carmendy Square Townhomes in Lady Lake, FL is a charming townhome rental community (352) 309-1636 367 Sunny ...",serpapi;serpapi;serpapi;serpapi,Lady Lake FL income based apartments,Lady Lake,Lake County,unknown,search_result
+https://lowincomehousing.us/fl/lady_lake.html,"Lady Lake, FL Low Income Housing","Rental Assistance Programs Looking for government and non-profit programs to assist you with paying for your rent?  
+ Check our sister website   
+Rental Assistance Programs at RentAssistance.us   
+  
+ Low Income/Affordable Housing in Lady Lake, FL statistics
+
+How does income and housing costs in Lady Lake compare with Florida income averages.
+
+|  |  |
+ --- |
+| Average affordable monthly apartment cost in Lady Lake | $531.00 |
+| State of Florida Median Income | $90,400 |
+| State of Florida Median Metropolitan Income | $59,500 |
+| State of Florida Median Non-Metropolitan Income | $48,400 |
+
+### Lady Lake, FL Low Income Housing: 4 Active Listings
+
+1 of 4
+
+$300.00 per month
+
+Rolling Acres Apartments
+
+#### Rolling Acres Apartments
+
+824 County Rd 466 Lady Lake, FL - 32159 [...] 306 S Old Dixie Hw Lady Lake, FL - 32159
+
+The property features one and two bedroom units which are furnished with a stove, refrigerator, central heat and air, carpeting and mini blinds. A laundry facility is located on site. Convenient to stores and restaurants. Lakewood Villas offers affordable housing for low income seniors (62 years of age or older) or handicapped/disabled households, ...
+
+|  |  |
+ --- |
+|  | Senior Housing |
+
+Low Income Housing Near Lady Lake
+
+Due to the low number of listings in Lady Lake, we have added area listings below.
+
+1 of 5
+
+Woodwinds Apartments Low Income Housing
+
+#### Woodwinds Apartments Low Income Housing
+
+151 South Grand Hi Clermont, FL - 34711 [...] 735 S Us Highway 4 Lady Lake, FL - 32159
+
+Total Apartments: 176 Total Low Income Apartments: 176 One Bedroom (1 bdrm) Apartments: 32 Two Bedroom (2 bdrm) Apartments: 80 Three Bedroom (3 bdrm) Apartments: 32 Family Apartments Cove at Lady Lake Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents dep ...
+
+|  |  |
+ --- |
+| 1 bdrm / 2 bdrm / 3 bdrm / 4 bdrm |  |
+
+4 of 4
+
+Lakewood Villas Of Lady Lake Senior Apartments
+
+#### Lakewood Villas Of Lady Lake Senior Apartments
+
+306 S Old Dixie Hw Lady Lake, FL - 32159",serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily,Lady Lake FL income based apartments,Lady Lake,Lake County,nonprofit_directory,search_result
+https://coveatladylake.com,"Apartments in Lady Lake, FL | Cove at Lady Lake Apartments ...","These affordable apartments are uniquely designed featuring one, two, three, and four-bedroom homes and an open floor plan perfect for entertaining and private ...",serpapi;serpapi;serpapi;serpapi,Lady Lake FL low income apartments,Lady Lake,Lake County,unknown,search_result
+https://floridahousing.org/docs/default-source/programs/special-programs/preservation/preservation-opportunities/the-cove-at-lady-lake-flyer.pdf?sfvrsn=c49f97b_2,THE COVE AT LADY LAKE,"Griffin State Park, a 620-acre park that is popular for kayaking, hiking, and camping. The Cove at Lady Lake offers one-, two-, three-, and four-bedroom units ...",serpapi;serpapi,Lady Lake FL low income apartments,Lady Lake,Lake County,unknown,search_result
+https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lake-north-apts-ii-2268-lihtc,"Lake North Apts Ii | Affordable Housing in Lady Lake, FL","Very Low (50%)
+:   $47,350
+
+Low (80%)
+:   $75,750
+
+8Persons
+
+Extremely Low (30%)
+:   $44,660
+
+Very Low (50%)
+:   $50,400
+
+Low (80%)
+:   $80,600
+
+| Household | Extremely Low (30%) | Very Low (50%) | Low (80%) |
+ ---  --- |
+| 1 Person | $16,050 | $26,750 | $42,750 |
+| 2 Persons | $18,350 | $30,550 | $48,850 |
+| 3 Persons | $21,960 | $34,350 | $54,950 |
+| 4 Persons | $26,500 | $38,150 | $61,050 |
+| 5 Persons | $31,040 | $41,250 | $65,950 |
+| 6 Persons | $35,580 | $44,300 | $70,850 |
+| 7 Persons | $40,120 | $47,350 | $75,750 |
+| 8 Persons | $44,660 | $50,400 | $80,600 |
+
+Advertisement
+
+## Tax Credit Program Details
+
+Year Placed in Service
+
+8888
+
+Low-Income Units
+
+36/ 36
+
+## Frequently Asked Questions
+
+What is the average rent for affordable housing in Lady Lake, FL?+ [...] Default photo for Spring Lake Cove I
+
+Example Photo
+
+LIHTC
+
+### Spring Lake Cove I
+
+Fruitland Park, FL
+
+96 UnitsDefault photo for Cove At Lady Lake
+
+Example Photo
+
+LIHTC
+
+### Cove At Lady Lake
+
+Lady Lake, FL
+
+176 UnitsDefault photo for Lakewood Villas of Lady Lake
+
+Example Photo
+
+LIHTC
+
+### Lakewood Villas of Lady Lake
+
+Lady Lake, FL
+
+36 UnitsDefault photo for Crossings At Leesburg
+
+Example Photo
+
+LIHTC
+
+### Crossings At Leesburg
+
+Leesburg, FL
+
+168 UnitsDefault photo for Rolling Acres I
+
+Example Photo
+
+LIHTC
+
+### Rolling Acres I
+
+Lady Lake, FL
+
+104 UnitsDefault photo for Rolling Acres I
+
+Example Photo
+
+LIHTC
+
+### Rolling Acres I
+
+Lady Lake, FL
+
+104 Units [...] Affordable Housing Hub
+
+Low Income (LIHTC)
+
+# Lake North Apts Ii
+
+511 Highway 466 Apt 5, Lady Lake, FL, 32159
+
+Information verified June 19, 2026·We re-check waiting list status daily
+
+Default photo for Lake North Apts Ii
+
+Example Photo
+
+Share
+
+## About This Property
+
+Lake North Apts II comprises 36 units designated as low-income housing in Lady Lake, Florida. The property serves residents in Lake County and operates under affordable housing guidelines.
+
+## Property Details
+
+Total Units
+
+36
+
+## Fair Market Rent - LakeCounty, FL
+
+FMR represents the estimated amount needed to cover rent and utilities for a moderately-priced unit in this area.
+
+| Bedrooms | FMR |
+ --- |
+| Studio/Efficiency | $1,558 |
+| 1 Bedroom | $1,638 |
+| 2 Bedroom | $1,857 |
+| 3 Bedroom | $2,362 |
+| 4 Bedroom | $2,849 |",tavily;serpapi;tavily,Lady Lake FL low income apartments,Lady Lake,Lake County,apartment_listing,search_result
+https://rollingacresreserve.com,"Rolling Acres Reserve | Apartments in Lady Lake, FL","These affordable apartments are uniquely designed featuring studio, one, two, and three-bedroom homes and an open floor plan perfect for entertaining. Check out ...",serpapi;serpapi,Lady Lake FL affordable housing,Lady Lake,Lake County,unknown,search_result
+https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/cove-at-lady-lake-3583-lihtc,"Cove At Lady Lake | Affordable Housing in Lady Lake, FL","Affordable Housing Hub
+
+Low Income (LIHTC)
+
+# Cove At Lady Lake
+
+735 S US Highway 441, Lady Lake, FL, 32159
+
+Information verified June 19, 2026·We re-check waiting list status daily
+
+Default photo for Cove At Lady Lake
+
+Example Photo
+
+Share
+
+## About This Property
+
+Cove At Lady Lake provides 176 low-income units in Lady Lake, Florida, with a unit mix of 32 one-bedroom, 80 two-bedroom, 32 three-bedroom, and 32 four-bedroom apartments. The property has been in service since 2006 and serves families through 4% Low-Income Housing Tax Credit financing. This community was funded through tax-exempt bonds.
+
+## Property Details
+
+Total Units
+
+176
+
+1 Bedroom
+
+32
+
+2 Bedroom
+
+80
+
+3 Bedroom
+
+32
+
+4 Bedroom
+
+32
+
+## Fair Market Rent - LakeCounty, FL [...] The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Cove At Lady Lake is typically 30% of household income or less.
+
+What size apartments are available at Cove At Lady Lake?+
+
+Cove At Lady Lake offers the following unit types: 32 One-Bedroom, 80 Two-Bedroom, 32 Three-Bedroom, 32 Four-Bedroom units, for a total of 176 units.
+
+What are the income limits for affordable housing in Lake County, FL?+
+
+For a 4-person household in Lake County, FL, the income limits are: Extremely Low Income (30% AMI): $26,500, Very Low Income (50% AMI): $38,150, Low Income (80% AMI): $61,050. These limits are set by HUD and updated annually.
+
+Who is eligible to live at Cove At Lady Lake?+ [...] What is the price range for apartments in Lady Lake, FL?+
+
+Based on Fair Market Rent for Lake County, the estimated price range is: 1-bedroom: $1638, 2-bedroom: $1857, 3-bedroom: $2362. Actual rent at Cove At Lady Lake may be lower for income-eligible households.
+
+Who manages Cove At Lady Lake?+
+
+Cove At Lady Lake is managed by . You can reach them at . Visit their website for more information.
+
+Begin Application Now
+
+## Contact Information
+
+hjones@eustishousingauthority.com
+
+### Walk Score
+
+Car-Dependent
+
+46
+
+Walk
+
+30
+
+Bike
+
+### Nearby Schools
+
+KG,1,2,3,4,5
+
+4
+
+Fruitland Park Elementary School
+
+0.3mi
+
+Ratings provided by GreatSchools.org. Ratings are on a 1-10 scale.
+
+### Location
+
+LakeCounty, FL
+
+View on Google Maps
+
+## More Affordable Housing Near Cove At Lady Lake",tavily;serpapi;tavily,Lady Lake FL affordable housing,Lady Lake,Lake County,apartment_listing,search_result
+https://affordablehousingonline.com/housing-search/Florida/Lady-Lake/Lake-North-II/10026139,"Lake North II in Lady Lake, Florida - Affordable Housing Online","In addition to Lake North II, we list 3 other affordable properties in Lady Lake. Learn about these properties here. Our data research shows that there are a total of 352 affordable units in Lady Lake.
+
+#### Listings Near Lake North II
+
+Image of Lakewood Villas of Lady Lake, Ltd
+
+### Lakewood Villas of Lady Lake, Ltd
+
+306 S Old Dixie Hwy, Lady Lake, Florida 32159
+
+switch\_access\_shortcut Short Wait
+
+payment Subsidized
+
+real\_estate\_agent Accepts Vouchers
+
+payment Income Based
+
+accessibility Accessible
+
+Image of Cove at Lady Lake
+
+### Cove at Lady Lake
+
+735 S US Highway 441, Lady Lake, Florida 32159
+
+switch\_access\_shortcut Short Wait
+
+accessibility Accessible
+
+Image of Rolling Acres II
+
+### Rolling Acres II
+
+824 County Road 466, Lady Lake, Florida 32159 [...] In addition to Lake North II, how many other affordable housing properties (and units) are there in Lady Lake?
+
+In addition to Lake North II, we list 3 other affordable properties in Lady Lake. Learn about these properties here. Our data research shows that there are a total of 352 affordable units in Lady Lake.
+
+Lake North II probably has a waiting list. Since our research has shown there is a project-based rental assistance associated with this property, the waiting list would be for the rent-assisted units. We haven't confirmed if this is the case, so you should contact the property to confirm.
+
+Are rents subsidized at Lake North II? [...] In addition to Lake North II, how many other affordable housing properties (and units) are there in Lady Lake?
+
+In addition to Lake North II, we list 3 other affordable properties in Lady Lake. Learn about these properties here. Our data research shows that there are a total of 352 affordable units in Lady Lake.
+
+In addition to Lake North II, how many other affordable housing properties (and units) are there in Lady Lake?
+
+In addition to Lake North II, we list 3 other affordable properties in Lady Lake. Learn about these properties here. Our data research shows that there are a total of 352 affordable units in Lady Lake.",tavily,Lady Lake FL affordable housing,Lady Lake,Lake County,apartment_listing,search_result
+https://lakesumterreservesenior.com,"Lake Sumter Reserve Senior | Apartments in Lady Lake, FL","Lake Sumter Reserve Senior in Lady Lake, Florida apartments with no age restrictions. uniquely designed featuring one and two-bedroom homes and an open floor ...",serpapi,Lady Lake FL senior income based apartments,Lady Lake,Lake County,unknown,search_result
+https://seniorguidance.org/senior-housing/florida/lady-lake.html,"Senior Living Communities in Lady Lake, Florida","25 senior living communities in LADY LAKE, Florida. Call (888) 595-9101 for all LADY LAKE senior housing and 55+ senior living apartments for rent.",serpapi,Lady Lake FL senior income based apartments,Lady Lake,Lake County,unknown,search_result
+https://affordablehousingonline.com/housing-search/Florida/Lady-Lake,Low Income Apartments and Affordable Housing For Rent in Lady ...,"Sourced from federal housing data and AffordableHousingOnline.com
+research.
+
+|  |  |  |  |  |  |  |  |
+ ---  ---  ---  --- |
+| Federal Program Unit Count|  |  |  |  |  |  |  ---  ---  --- | | Low Income Housing Tax Credit |  |  |  |  |  ---  --- | | Section 202 Supportive Housing for the Elderly |  |  |  --- | | USDA Section 515 Rural Rental Housing  | | | | | | | |
+
+###### Tracked Units by Federal Program in Lady Lake, Florida
+
+Rental units may be funded in part by multiple federal programs.
+
+###### Income Based Apartments in Lady Lake, Florida
+
+Lady Lake features 72 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Lady Lake, Florida [...] Affordable Housing Online - Logo
+Affordable Housing Online - Logo
+
+# Low Income Apartments and Affordable Housing For Rent in Lady Lake, FL
+
+Discover affordable housing in Lady Lake where there are 4+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now.
+
+Image of Lakewood Villas of Lady Lake, Ltd
+
+### Lakewood Villas of Lady Lake, Ltd
+
+306 S Old Dixie Hwy, Lady Lake, Florida 32159
+
+switch\_access\_shortcut Short Wait
+
+payment Subsidized
+
+real\_estate\_agent Accepts Vouchers
+
+payment Income Based
+
+accessibility Accessible
+
+Image of Cove at Lady Lake
+
+### Cove at Lady Lake
+
+735 S US Highway 441, Lady Lake, Florida 32159
+
+switch\_access\_shortcut Short Wait [...] ###### Income Based Apartments in Lady Lake, Florida
+
+Lady Lake features 72 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Lady Lake, Florida
+
+There are 280 rent subsidized apartments that do not
+provide direct rental assistance but remain affordable to low income households in Lady Lake.
+
+###### Housing Choice Vouchers in Lady Lake, Florida
+
+On average, Section 8 Housing Choice vouchers pay Lady Lake landlords
+$900 per month towards rent. The average voucher holder
+contributes $400 towards rent in
+Lady Lake.
+
+The maximum amount a voucher would pay on behalf of a low-income tenant in Lady Lake, Florida for
+a two-bedroom apartment is between $1,671 and $2,043.",serpapi;tavily,Lady Lake FL senior income based apartments,Lady Lake,Lake County,apartment_listing,search_result
+https://whereyoulivematters.org/find-a-community/pebble-springs-retirement-community,"Pebble Springs Retirement Community | Lady Lake, FL","The community comprises 128 apartments for adults 55 and over — including studio apartments, one, two, and three-bedroom suites, and a variety of floor plans.",serpapi,Lady Lake FL senior income based apartments,Lady Lake,Lake County,unknown,search_result
+http://lakewoodvillasladylake.com,"Lakewood Villas: Senior Living apartments, Handicap Accessible ...","Nestled in the heart of Lady Lake, Lakewood Villas at 306 S. Old Dixie Hwy, Lady Lake, FL 32159, offers a premier blend of comfort, convenience, and community. Specializing in Lady Lake living, these apartments in Lady Lake cater specifically to seniors, making it a prime destination for those seeking senior housing apartments. With a variety of affordable housing options, Lakewood Villas ensures that senior living housing is accessible and budget-friendly for all. These pet-friendly apartments welcome your furry companions, making it truly feel like home. Additionally, the community features handicap accessible apartments, ensuring inclusivity for all residents. Lakewood Villas Lady Lake provides a selection of apartment rentals tailored to meet diverse needs, offering both convenience [...] # Dimension One Management, Inc. - Lakewood VillasLakewood Villas
+
+306 S. Old Dixie Hwy  
+ Lady Lake, FL 32159  
+ (352) 753-1006 753-1006)
+
+ Request Rental Application
+ Directions
+
+Office Address
+
+Office TDD Phone: 711
+
+Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property features one and two bedroom units with a stove, refrigerator, central heat and air, carpeting, and mini blinds. Residents enjoy the convenience of an on-site laundry facility. The community is located near stores and restaurants for easy access to daily needs.
+
+Lakewood Villas - Apartment - Lady Lake, FL
+
+ 32159 Apartments
+ Pet Friendly
+
+  Dog Friendly Apartments Lady Lake
+ Pet Friendly Apartments Lady Lake
+ Senior 62+ [...] Overview
+
+Office Address
+
+Office TDD Phone: 711
+
+Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property features one and two bedroom units with a stove, refrigerator, central heat and air, carpeting, and mini blinds. Residents enjoy the convenience of an on-site laundry facility. The community is located near stores and restaurants for easy access to daily needs.
+
+Lakewood Villas - Apartment - Lady Lake, FL
+
+ Affordable
+
+  Senior Apartments Lady Lake
+ Pet Friendly
+
+  Lakewood Villas Lady Lake FL
+ Accessible
+
+  Lady Lake Apartments
+ Senior 62+
+
+  32159 Apartments
+
+Office Hours
+
+ Monday
+
+  Closed
+ Tuesday
+
+  9:00AM - 5:30PM
+ Wednesday
+
+  Closed
+ Thursday
+
+  Closed
+ Friday
+
+  Closed
+ Saturday",tavily,Lady Lake FL senior income based apartments,Lady Lake,Lake County,unknown,search_result
+https://springlakecoveapts.com,"Spring Lake Cove Apartments | Apartments in Fruitland Park, FL",These affordable apartments and cottages are uniquely designed featuring two and three-bedroom homes with an open floor plan perfect for entertaining.,serpapi;serpapi;serpapi;serpapi,Fruitland Park FL income based apartments,Fruitland Park,Lake County,unknown,search_result
+https://affordablehousing.com/fruitland-park-fl,"Rental Properties in Fruitland Park, FL","AffordableHousing.com is the largest resource for affordable apartments, condos, houses, and townhouses, including section 8 rental housing and housing agency ...",serpapi;serpapi,Fruitland Park FL income based apartments,Fruitland Park,Lake County,apartment_listing,search_result
+https://publichousing.com/city/fl-fruitland_park,"Fruitland Park, FL Low Income Housing - PublicHousing.com","Public Housing
+
+# Fruitland Park, FL Low Income Housing
+
+Spring Lake Cove Apartments
+
+### Spring Lake Cove Apartments - Fruitland Park
+
+### Mirror Lake Manor - Fruitland Park
+
+### Fruitland Acres - Fruitland Park
+
+### Silver Pointe At Leesburg - Leesburg
+
+### Lake Region Homes - Leesburg
+
+### Turtle Oaks Apartments - Leesburg
+
+### Little Turtle Apartments - Leesburg
+
+### Public Hsg Asst - Leesburg
+
+PublicHousing.com is not associated with any government organization.",serpapi;tavily;serpapi;tavily;serpapi;tavily,Fruitland Park FL income based apartments,Fruitland Park,Lake County,unknown,search_result
+https://villages-news.com/2026/05/23/affordable-housing-in-fruitland-park-will-increase-pressure-on-u-s-hwy-27-441,Affordable housing in Fruitland Park will increase pressure on U.S. ...,"Atlantic Housing Partners recently secured site plan approval for WaterVue at Lake Geneva, a 92-unit affordable housing community planned for a 14.07-acre site just north of Spring Lake Road.
+
+The WaterVue affoerdable housing development is outlined in red and is located west of U.S.Hwy27 441
+
+The WaterVue affordable housing development is outlined in red and is located west of U.S.Hwy. 27/441.
+
+Located a half-mile west of U.S. Hwy. 27/441, the development will feature 36 garden villas and 56 lakefront apartments restricted to families earning between 30 percent and 80 percent of the area median income.
+
+The WaterVue complex will be built in Fuitland Park
+
+The WaterVue complex will be built in Fruitland Park. [...] Atlantic Housing Partners has already secured a $460,000 financial commitment from the Lake County Board of County Commissioners. The developer is currently utilizing that local backing to vie for highly competitive 9 percent federal Low-Income Housing Tax Credits through the Florida Housing Finance Corp.
+
+Atlantic Housing Partners principal Scott Culp stated that construction documents have already cleared third-party reviews, ensuring the project will be entirely permit-ready by the time final state funding decisions are made. [...] Skip to content
+
+Villages-News.com
+
+News, photos, events in The Villages, FL
+
+Subscribe
+
+Posted inBusiness
+
+# Affordable housing in Fruitland Park will increase pressure on U.S. Hwy. 27/441
+
+by David Towns
+
+### Share this:
+
+ Share on Facebook (Opens in new window) Facebook
+ Share on X (Opens in new window) X
+
+As Lake County continues to grapple with a booming population and skyrocketing housing costs, Fruitland Park is preparing for a new affordable housing development on Lake Geneva.
+
+However, while local officials cheer the influx of workforce housing, the project is highlighting growing anxieties over an increasingly gridlocked U.S. Hwy. 27/441 corridor.",tavily,Fruitland Park FL income based apartments,Fruitland Park,Lake County,unknown,search_result
+https://affordablehousing.com/fruitland-park-fl/section8-owners,"Section 8 Rental Properties in Fruitland Park, FL","View 5 Section 8 Rental Properties in Fruitland Park, FL. Browse photos, get pricing and find the most affordable rental properties in .",serpapi,Fruitland Park FL low income housing,Fruitland Park,Lake County,apartment_listing,search_result
+https://affordablehousinghub.org/housing/florida/lake-county/fruitland-park,"Affordable Housing in Fruitland Park, FL","There are 3 affordable housing properties in Fruitland Park, Florida, including 3 Low-Income Housing Tax Credit (LIHTC) listings. Browse the full list above to find options that fit your needs.
+
+What is the average rent for affordable housing in Fruitland Park, Florida?+
+
+The Fair Market Rent for Lake County, Florida is: Studio: $1558, 1BR: $1638, 2BR: $1857, 3BR: $2362. Subsidized housing typically charges tenants 30% of their adjusted gross income, which may be significantly less than FMR.
+
+How do I apply for Section 8 housing in Fruitland Park, Florida?+ [...] Affordable Housing Hub
+
+# Affordable Housing in Fruitland Park, FL
+
+LakeCounty ·3properties found· Pop. 9,185
+
+Default photo for Fruitland Acres
+
+Example Photo
+
+Low Income (LIHTC)
+
+Fruitland Acres
+
+303 URICK ST, FRUITLAND PARK, FL, 34731
+
+37 UnitsUnits Available
+
+View Details
+
+Default photo for Spring Lake Cove I
+
+Example Photo
+
+Low Income (LIHTC)
+
+Spring Lake Cove I
+
+1508 SPRING LAKE COVE LN, FRUITLAND PARK, FL, 34731
+
+96 Units2BR, 3BR
+
+View Details
+
+Default photo for Spring Lake Cove Ii
+
+Example Photo
+
+Low Income (LIHTC)
+
+Spring Lake Cove Ii
+
+1508 SPRING LAKE COVE LN, FRUITLAND PARK, FL, 34731
+
+48 UnitsUnits Available
+
+View Details
+
+3
+
+Total Properties
+
+0
+
+Public Housing
+
+3
+
+LIHTC
+
+0
+
+Authorities
+
+0
+
+Waitlists Open
+
+## Fair Market Rent - LakeCounty, FL [...] Very Low (50%)
+:   $50,400
+
+Low (80%)
+:   $80,600
+
+| Household | Extremely Low (30%) | Very Low (50%) | Low (80%) |
+ ---  --- |
+| 1 Person | $16,050 | $26,750 | $42,750 |
+| 2 Persons | $18,350 | $30,550 | $48,850 |
+| 3 Persons | $21,960 | $34,350 | $54,950 |
+| 4 Persons | $26,500 | $38,150 | $61,050 |
+| 5 Persons | $31,040 | $41,250 | $65,950 |
+| 6 Persons | $35,580 | $44,300 | $70,850 |
+| 7 Persons | $40,120 | $47,350 | $75,750 |
+| 8 Persons | $44,660 | $50,400 | $80,600 |
+
+## Frequently Asked Questions About Housing in Fruitland Park, FL
+
+How many affordable housing options are in Fruitland Park, Florida?+",tavily;tavily,Fruitland Park FL low income housing,Fruitland Park,Lake County,apartment_listing,search_result
+https://lowincomehousing.us/FL/fruitland_park.html,"Fruitland Park, FL Low Income Housing","Login Register
+
+|  |
+
+| Call us anytime  (+200) 123 456 5665 |
+
+|  |
+
+| Send us an email  LowIncomeSupport@gmail.com |
+
+Low Income Housing
+
+Submit Property
+
+ Home
+ About Us
+ Contact
+
+# Fruitland Park, FL Low Income Housing
+
+Home Florida Fruitland Park
+
+## 4 low income housing apartment complexes in Fruitland Park, Florida.
+
+Due to the small amount of listings, we searched a 30 mile radius from Fruitland Park, FL. If we located any, we list them below along with the distance from Fruitland Park, FL.   
+Apartments Listed:
+
+1. Updated HUD listings.
+2. Income (based) restricted housing tax credit apartments.
+3. Section 8 apartments.
+4. Fruitland Park, FL Housing Authority.
+5. Public Housing.
+6. Non profit senior and family low income apartments. [...] 1508 Spring Lake C Fruitland Park, FL - 34731
+
+Total Apartments: 96 Total Low Income Apartments: 68 Two Bedroom (2 bdrm) Apartments: 48 Three Bedroom (3 bdrm) Apartments: 48 Senior Apartments Family Apartments Spring Lake Cove I provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At ...
+
+|  |  |
+ --- |
+| 2 bdrm / 3 bdrm | Senior Housing |
+
+2 of 4
+
+Fruitland Acres Apartments 
+
+#### Fruitland Acres Apartments
+
+303 Urick St Fruitland Park, FL - 34731 [...] 1 of 5
+
+Woodwinds Apartments Low Income Housing
+
+#### Woodwinds Apartments Low Income Housing
+
+151 South Grand Hi Clermont, FL - 34711
+
+Woodwinds Apartments is a low Income housing Apartments with affordable housing options. HUD Section 8 affordability. Income restrictions apply. ...
+
+|  |  |
+ --- |
+| 1 bdrm / 2 bdrm / 3 bdrm |  |
+
+2 of 5
+
+The Reserve At Indian Hill Senior Apartments
+
+#### The Reserve At Indian Hill Senior Apartments
+
+5206 Indian Hills  Orlando, FL - 32808
+
+The Reserve At Indian Hill Senior Apartments is a low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). ...
+
+|  |  |
+ --- |
+| 1 bdrm | Senior Housing |
+
+3 of 5
+
+Trinity Villas I Affordable Apartments
+
+#### Trinity Villas I Affordable Apartments",tavily,Fruitland Park FL subsidized apartments,Fruitland Park,Lake County,nonprofit_directory,search_result
+https://the-carriage-house.seniorlivinginstyle.com/communities/fruitland-park,"Senior Living near Fruitland Park, FL - The Carriage House","## DISCOVER BUDGET-FRIENDLY INDEPENDENT LIVING NEAR FRUITLAND PARK
+
+All-inclusive Independent Senior Living near Fruitland Park averages around $3,025 per month. While expenses can fluctuate based on area and amenities, The Carriage House offers outstanding benefits for an fulfilling way of life.
+
+Get in touch with us to explore pricing and availability.
+
+The Carriage House Exterior
+
+The Carriage House Patio
+
+The Carriage House Woman Painting
+
+The Carriage House Activity Room
+
+The Carriage House Apartment
+
+The Carriage House Commons
+
+The Carriage House Main Exterior
+
+The Carriage House Diningroom
+
+START YOUR NEXT CHAPTER TODAY [...] It's never too early to start exploring your options.
+
+The cost of independent living differs based on factors such as:
+
+Region of the country. Residence layout and size. Included services and amenities. At The Carriage House, we offer all-inclusive pricing that starts at $3,025 per month, covering dining, transportation, housekeeping, and activities, ensuring transparency and cost-effectiveness.
+
+## HELPING YOU DECIDE: IS IT TIME?
+
+Picking a senior retirement community near Fruitland Park is a major step. That’s why we deliver assistance and information to help you navigate housing, medical care, moving logistics, and discussions with loved ones.
+
+Take comfort knowing that we’re ready to assist you every step of the way. [...] The Carriage House Logo
+
+(352) 644-9126
+
+## Schedule a Visit
+
+The Carriage House
+
+Stretch your retirement dollars at The Carriage House
+
+# INDEPENDENT SENIOR LIVING NEAR FRUITLAND PARK, FL
+
+Download Brochure
+
+All-inclusive starting rate of $3,025
+
+## Want to know more about our community?
+
+""Contact us"" today to get in touch with one of our Oxford area senior living experts!
+
+Contact Us   Apply For A Job
+
+At The Carriage House, we redefine what it means to make the most of your senior years. Our all-inclusive senior living community near Fruitland Park features carefully selected amenities, great services, and a engaging environment tailored to enhance your well-being.",serpapi;tavily,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,unknown,search_result
+https://seniorhousingnet.com/seniorliving-search/fruitland-park_fl,"1 Senior Living communities in Fruitland Park, FL","1 Senior Living communities in Fruitland Park, FL. Low-Income Affordable, Call 1 (844) 674-3762 now to Call for Pricing (844)",serpapi,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,nonprofit_directory,search_result
+https://affordablehousing.com/fruitland-park-fl/senior-housing,"Senior Rental Properties in Fruitland Park, FL","Browsing affordable housing within the area Senior Rental Properties in Fruitland Park, FL 2 Rentals. Housing Under $1500 in Fruitland Park, FL",serpapi,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,apartment_listing,search_result
+https://oasissenioradvisors.com/community-guide/florida/fruitland-park,"Senior Living Community Guide in Fruitland Park, Florida","36444 Piney Ridge Blvd, Fruitland Park, FL 34731US Assisted Living Average Rent $$$$$ Resident Capacity100 Medicaid BedsYes",serpapi,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,unknown,search_result
+https://concordrents.com/fl/fruitland-park/apartments,Fruitland Park,"Available Affordable Housing - Central Florida · Available Affordable Housing ... Ft. 1508 Spring Lake Cove Lane, Fruitland Park, FL 34731. $1,249.00to ...",serpapi,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,unknown,search_result
+https://aplaceformom.com/assisted-living/florida/fruitland-park,"10 Best Assisted Living Facilities in Fruitland Park, FL","Care Homes: Residential care homes are shared neighborhood homes for seniors who need a live-in caregiver to assist with activities of daily living, like dressing and bathing.
+
+See details
+
+12
+
+Viewing 1-25 out of 32 communities
+
+Too many selections
+
+You can compare up to 4 communities at a time.
+
+Compare 0 of 4 listings
+
+## Cost of assisted living in Fruitland Park, FL
+
+The average cost of senior living in Fruitland Park is $4,486 per month. Cheaper nearby regions include Inverness Highlands South, FL with an average of $4,161 per month.
+
+### Assisted living costs in Fruitland Park, FL, vs. nearby cities
+
+Fruitland Park, FL
+
+$4,486/mo
+
+Lady Lake, FL
+
+$4,442/mo
+
+Leesburg, FL
+
+$4,651/mo
+
+Close
+
+### Assisted living costs in Fruitland Park, FL, vs. state and national averages [...] Column state: Florida
+
+Column national: U.S.
+
+| Community type | Fruitland Park, FL | Florida | U.S. |
+ ---  --- |
+| Assisted Living | $4,486/mo | $4,144/mo | $4,781/mo |
+| Memory Care | $4,665/mo | $4,615/mo | $5,048/mo |
+| Independent Living | $4,480/mo | $4,274/mo | $4,237/mo |
+
+Assisted Living
+
+Fruitland Park, FL:$4,486/mo
+
+Florida:$4,144/mo
+
+U.S.:$4,781/mo
+
+Memory Care
+
+Fruitland Park, FL:$4,665/mo
+
+Florida:$4,615/mo
+
+U.S.:$5,048/mo
+
+Independent Living
+
+Fruitland Park, FL:$4,480/mo
+
+Florida:$4,274/mo
+
+U.S.:$4,237/mo
+
+Table showing 5 of 3 items. Click to show less.
+
+Table showing 5 of 3 items. Click to show less.
+
+### Assisted living costs in Fruitland Park, FL, over time [...] Court of Leesburg"",""awards"":[],""recommendedScoreV2"":10001,""isCustomer"":false,""hasDescription"":false,""imageCount"":0,""videoCount"":0,""floorPlanCount"":0,""hasReview"":false,""promotionsExpiring"":false,""promotionsTotal"":0,""promotionsType"":[],""scheduleTourAvailable"":false,""location"":{""lat"":28.8112,""lng"":-81.881676},""isHomeCareOnly"":false},{""id"":""1362280"",""slug"":""savannah-manor-1362280"",""name"":""Savannah Manor"",""awards"":[],""recommendedScoreV2"":10001,""isCustomer"":false,""hasDescription"":true,""imageCount"":0,""videoCount"":0,""floorPlanCount"":0,""hasReview"":true,""promotionsExpiring"":false,""promotionsTotal"":0,""promotionsType"":[],""scheduleTourAvailable"":false,""location"":{""lat"":28.810884475708008,""lng"":-81.8817138671875},""isHomeCareOnly"":false},{""id"":""50278"",""slug"":""wandering-oaks-50278"",""name"":""Wandering",serpapi;tavily,Fruitland Park FL affordable senior apartments,Fruitland Park,Lake County,unknown,search_result
+https://wildwood-fl.gov/sites/default/files/fileattachments/development_services/page/2851/rental_availablity_updated_7.25_wb.pdf,"Rental Availability in the City of Wildwood, Florida","Rental Availability in the City of Wildwood, Florida. Last Updated 4/25/2025. Wildwood Commons Apartments. Wildwood Preserve Apartments. Cypress Commons. Livano ...",serpapi;serpapi;serpapi;serpapi,Wildwood FL income based apartments,Wildwood,Sumter County,government,search_result
+https://lowincomehousing.us/FL/wildwood.html,"Wildwood, FL Low Income Housing","Login Register
+
+|  |
+
+| Call us anytime  (+200) 123 456 5665 |
+
+|  |
+
+| Send us an email  LowIncomeSupport@gmail.com |
+
+Low Income Housing
+
+Submit Property
+
+ Home
+ About Us
+ Contact
+
+# Wildwood, FL Low Income Housing
+
+Home Florida Wildwood
+
+## 3 low income housing apartment complexes in Wildwood, Florida.
+
+Due to the small amount of listings, we searched a 30 mile radius from Wildwood, FL. If we located any, we list them below along with the distance from Wildwood, FL.   
+Apartments Listed:
+
+1. Updated HUD listings.
+2. Income (based) restricted housing tax credit apartments.
+3. Section 8 apartments.
+4. Wildwood, FL Housing Authority.
+5. Public Housing.
+6. Non profit senior and family low income apartments. [...] 775 Huey St Wildwood, FL - 34785
+
+Section 8 rental assistance program. Total Apartments: 72 Total Low Income Apartments: 72 One Bedroom (1 bdrm) Apartments: 4 Two Bedroom (2 bdrm) Apartments: 28 Three Bedroom (3 bdrm) Apartments: 32 Family Apartments Club Wildwood provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Inc ...
+
+|  |  |
+ --- |
+| 1 bdrm / 2 bdrm / 3 bdrm | Section 8 |
+
+2 of 3
+
+Wildwood Terrace Apartments
+
+#### Wildwood Terrace Apartments
+
+500 Gilliam Street Wildwood, FL - 34785 [...] 500 Gilliam Street Wildwood, FL - 34785
+
+Section 8 rental assistance. Total Low Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ...
+
+|  |  |
+ --- |
+|  | Section 8 |
+
+3 of 3
+
+$400.00 per month $450.00 per month
+
+Club Wildwood Affordable Apartments
+
+#### Club Wildwood Affordable Apartments
+
+775 Huey St Wildwood, FL - 34785
+
+|  |  |
+ --- |
+| 1 bdrm / 2 bdrm / 3 bdrm / 4 bdrm |  |
+
+Low Income Housing Near Wildwood
+
+Due to the low number of listings in Wildwood, we have added area listings below.
+
+1 of 5",serpapi;tavily;tavily;tavily,Wildwood FL income based apartments,Wildwood,Sumter County,nonprofit_directory,search_result
+https://affordablehousing.com/wildwood-fl/section8-owners,"Section 8 Rental Properties in Wildwood, FL | AffordableHousing.com","Learn about your applicants
+
+With Premium, instantly see renter scores generated by our advanced algorithm, showing each applicant's fit for your property.
+
+Boost your property
+
+Your premium listings are larger and appear above free listings in search results. You can also boost them to the top!
+
+Tip: Get even more attention and show you're trustworthy by earning a Trusted Owner Badge.  Join our program and request your badge today.
+
+Lease Templates
+
+Send and eSign leases quickly by using our pre-populated lease templates, tailored to each state's unique laws, or create your own lease. [...] #### Take a tour
+
+ Welcome to Premium! 
+
+Learn how to start getting value out of your new Premium features today.
+
+Get Started
+
+To start your premium subscription and attract top renters, create your first listing now.
+
+Contact prospects
+
+Proactively reach out to hot leads in the prospects tab. Click on one or multiple leads to send an email or text.
+
+Tip: Filter leads by best fit for each property listing.
+
+Pre-screen your way
+
+Control how renters apply to your property by using the pre-screening settings found in the dropdown menu of each available property listing.
+
+ Send applicants to your website
+ Create an auto-response message
+ Add your own questions and disclosures.
+
+Learn about your applicants",serpapi;serpapi;serpapi;tavily;serpapi,Wildwood FL income based apartments,Wildwood,Sumter County,apartment_listing,search_result
+https://apartmenthomeliving.com/wildwood-fl/apartments-for-rent/cheap,"Cheap Apartments for Rent in Wildwood, FL from $900 (50 Rentals)","## Lakeside Retreat at 27
+
+1403 Old Harbor BlvdLeesburg, FL 34748
+
+Family Friendly
+
+ Verified
+ Low Income
+ 3D Tour
+
+close
+
+View Me
+
+Rent Specials
+
+$1,199 - $1,6991 to 3 Bedroom Apartments Available Now
+
+## Rolling Acres Apartments
+
+824 Cr-466 RdLady Lake, FL 32159
+
+Senior Living
+
+ Verified
+ Customer Reviewed
+
+close
+
+View Me
+
+$1,225 - $1,5281 to 2 Bedroom Apartments Available Now
+
+## Gardens on Griffin
+
+39 Herald DrLeesburg, FL 34748
+
+Affordability
+
+ Verified
+ Customer Reviewed
+ Utilities Included
+
+close
+
+View Me
+
+Rent Specials
+
+$1,249 - $1,5992 to 3 Bedroom Apartments Available Now
+
+## Spring Lake Cove Apartments
+
+1508 Spring Lake Cove LnFruitland Park, FL 34731
+
+ Verified
+ Customer Reviewed
+ 3D Tour
+
+## Roommate Matching: Finding the Right Fit and Avoiding Pitfalls [...] When searching for a roommate, follow this list of essential steps and set clear expectations to create a solid foundation for a harmonious living situation.
+
+Read Article
+
+close
+
+View Me
+
+$1,299 - $1,6592 to 3 Bedroom Apartments Available Jun 22
+
+## Southwinds Cove
+
+3400 Southwinds Cove WayLeesburg, FL 34748
+
+Family Friendly
+
+ Verified
+ Customer Reviewed
+ Low Income
+
+close
+
+View Me
+
+Rent Specials
+
+$1,299 - $2,2101 to 3 Bedroom Apartments Available Now
+
+## Standard441 Luxury Apartments
+
+13740 Lead LnLady Lake, FL 32159
+
+Furnished
+
+ Verified
+ Customer Reviewed
+ 3D Tour
+
+close
+
+View Me
+
+Rent Specials
+
+$1,299 - $2,6991 to 4 Bedroom Apartments Available Now
+
+## LEO at Wildwood - Single Family Rental Homes
+
+10457 Bethel PlOxford, FL 34484
+
+ Verified
+
+close
+
+View Me
+
+Rent Specials [...] Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+### Browse Top Apartments in Wildwood
+
+See all Apartments in Wildwood
+
+### Explore Wildwood
+
+## Wildwood, FL Local Guide
+
+ Nearby Cities
+ ZIP codes
+ Local Counties
+
+## Cheapest Available Wildwood Apartments for Rent
+
+ 
+
+The cheapest available apartment rental in Wildwood, FL is a 1 Bed unit found at Silver Pointe at Leesburg in the Chelsea's Run neighborhood priced from $947. Blueberry Hill in the Silver Lake Estates neighborhood has the second lowest priced unit, which is a 1 Bed apartment currently listed from $1,070. Here is today’s list of the most affordable Wildwood apartments for rent:",tavily;serpapi;tavily;tavily;serpapi;tavily,Wildwood FL income based apartments,Wildwood,Sumter County,unknown,search_result
+http://hud.gov/states/florida,Florida | HUD.gov / U.S. Department of Housing and Urban ...,"To be eligible for an affordable unit in a LIHTC property, you must make no more than the income limit for that unit. LIHTC rents are not based on your income, but instead is set by the use restrictions tied to the unit. Note: LIHTC property owners accept Section 8 voucher tenants. To apply, contact the LIHTC property directly. You can find a map of LIHTC properties at LIHTC Database Access (huduser.gov)  
+\\ After clicking the link, go to the bottom right and select “Florida” and then select “Retrieve Project Data” at the bottom of the screen. A list of properties in Florida will appear
+
+\\ You can also find LIHTC properties at FloridaHousingSearch.org | Florida Apartments | Florida Rental Homes [...] USDA Rural Development Multifamily Housing  
+U.S. Department of Agriculture (USDA) Rural Development (RD) Multifamily Housing programs helps property owners through loans and grants to rehabilitate properties for low-income, elderly, and disabled individuals and families as well as domestic farm laborers. USDA RD Multifamily Rental Assistance Program provides payments to owners of USDA-financed projects on behalf of low-income tenants unable to pay their full rent. Search for RD Multifamily Housing rentals in Florida
+
+For more information, dial (202) 720-2791.
+
+Local Listings
+
+You are also advised to check your local city and/or county’s website for additional affordable housing opportunities. [...] !( ""[Back to Home]"")
+!( ""[Back to Home]"")
+
+## Affordable Places to LiveAffordable Places to Live
+
+Affordable Places to Live
+
+HUD is not a direct service provider. For direct assistance, please refer to the following resources:
+
+Contact your Local Public Housing Authority to inquire about information about public housing programs (Housing Choice Vouchers HUD Facts, Public Housing).
+
+Find a list of Public Housing Authority contacts in Florida or call (800) 955-2232 for help to find your local Public Housing Authority.
+
+Low-Income Housing Tax Credit (LIHTC) Properties",serpapi;serpapi;tavily;tavily;serpapi;tavily;serpapi;tavily;serpapi,Wildwood FL Section 8 apartments,Wildwood,Sumter County,HUD/USDA/FHFC,search_result
+https://magnoliaatpowell.com,"Magnolia at Powell: Luxury 1, 2, 3 Bed Apartments Wildwood FL","Discover luxury 1, 2 & 3 bedroom apartments & townhomes in Wildwood, FL. Magnolia at Powell offers amenities including a pool, fitness center, & pet park.",serpapi,Wildwood FL affordable apartments,Wildwood,Sumter County,unknown,search_result
+https://homesip.org/home-ownership,USDA Rural Development Mutual Self-Help Housing ...,"Location: Applicants must seek housing in eligible rural areas specified by USDA Rural Development. ... Wildwood, FL · Owens Landing Umatilla · Scattered Lots ...",serpapi,Wildwood FL USDA rural development apartments,Wildwood,Sumter County,unknown,search_result
+https://rd.usda.gov/fl-vi,Florida and Virgin Islands,"Florida & US Virgin Islands Rural Development State Office 4500 NW 27th Avenue, Suite D-2 Gainesville, FL 32606 352-338-3400 ext. 4",serpapi,Wildwood FL USDA rural development apartments,Wildwood,Sumter County,HUD/USDA/FHFC,search_result
+https://affordablehousinghub.org/housing/florida/sumter-county/wildwood/club-wildwood-3658-lihtc,"Club Wildwood | Affordable Housing in Wildwood, FL","Affordable Housing Hub
+
+Low Income (LIHTC)
+
+# Club Wildwood
+
+775 Huey St, Wildwood, FL, 34785
+
+Information verified June 19, 2026·We re-check waiting list status daily
+
+Default photo for Club Wildwood
+
+Example Photo
+
+Share
+
+## About This Property
+
+Club Wildwood contains 72 low-income residential units in Wildwood, Florida, serving families with a mix of one-, two-, three-, and four-bedroom floor plans. The property has been in service since 2004 and is funded through the 9% Low-Income Housing Tax Credit program. The unit distribution includes 4 one-bedroom, 28 two-bedroom, 32 three-bedroom, and 8 four-bedroom apartments.
+
+## Property Details
+
+Total Units
+
+1 Bedroom
+
+4
+
+2 Bedroom
+
+28
+
+3 Bedroom
+
+32
+
+4 Bedroom
+
+8
+
+## Fair Market Rent - SumterCounty, FL [...] How do I apply for housing at Club Wildwood?+
+
+Club Wildwood is a Low-Income Housing Tax Credit (LIHTC) property. To apply, you can start by calling , or visiting their website, or contacting the property management office. Contact the property to learn about availability and application requirements. Eligibility is based on income limits set for the area.
+
+What is the price range for apartments in Wildwood, FL?+
+
+Based on Fair Market Rent for Sumter County, the estimated price range is: 1-bedroom: $951, 2-bedroom: $1250, 3-bedroom: $1572. Actual rent at Club Wildwood may be lower for income-eligible households.
+
+Who is eligible to live at Club Wildwood?+ [...] Very Low (50%)
+:   $44,450
+
+Low (80%)
+:   $71,100
+
+| Household | Extremely Low (30%) | Very Low (50%) | Low (80%) |
+ ---  --- |
+| 1 Person | $14,150 | $23,600 | $37,700 |
+| 2 Persons | $17,420 | $26,950 | $43,100 |
+| 3 Persons | $21,960 | $30,300 | $48,500 |
+| 4 Persons | $26,500 | $33,650 | $53,850 |
+| 5 Persons | $31,040 | $36,350 | $58,200 |
+| 6 Persons | $35,580 | $39,050 | $62,500 |
+| 7 Persons | $40,120 | $41,750 | $66,800 |
+| 8 Persons | $44,450 | $44,450 | $71,100 |
+
+Advertisement
+
+## Tax Credit Program Details
+
+Year Placed in Service
+
+2004
+
+LIHTC Credit Type
+
+9%
+
+Low-Income Units
+
+72/ 72
+
+Target Population
+
+Families
+
+## Frequently Asked Questions
+
+What is the average rent for affordable housing in Wildwood, FL?+",serpapi;tavily,Wildwood FL LIHTC apartments,Wildwood,Sumter County,apartment_listing,search_result
+https://lakesideretreatat27.com,"Apartments in Leesburg, FL | Lakeside Retreat at 27 | Concord Rents | Concord Management | ConcordRents.com","Get Directions
+
+## GET IN TOUCH
+
+Interested in visiting our property? Fill out the form or call the number below and we will reach out to you shortly! We look forward to hearing from you!
+
+### HOW CAN WE HELP YOU?
+
+## GET IN TOUCH
+
+Interested in visiting our property? Fill out the form or call the number below and we will reach out to you shortly! We look forward to hearing from you!
+
+### VISIT US
+
+Lakeside Retreat at 27
+
+1403 Old Harbor Blvd.
+
+Leesburg, FL 34748
+
+Opens in a new tab
+
+Phone Number +1 855-516-0815
+
+ Share
+ Share
+
+### OFFICE HOURS
+
+ Monday:  10:00 AM to - 5:00 PM
+ Tuesday:  10:00 AM to - 5:00 PM
+ Wednesday:  10:00 AM to - 5:00 PM
+ Thursday:  10:00 AM to - 5:00 PM
+ Friday:  10:00 AM to - 5:00 PM
+ Saturday:  10:00 AM to - 4:00 PM
+ Sunday:  Closed [...] Phone Number +1 855-516-0815
+
+Login 
+
+ Resident Login Opens in a new tab
+ Applicant Login Opens in a new tab
+
+Lakeside Retreat at 27
+
+Apply Now
+
+Floor Plans
+
+# Welcome to Lakeside Retreat at 27 Apartments in Leesburg, FL
+
+Discover a new level of comfort and convenience! Located in Leesburg, FL, Lakeside Retreat at 27 apartments is a beautiful and serene complex with a breathtaking view of the water and the surrounding nature.  
+  
+ The surrounding area of Lakeside Retreat at 27 apartments offers a variety of activities and attractions including water sports and nature trails. With its peaceful atmosphere and convenient location, Lakeside Retreat at 27 apartments is the perfect place to unwind and enjoy all that Florida has to offer.
+
+## YOUR HOME AWAITS [...] Paired with our community amenities, our apartment amenities will simplify your life. Our apartment homes include amenities such as fabulous chef-style kitchens and energy-efficient appliances along with stain-resistant Berber-style carpeting, and tile in select areas.
+
+a young couple dances with their daughter while standing in their living room.png)
+
+a kitchen with white appliances and wooden cabinets.jpg)
+
+a house with a tree in front of it
+
+PHOTO GALLERY
+
+We invite you to browse our community's photo gallery and see why we're the best fit   
+for you and your lifestyle.
+
+To get the whole experience, please schedule a visit to our property!
+
+View Gallery
+
+## FLOOR PLANS
+
+FLOOR PLANS
+
+APARTMENTS THAT ARE TAILORED TO YOU",serpapi;tavily;serpapi;tavily;serpapi;tavily;tavily;serpapi;tavily;serpapi,Leesburg FL income based apartments,Leesburg,Lake County,unknown,search_result
+https://affordablehousing.com/leesburg-fl,"Rental Properties in Leesburg, FL","AffordableHousing.com is the largest resource for affordable apartments, condos, houses, and townhouses, including section 8 rental housing and housing agency ...",serpapi;serpapi;serpapi,Leesburg FL income based apartments,Leesburg,Lake County,apartment_listing,search_result
+https://leesburgflorida.gov/my_city/departments/housing/index.php,Housing,Housing · Carver Heights Community Redevelopment Agency (CHCRA) · Greater Leesburg Community Development Agency (GLCRA) · US 441/27 Community Redevelopment Agency ...,serpapi;serpapi;serpapi;serpapi;serpapi,Leesburg FL income based apartments,Leesburg,Lake County,government,search_result
+https://cypressoaksapts.net,"Cypress Oaks: Leesburg, FL Apartments for Rent","# A Refreshing Community: Cypress Oaks
+
+Choose from our 1, 2 & 3 bedroom apartments in Leesburg, Florida, and have it all. From a spacious layout, light-filled rooms, and convenient features and amenities, simply everything you need is right here at Cypress Oaks. Our prime location in Leesburg puts you in proximity to the best of everything in the area. With a near-perfect neighborhood like this, you’ll be mere moments from restaurants, shopping, major employers, and great schools.
+
+Modern living room at Cypress Oaks in Leesburg, Florida
+
+## Floor Plans
+
+View Floor Plans
+
+Swimming pool at Cypress Oaks in Leesburg, Florida
+
+## Amenities
+
+View Amenities
+
+Kids playground with slide at Cypress Oaks in Leesburg, Florida
+
+## Photo Gallery
+
+View Our Images
+
+## Get In Touch!
+
+Loading... [...] APPLY NOW
+
+Move In Before 5/31/2026 and
+
+##### Receive 1/2 (half) Months Free Rent
+
+$500 Deposit and No Application Fee
+
+Affordable Comfort,
+
+Unbeatable Community.
+
+View Floor Plans
+
+352-764-5265 | 336 Sandy Oak Cir Leesburg 34748 Apply Now
+
+Kitchen with stainless-steel appliances at Cypress Oaks in Leesburg, Florida
+  Living room with wood-style flooring at Cypress Oaks in Leesburg, Florida
+  Bedroom with large bed and side table at Cypress Oaks in Leesburg, Florida
+
+# A Refreshing Community: Cypress Oaks [...] View Our Images
+
+## Get In Touch!
+
+Loading...
+
+## Explore Leesburg, Florida
+
+Whether you’re an adventurer or a total homebody, you’ll love our ideal location in Leesburg. When you call Cypress Oaks your home, you’ll have all the experiences you crave at your doorstep. Meet up with friends for a bite to eat, grab a beverage at your favorite coffee shop, get some shopping done, or explore the outdoors. Perfectly situated near all the best destinations in Leesburg, Cypress Oaks puts you close to daily conveniences like shopping, dining, and recreational activities.
+
+See What’s Nearby
+
+Resident couple having lunch near Cypress Oaks in Leesburg, Florida
+
+Comfort Is Coming Home to  
+ Cypress Oaks
+
+Get In Touch",serpapi;tavily;serpapi;tavily;serpapi;tavily,Leesburg FL income based apartments,Leesburg,Lake County,unknown,search_result
+https://affordablehousing.com/leesburg-fl-34748/section8-owners,"Section 8 Rental Properties in 34748, Leesburg, FL | AffordableHousing.com","Learn about your applicants
+
+With Premium, instantly see renter scores generated by our advanced algorithm, showing each applicant's fit for your property.
+
+Boost your property
+
+Your premium listings are larger and appear above free listings in search results. You can also boost them to the top!
+
+Tip: Get even more attention and show you're trustworthy by earning a Trusted Owner Badge.  Join our program and request your badge today.
+
+Lease Templates
+
+Send and eSign leases quickly by using our pre-populated lease templates, tailored to each state's unique laws, or create your own lease. [...] #### Take a tour
+
+ Welcome to Premium! 
+
+Learn how to start getting value out of your new Premium features today.
+
+Get Started
+
+To start your premium subscription and attract top renters, create your first listing now.
+
+Contact prospects
+
+Proactively reach out to hot leads in the prospects tab. Click on one or multiple leads to send an email or text.
+
+Tip: Filter leads by best fit for each property listing.
+
+Pre-screen your way
+
+Control how renters apply to your property by using the pre-screening settings found in the dropdown menu of each available property listing.
+
+ Send applicants to your website
+ Create an auto-response message
+ Add your own questions and disclosures.
+
+Learn about your applicants",serpapi;tavily;serpapi,Leesburg FL Section 8 apartments,Leesburg,Lake County,apartment_listing,search_result
+https://cflhands.org/res.section8.php,Section 8 Housing in Central Florida | Affordable Housing | HANDS,"PO Box 7800  
+Tavares, FL 32778-7800
+
+Phone: 352/343-9431  
+Fax: 352/343-9896
+
+Email: humsvcs@mail2.lcia.com
+
+##### City of Leesburg Section 8 Program
+
+600 W. Orange Street  
+Leesburg, FL 34749
+
+Phone: 352/728-9765  
+Fax: 352/728-9739
+
+Email: humsvcs@mail2.lcia.com
+
+##### Orange County Housing Authority
+
+525 E South St  
+Orlando, FL 32801
+
+Phone: 407/836-4240  
+Fax: 407/836-4205
+
+##### Orlando Housing Authority
+
+300 Reeves Ct  
+Orlando, FL 32801
+
+Phone: 407/894-1500  
+Fax: 407/895-0820
+
+Email: orlando6@cul.com
+
+##### Winter Park Housing Authority
+
+718 Margaret Sq  
+Winter Park, FL 32789
+
+Phone: 407/645-2869  
+Fax: 407/629-4575
+
+Email: wpha@intellistar.net
+
+##### Osceola County Housing Authority
+
+1 Courthouse Square, Ste. 2300  
+Kissimmee, FL 34741
+
+Phone: 407/343-3114  
+Fax: 407/343-3117 [...] Logo
+
+Stay in Touch!
+
+# Section 8 - Public Housing Authorities
+
+Public Housing Authorities (PHAs), local government agencies, use funding from HUD to subsidize low-income rental housing under two programs.  
+  
+ Public Housing refers to apartments which are managed and maintained by the PHA.  Section 8 refers to a voucher program in which the voucher holder can rent a house or apartment of his/her own choosing. Eligibility and the amount of monthly financial assistance are based on household income and size. Contact a PHA for more information and to apply.
+
+##### Eustis Housing Authority
+
+1000 Wall Street #60  
+Eustis, FL 32726
+
+Phone: 352/357-4851  
+Fax: 352/357-8081
+
+Email: EustisHousing@aol.com
+
+##### Lake County Public Housing
+
+PO Box 7800  
+Tavares, FL 32778-7800 [...] Phone: 407/343-3114  
+Fax: 407/343-3117
+
+##### Seminole County Housing Authority
+
+662 Academy Pl  
+Oviedo, FL 32765
+
+Phone: 407/365-3621  
+Fax: 407/359-2576
+
+Email: scha001@integrityonline.com
+
+##### Sanford Housing Authority
+
+94 Castle Brewer Court  
+Sanford, FL 32771
+
+Phone: 407/323-3150  
+Fax: 407/324-1806",serpapi;tavily;tavily,Leesburg FL Section 8 apartments,Leesburg,Lake County,unknown,search_result
+https://laureloaksfl.com,"Laurel Oaks | Affordable Apartments in Leesburg, FL","Affordable Apartments in Leesburg FL spacious two, three, and four-bedroom floor plans. 2700 Laurel Hollow Drive Leesburg, FL 34748. Phone Number +1 844-348- ...",serpapi;serpapi,Leesburg FL Section 8 apartments,Leesburg,Lake County,unknown,search_result
+https://osceola.org/Services/Housing-Programs/Section-8/Section-8-Neighboring-Housing-Authorities,Section 8 Neighboring Housing Authorities,"Section 8 Neighboring Housing Authorities ; Leesburg (City of) Section 8, P.O. Box 490630. Leesburg, FL 34749, 352-728-9766 ; Melbourne Housing Authority, P.O. ...",serpapi,Leesburg FL public housing,Leesburg,Lake County,unknown,search_result
+https://windemerevillas.com,"Windemere Villas | A 55+ Community in Leesburg, Florida ...","Windemere Villas, a 55+ apartment community, offers one bedroom and two bedroom apartments. Each residence features a contemporary layout with step-saver kitchens. Windemere Villas is ideal for people over 55 years of age who want an economical apartment home close to the activity of the city but far enough away to avoid noise and congestion.
+
+Windemere Villas  
+ 1416 Griffin Rd.  
+ Leesburg, FL 34748  
+ Office: (352) 728-5444  
+ Fax: (352) 728-0970  
+ windemere@flynnmanagement.com
+
+Office Hours:   
+ Monday-Friday 8:30am to 5pm
+
+Schedule a TourApplicationsApartmentsTake a TourContact Us
+
+### Living in Windemere Villas
+
+Windemere Villas is ideal for active seniors over 55 years of age. Conveniently located between Spanish Springs and Brownwood in The Villages.
+
+Amenities Include: [...] Windemere Villas | Leesburg, Florida (352) 728-5444
+
+Windemere Villas | A 55+ Community in Leesburg, Florida  Navigation 
+
+ Home
+ Apartments
+  + One Bedroom Apartment
+  + Two Bedroom Apartment
+ Amenities
+ Take a Tour
+  + Photo Gallery
+  + Floor Plans
+ Application
+ Directions
+ Contact Us
+
+### Windemere Villas in Leesburg, Florida
+
+Image
+
+### Save $$$ Over Living in The Villages
+
+#### A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle [...] Amenities Include:
+
+ Newly Renovated 1 and 2 Bedroom Villas
+ Close to Shopping and Medical Facilities
+ Short Drive to The Villages
+ On Site Management
+ Emergency Maintenance 24/7
+
+#### Leesburg, Florida
+
+Established in 1857, most of Leesburg's growth and economic development is the result of the increasing popularity of the area as a retirement destination and the rapid growth of nearby Orlando.",serpapi;tavily,Leesburg FL senior income based apartments,Leesburg,Lake County,unknown,search_result
+https://seniorhousingnet.com/seniorliving-search/leesburg_fl,"9 Senior Living communities in Leesburg, FL","Senior Housing
+
+We could not find this area.
+
+# 9 Senior Living communities in Leesburg, FL | 20 nearby communities
+
+## 1. Lake Port Square
+
+### 821 Lake Port Boulevard, Leesburg, FL, 34748
+
+### Continuing Care, Retirement
+
+### Call for Pricing (844) 674-3762
+
+## 2. Vista Lake Assisted Living
+
+### 700 South Lake Street, Leesburg, FL, 34748
+
+### Assisted Living
+
+### Call for Pricing (844) 674-3762
+
+## 3. Mayfield Retirement Center
+
+### 460 Newell Hill Rd, Leesburg, FL, 34748
+
+### Assisted Living
+
+### Call for Pricing (844) 674-3762
+
+## 4. Savannah Manor
+
+### 1027 West Main Street, Leesburg, FL, 34748
+
+### Assisted Living
+
+### Call for Pricing (844) 674-3762
+
+## 5. Vista Lake Memory Care
+
+### 710 South Lake Street, Leesburg, FL, 34748
+
+### Alzheimer’s Care, Memory Care [...] ### Alzheimer’s Care, Memory Care
+
+### Call for Pricing (844) 674-3762
+
+## 6. Hawthorne At Leesburg
+
+### 100 Hawthorne Blvd, Leesburg, FL, 34748
+
+### Retirement
+
+### Call for Pricing (844) 674-3762
+
+## 7. Silver Pointe at Leesburg
+
+### 2400 Silver Pointe Cir, Leesburg, FL, 34748
+
+### Retirement
+
+### Call for Pricing (844) 674-3762
+
+CARE DIVERSIFIED OF LAKE COUNTY, Leesburg, FL
+
+## 8. CARE DIVERSIFIED OF LAKE COUNTY
+
+### 1312 Sumter St, Leesburg, FL, 34748
+
+### Low Income-Affordable
+
+### Call for Pricing (844) 674-3762
+
+Silver Lake Village, Leesburg, FL
+
+## 9. Silver Lake Village
+
+### 34601 Radio Rd, Leesburg, FL, 34788
+
+### Alzheimer’s Care
+
+### Call for Pricing (844) 674-3762
+
+### 20 matching communities nearby Leesburg
+
+## 1. Lake Ridge Village
+
+### 353 W Ardice Ave, Eustis, FL, 32726",serpapi;tavily,Leesburg FL senior income based apartments,Leesburg,Lake County,nonprofit_directory,search_result
+https://leesburgflorida.gov/my_city/departments/housing/resource_center.php,Leesburg Resource Center,"501 West Meadow Street, Leesburg, FL 34748 Opens in new window Phone (352) 728-9700 Monday - Friday 8:00am - 4:30 pm",serpapi,Leesburg FL senior income based apartments,Leesburg,Lake County,government,search_result
+https://lowincomehousing.us/FL/leesburg.html,"Leesburg, FL Low Income Housing","Find low income housing in Leesburg, FL including: Southwinds Cove, Silver Pointe At Leesburg Senior Apartments, Newell Hill Villas Leesburg.",serpapi,Leesburg FL senior income based apartments,Leesburg,Lake County,nonprofit_directory,search_result
+https://publichousing.com/details/turtle_oaks_apartments,"Turtle Oaks Apartments - Low Income Apartments in Leesburg, FL","To qualify for low income housing in Florida, you must meet the following income requirements:  
+  
+Your household income must be below 80% of the area median income (AMI). The AMI is updated annually by the Department of Housing and Urban Development (HUD) and varies by county.
+  
+  
+You must have a valid Social Security number or Individual Taxpayer Identification Number (ITIN).  
+  
+You must be a U.S. citizen or a legal immigrant.
+  
+  
+In addition to the income requirements, you may also need to meet other eligibility requirements, such as:  
+  
+- You must not have been evicted from any public housing or Section 8 housing in the past three years.  
+- You must not have any outstanding felony convictions for drug-related offenses.  
+- You must not be a registered sex offender. [...] Average home value in this zip code: $152,928  
+  
+  
+Turtle Oaks Apartments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. [...] Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them.
+  
+  
+Median apartment rental rate in this zip code: $911  
+Population in zip code: 39,977  
+Media age of those living in this zip code: 59.6  
+Media household income of those living in this zip code: $45,059  
+Average home value in this zip code: $152,928",tavily,Leesburg FL senior income based apartments,Leesburg,Lake County,unknown,search_result
+https://affordablehousingonline.com/housing-search/Florida/Lake-Panasoffkee,Low Income Apartments and Affordable Housing For Rent in Lake ...,"|  |  |  |  |
+ ---  --- |
+| Federal Program Unit Count|  |  |  --- | | USDA Section 515 Rural Rental Housing  | | | |
+
+###### Tracked Units by Federal Program in Lake Panasoffkee, Florida
+
+Rental units may be funded in part by multiple federal programs.
+
+###### Income Based Apartments in Lake Panasoffkee, Florida
+
+Lake Panasoffkee features 72 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Lake Panasoffkee, Florida
+
+There are 0 rent subsidized apartments that do not
+provide direct rental assistance but remain affordable to low income households in Lake Panasoffkee.
+
+###### Housing Choice Vouchers in Lake Panasoffkee, Florida [...] ###### Rental Units Below FMR in Lake Panasoffkee, Florida
+
+#### How many affordable rental units are in Lake Panasoffkee?
+
+There are a variety of federal affordable housing programs serving households in
+Lake Panasoffkee, Florida including the following:
+
+|  |  |  |  |
+ ---  --- |
+| Federal Program Unit Count|  |  |  --- | | USDA Section 515 Rural Rental Housing  | | | |
+
+###### Tracked Units by Federal Program in Lake Panasoffkee, Florida
+
+Rental units may be funded in part by multiple federal programs.
+
+###### Income Based Apartments in Lake Panasoffkee, Florida
+
+Lake Panasoffkee features 72 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Lake Panasoffkee, Florida [...] Affordable Housing Online - Logo
+Affordable Housing Online - Logo
+
+# Low Income Apartments and Affordable Housing For Rent in Lake Panasoffkee, FL
+
+Discover affordable housing in Lake Panasoffkee where there are 2+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now.
+
+Image of Panasoffkee
+
+### Panasoffkee
+
+910 CR 482N, Lake Panasoffkee, Florida 33538
+
+switch\_access\_shortcut Short Wait
+
+payment Subsidized
+
+real\_estate\_agent Accepts Vouchers
+
+payment Income Based
+
+accessibility Accessible
+
+Image of Panasoffkee Apartments II
+
+### Panasoffkee Apartments II
+
+1081 CR 479, Lake Panasoffkee, Florida 33538
+
+switch\_access\_shortcut Short Wait
+
+payment Subsidized",serpapi;tavily;serpapi;tavily;serpapi;tavily;serpapi;tavily,Lake Panasoffkee FL income based apartments,Lake Panasoffkee,Sumter County,apartment_listing,search_result
+https://publichousing.com/city/fl-lake_panasoffkee,"Lake Panasoffkee, FL Low Income Housing - PublicHousing.com","Public Housing
+
+# Lake Panasoffkee, FL Low Income Housing
+
+### Panasoffkee Apartments - Lake Panasoffkee
+
+### Wildwood Townehomes - Wildwood
+
+### Sumter County Housing Department - Bushnell
+
+### Bushnell Rrh Ltd. - Bushnell
+
+### Sumter County, Habitat For Humanity Of - Wildwood
+
+### Wildwood Terrace - Wildwood
+
+PublicHousing.com is not associated with any government organization.",serpapi;tavily;serpapi;tavily;serpapi;serpapi,Lake Panasoffkee FL income based apartments,Lake Panasoffkee,Sumter County,unknown,search_result
+https://affordablehousinghub.org/housing/florida/sumter/lake-panasoffkee,"Affordable Housing in Lake Panasoffkee, FL","To apply for Section 8 (Housing Choice Voucher) in Lake Panasoffkee, Florida, contact your local housing authority. You can browse the housing authority listings on this page to find contact information. Applications are typically accepted when the waitlist is open. Eligibility is based on income (generally below 50% of Area Median Income), family size, and citizenship status.
+
+What are the income limits for affordable housing in Sumter County, Florida?+
+
+For a 4-person household in Sumter County, Florida, the income limits are: Extremely Low Income (30% AMI): $26,500, Very Low Income (50% AMI): $33,650, Low Income (80% AMI): $53,850. Income limits vary by household size and are updated annually by HUD.
+
+What types of affordable housing are available in Lake Panasoffkee, Florida?+ [...] How many affordable housing options are in Lake Panasoffkee, Florida?+
+
+There are 2 affordable housing properties in Lake Panasoffkee, Florida, including 2 Low-Income Housing Tax Credit (LIHTC) listings. Browse the full list above to find options that fit your needs.
+
+What is the average rent for affordable housing in Lake Panasoffkee, Florida?+
+
+The Fair Market Rent for Sumter County, Florida is: Studio: $945, 1BR: $951, 2BR: $1250, 3BR: $1572. Subsidized housing typically charges tenants 30% of their adjusted gross income, which may be significantly less than FMR.
+
+How do I apply for Section 8 housing in Lake Panasoffkee, Florida?+ [...] | Bedrooms | FMR |
+ --- |
+| Studio/Efficiency | $945 |
+| 1 Bedroom | $951 |
+| 2 Bedroom | $1,250 |
+| 3 Bedroom | $1,572 |
+| 4 Bedroom | $1,665 |
+
+## Income Limits - SumterCounty, FL
+
+Annual income limits by household size used to determine eligibility for affordable housing programs.
+
+1Person
+
+Extremely Low (30%)
+:   $14,150
+
+Very Low (50%)
+:   $23,600
+
+Low (80%)
+:   $37,700
+
+2Persons
+
+Extremely Low (30%)
+:   $17,420
+
+Very Low (50%)
+:   $26,950
+
+Low (80%)
+:   $43,100
+
+3Persons
+
+Extremely Low (30%)
+:   $21,960
+
+Very Low (50%)
+:   $30,300
+
+Low (80%)
+:   $48,500
+
+4Persons
+
+Extremely Low (30%)
+:   $26,500
+
+Very Low (50%)
+:   $33,650
+
+Low (80%)
+:   $53,850
+
+5Persons
+
+Extremely Low (30%)
+:   $31,040
+
+Very Low (50%)
+:   $36,350
+
+Low (80%)
+:   $58,200
+
+6Persons
+
+Extremely Low (30%)
+:   $35,580",serpapi;tavily;serpapi;tavily;serpapi;tavily,Lake Panasoffkee FL income based apartments,Lake Panasoffkee,Sumter County,apartment_listing,search_result
+https://apartmenthomeliving.com/lake-panasoffkee-fl/apartments-for-rent/low_income,"Low Income Lake Panasoffkee Apartments for Rent | Lake Panasoffkee, FL","#### Total Monthly Price
+
+Base Rent
+
+$1,149 - $1,665
+
+Total Monthly Price
+
+Varies
+
+1 to 4 Bedroom Apartments Available Now
+
+## Cove at Lady Lake
+
+735 S Us-27 HwyLady Lake, FL 32159
+
+Luxury
+
+ Verified
+ Utilities Included
+ Low Income
+
+## Cash or credit? Understanding the Importance of Credit Score in Real Estate and Renting
+
+Discover how your credit score impacts your ability to lease or buy a home. Learn how credit scores are determined, how to check yours, and strategies to improve it for real estate success.
+
+Read Article
+
+close
+
+View Me
+
+Rent Specials
+
+$1,199 - $1,750
+
+Total Monthly Price
+
+#### Total Monthly Price
+
+Base Rent
+
+$1,199 - $1,750
+
+Total Monthly Price
+
+Varies
+
+1 to 4 Bedroom Apartments Available Now
+
+## Lakeside Retreat at 27
+
+1403 Old Harbor BlvdLeesburg, FL 34748 [...] ApartmentHomeLiving.com Logo
+
+# Low Income Apartments for Rent in Lake Panasoffkee, FL (5 Rentals)
+
+How Many Bedrooms?Done
+
+Select your price rangeDone
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+Lifestyle Matching SearchDone
+
+Learn more about Lifestyle Search
+
+By AmenitiesDone
+
+By Community TypeDone
+
+Features and AvailabilityDone
+
+Done
+
+close
+
+View Me
+
+$1,299 - $1,6592 to 3 Bedroom Apartments Available Jun 22
+
+## Southwinds Cove
+
+3400 Southwinds Cove WayLeesburg, FL 34748
+
+Family Friendly
+
+ Verified
+ Customer Reviewed
+ Low Income
+
+close
+
+View Me
+
+Rent Specials
+
+$1,122 - $2,319
+
+Total Monthly Price
+
+#### Total Monthly Price
+
+Base Rent
+
+$1,122 - $2,319
+
+Total Monthly Price
+
+Varies
+
+1 to 4 Bedroom Apartments Available Now [...] ### How much is the average rent for a Low Income Lake Panasoffkee Apartment?
+
+The average rent for a Low Income Apartment in Lake Panasoffkee is $1,339.
+
+### What is the largest Low Income Lake Panasoffkee Apartment for rent?
+
+Today's Low Income apartment with the most square footage in Lake Panasoffkee is a 1,431 square feet unit starting from $1,149 at Cove at Lady Lake.
+
+### What is the average size for Lake Panasoffkee Low Income Apartments for rent?
+
+The average size for a Low Income rental in Lake Panasoffkee is currently at 691 sq ft.
+
+## Expert Rental Resources",serpapi;tavily;serpapi;tavily,Lake Panasoffkee FL income based apartments,Lake Panasoffkee,Sumter County,unknown,search_result
+https://lowincomehousing.us/FL/lake_panasoffkee.html,"Lake Panasoffkee, FL Low Income Housing","Login Register
+
+|  |
+
+| Call us anytime  (+200) 123 456 5665 |
+
+|  |
+
+| Send us an email  LowIncomeSupport@gmail.com |
+
+Low Income Housing
+
+Submit Property
+
+ Home
+ About Us
+ Contact
+
+# Lake Panasoffkee, FL Low Income Housing
+
+Home Florida Lake Panasoffkee
+
+## There is one low income housing apartment complex in Lake Panasoffkee, Florida.
+
+Due to the small amount of listings, we searched a 30 mile radius from Lake Panasoffkee, FL. If we located any, we list them below along with the distance from Lake Panasoffkee, FL.   
+Apartments Listed:
+
+1. Updated HUD listings.
+2. Income (based) restricted housing tax credit apartments.
+3. Section 8 apartments.
+4. Lake Panasoffkee, FL Housing Authority.
+5. Public Housing.
+6. Non profit senior and family low income apartments. [...] |  |  |
+ --- |
+| Income Limit Area | Sumter County |
+| Median Income | $88,300 |
+| Income Limit Category | Very Low (50%) Income Limits | Extremely Low Income Limits |
+| Person(s) In Family | 1 | $30,650 | $18,410 |
+| 2 | $35,050 | $21,040 |
+| 3 | $39,450 | $23,670 |
+| 4 | $43,800 | $26,300 |
+| 5 | $47,350 | $28,404 |
+
+\ Important: Your income, and income limit category, is needed to apply to most of the apartments on our list.
+
+Share:
+
+Nationwide Low Income Search
+
+Cities in Sumter County 
+
+ Bushnell
+ Center Hill
+ Wildwood
+ The Villages
+ Coleman
+ Lake Panasoffkee
+ Sumterville
+ Webster
+ Oxford
+
+Sumter County  
+Low Income Housing
+
+Lake Panasoffkee Social Services Directory 
+
+ Transitional Housing
+
+ Food Pantries
+
+ Rent Assistance
+
+ Free Dental Care
+
+ Free Clinics
+
+ Free Rehab Centers [...] Rental Assistance Programs Looking for government and non-profit programs to assist you with paying for your rent?  
+ Check our sister website   
+Rental Assistance Programs at RentAssistance.us   
+  
+ Low Income/Affordable Housing in Lake Panasoffkee, FL statistics
+
+How does income and housing costs in Lake Panasoffkee compare with Florida income averages.
+
+|  |  |
+ --- |
+| State of Florida Median Income | $88,300 |
+| State of Florida Median Metropolitan Income | $59,500 |
+| State of Florida Median Non-Metropolitan Income | $48,400 |
+
+### Lake Panasoffkee, FL Low Income Housing: 1 Active Listings
+
+1 of 1
+
+Panasoffkee Family Apartments
+
+#### Panasoffkee Family Apartments
+
+910 County Rd 482  Lake Panasoffkee, FL - 33538",serpapi;tavily;tavily;tavily,Lake Panasoffkee FL income based apartments,Lake Panasoffkee,Sumter County,nonprofit_directory,search_result
+https://apartmentratings.com/fl/lake-panasoffkee/panasoffkee-apartments-ltd_352793228833538,Panasoffkee Apartments Ltd Reviews,"Panasoffkee Apartments Ltd is an apartment in Lake Panasoffkee in zip code 33538. This community has a Studio, 1 Bath Nearby cities include Bushnell, Wildwood, ...",serpapi,Lake Panasoffkee FL subsidized apartments,Lake Panasoffkee,Sumter County,unknown,search_result
+https://usdaproperties.com/states/FL/cities/Lake_Panasoffkee,"Real estate property for sale in Lake Panasoffkee, Florida",The USDA 502 Guaranteed Loan Program is designed to help homebuyers in eligible rural areas secure affordable housing with no down payment required. Backed ...,serpapi,Lake Panasoffkee FL USDA rental assistance,Lake Panasoffkee,Sumter County,unknown,search_result
+https://usaspending.gov/award/ASST_NON_A03100141561000_12E3,DIRECT PAYMENT to PANASOFFKEE,"RURAL RENTAL ASSISTANCE PAYMENTS. Assistance Listing (CFDA Program) Information ... LAKE PANASOFFKEE, FL 33538-6180. UNITED STATES. --. Period Of Performance.",serpapi,Lake Panasoffkee FL USDA rental assistance,Lake Panasoffkee,Sumter County,government,search_result
+https://habitatls.org/affordable-housing-part-1-affordable-alternatives,Affordable Housing Part 2: Affordable Alternatives,"The good news? Yes, many programs help with renting or buying, based on location, income, family size, and other criteria. Their goal is to keep you at/under that 30% benchmark. Habitat for Humanity Lake Sumter is one of them, though we’re a small non-profit rather than a government-funded agency. If you’re hoping to buy a home in Lake or Sumter County, FL, consider starting with us. Review our Home-Ownership Qualification Criteria here: .
+
+For more comprehensive options, explore what’s offered by the Federal government, as noted in the links below; we’re sharing content from these websites as well.
+
+The bad news? Finding the right one takes a lot of time and effort, and there’s often a long waiting list to access these programs. [...] Facebook
+ Instagram
+ LinkedIn
+ YouTube
+
+ News
+ Contact Us
+
+Habitat for Humanity Lake-Sumter
+
+Select Page
+
+# Affordable Housing Part 2: Affordable Alternatives
+
+Sep 26, 2018 | Home Ownership
+
+Affordable Housing Part I:  The A, B, Cs
+
+A is Also for Affordable Alternatives
+
+Housing burdened. That’s the diagnosis if you’re paying more than 30% of your household income in rent/utilities. If you’re paying 50% or more, then you’re extremely housing burdened, but you probably already knew that! Whether you’re renting or trying to buy a house, are there options for finding something that fits your budget? [...] Privately owned subsidized housing– HUD helps apartment owners offer reduced rents to low-income tenants. Search for an apartment and apply directly at the management office.
+ Public Housing – affordable apartments for low-income families, the elderly, and persons with disabilities. To apply, contact a public housing agency (PHA).
+ Housing Choice Voucher Program (Section 8) – find your own place and use the voucher to pay for all or part of the rent. To apply, contact a public housing agency.
+ HUD Resource Locator– search for HUD field and regional offices, local PHAs, Multifamily and Public Housing locations, homeless coordinated entry system points of contacts, and USDA (Department of Agriculture), which focuses strictly on rural housing",tavily;tavily;tavily;tavily,Sumterville FL income based apartments,Sumterville,Sumter County,nonprofit_directory,search_result
+https://affordablehousing.com/sumter-county-fl/section8-owners,"Section 8 Rental Properties in Sumter County, FL - Affordable Housing","Learn about your applicants
+
+With Premium, instantly see renter scores generated by our advanced algorithm, showing each applicant's fit for your property.
+
+Boost your property
+
+Your premium listings are larger and appear above free listings in search results. You can also boost them to the top!
+
+Tip: Get even more attention and show you're trustworthy by earning a Trusted Owner Badge.  Join our program and request your badge today.
+
+Lease Templates
+
+Send and eSign leases quickly by using our pre-populated lease templates, tailored to each state's unique laws, or create your own lease. [...] #### Take a tour
+
+ Welcome to Premium! 
+
+Learn how to start getting value out of your new Premium features today.
+
+Get Started
+
+To start your premium subscription and attract top renters, create your first listing now.
+
+Contact prospects
+
+Proactively reach out to hot leads in the prospects tab. Click on one or multiple leads to send an email or text.
+
+Tip: Filter leads by best fit for each property listing.
+
+Pre-screen your way
+
+Control how renters apply to your property by using the pre-screening settings found in the dropdown menu of each available property listing.
+
+ Send applicants to your website
+ Create an auto-response message
+ Add your own questions and disclosures.
+
+Learn about your applicants",serpapi;tavily;serpapi;tavily;serpapi;serpapi;tavily;serpapi;serpapi;tavily,Sumterville FL low income housing,Sumterville,Sumter County,apartment_listing,search_result
+https://apartmenthomeliving.com/sumterville-fl/apartments-for-rent/cheap,"Cheap Apartments for Rent in Sumterville, FL from $800 (33 Rentals)","| Apartment Listing | Model Name | Bed/Bath | Price Per Sq.Ft. |
+ ---  --- |
+| Crescent by Stella Homes | C1 - Washington SFH | 3BR,2BA | $1.39 |
+| The Groves at Lake Ella | Palm | 3BR,2BA | $1.40 |
+| Magnolia at Powell | B1-TH | 2BR,2BA | $1.43 |
+| Rolling Acres Apartments | Three Bedroom Two Bath | 3BR,2BA | $1.17 |
+| Lakeside Retreat at 27 | Three Bedroom Two Bath | 3BR,2BA | $1.22 |
+| Carmendy Square Apartments | Ashford | 2BR,1.5BA | $1.28 |
+| Oakleaf Village Apartments | The Osprey w/Garage | 2BR,2BA | $1.44 |
+| Evolve Wildwood | 2x2 Cypress | 2BR,2BA | $1.46 |
+| Laurel Oaks | 2 bedroom - 2 bathroom | 2BR,2BA | $1.18 |
+| Silver Pointe at Leesburg | 1 bedroom | 1BR,1BA | $1.38 |
+
+## Don't Settle: How to Negotiate Your Apartment Lease and Save Money [...] ApartmentHomeLiving.com Logo
+
+# Cheap Apartments for Rent in Sumterville, FL from $800 (33 Rentals)
+
+How Many Bedrooms?Done
+
+Select your price rangeDone
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+Lifestyle Matching SearchDone
+
+Learn more about Lifestyle Search
+
+By AmenitiesDone
+
+By Community TypeDone
+
+Features and AvailabilityDone
+
+Search the lowest-cost Apartments available for rent right now in Sumterville.
+
+View Me
+
+$890 - $1,990Studio to 4 Bedroom Apartments Available Now
+
+## Lazy Oaks
+
+1414 N Lakeview AveLeesburg, FL 34748
+
+ Verified
+ Customer Reviewed
+
+close
+
+View Me
+
+$947 - $1,0501 to 2 Bedroom Apartments Available Now
+
+## Silver Pointe at Leesburg
+
+2400 Silver Pointe RdLeesburg, FL 34748
+
+Senior Living [...] | Apartment Listing | Model Name | Bed/Bath | Priced From |
+ ---  --- |
+| Lazy Oaks | 0BR/1.0BA | Studio,1BA | $890 |
+| Silver Pointe at Leesburg | 1 bedroom | 1BR,1BA | $947 |
+| Blueberry Hill | One Bed One Bath Standard | 1BR,1BA | $1,070 |
+| Rolling Acres Reserve | Magnolia | Studio,1BA | $1,099 |
+| Lake Sumter Apartment Homes | One Bedroom One Bath (b) | 1BR,1BA | $1,122 |
+| Cove at Lady Lake | One Bedroom One Bath | 1BR,1BA | $1,149 |
+| Arden Place | One Bedroom | 1BR,1BA | $1,185 |
+| Parker at East Village | A2 - 1 Bedroom, 1 Bathroom | 1BR,1BA | $1,190 |
+| Wildwood Preserve Apartment Homes | One Bedroom One Bath | 1BR,1BA | $1,199 |
+| Oakleaf Village Apartments | The Egret | 1BR,1BA | $1,199 |
+
+## Best Value Apartments for Rent in Sumterville, FL and Nearby",tavily,Sumterville FL subsidized apartments,Sumterville,Sumter County,unknown,search_result
+https://rd.usda.gov/programs-services/single-family-housing-programs/single-family-housing-direct-home-loans-9,Single Family Housing Direct Home Loans in Florida,"USDA Rural Development's Section 502 Direct Loan Program provides a path to homeownership for low- and very-low-income families living in rural areas, and ...",serpapi;serpapi,Sumterville FL USDA rental assistance,Sumterville,Sumter County,HUD/USDA/FHFC,search_result
+https://usdaloanpro.com/sumter-county,USDA Loans in Sumter County,"Purchasing a primary residence (no second homes or investment property).
+ Eligible USDA Florida property types include single-family homes, townhomes, villas, and manufactured homes can also be eligible with a USDA construction to permanent loan (“USDA Single-Close”).
+ Documenting stable and dependable income.
+
+Applicants with no credit history can still qualify for a USDA loan by utilizing non-traditional credit payment histories such as utility bills, phone bills, or rental history.
+
+Under the USDA Single-Close feature, it provides a USDA Construction to Permanent Loans for homebuyers to build on eligible locations.
+
+## Sumter County USDA Home Loan Benefits
+
+The USDA loan program is sought after in Florida because of the many flexible benefits it offers, such as: [...] Call to get Pre-Qualified: 800-806-9836 x280
+
+USDA Loan Pro Logo
+
+USDA Vendor Logo Florida USDA No #1 Lender
+
+Sean Stephens Photo
+
+## Sean A. Stephens, CMB®, CDLP®
+
+(800) 806-9836 X 280  
+ SeanS@MPLX.org  
+ NMLS#185288
+
+cmb seal
+
+# USDA Loans in Sumter County
+
+# What You Need To Know About Florida USDA Loans in Sumter County.
+
+## What is a Sumter County USDA Loan?
+
+A USDA loan is a rural housing loan program that allows eligible homebuyers to purchase a home with no down payment! The U.S. Department of Agriculture offers USDA loans through the USDA Single Family Housing Guaranteed Loan Program. [...] As one of the top USDA Approved Lenders in Sumter County, we offer lending services and can help you qualify for a Florida USDA Loan. Our extensive knowledge of mortgage lending can open many opportunities for prospective homeowners. Choosing Metroplex Mortgage Services means you get a reliable partner throughout the USDA loan qualification process.
+
+At Metroplex Mortgage Services, we can help walk you through the USDA loan program in Sumter County and maximize the many benefits offered under this unique program. Whether you want to buy a house or build on eligible USDA land, we can help you navigate the process. Our friendly experts are available to answer your questions.",serpapi;serpapi;tavily,Sumterville FL USDA rental assistance,Sumterville,Sumter County,unknown,search_result
+https://usdaproperties.com/states/FL/counties/Sumter,"USDA Home Loan Eligibility Search in Sumter County, ...","There are 164 USDA backed residential loans in Sumter county with an average loan balance of $113,747. Over 81% of the loans helped first time home buyers.",serpapi;serpapi,Sumterville FL USDA rental assistance,Sumterville,Sumter County,unknown,search_result
+https://affordablehousingonline.com/housing-search/Florida/Sumter-County,Low Income Apartments and Affordable Housing For Rent in Sumter ...,"###### Income Based Apartments in Sumter County, Florida
+
+Sumter County features 269 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Sumter County, Florida
+
+There are 102 rent subsidized apartments that do not
+provide direct rental assistance but remain affordable to low income households in Sumter County.
+
+###### Housing Choice Vouchers in Sumter County, Florida
+
+On average, Section 8 Housing Choice vouchers pay Sumter County landlords
+$500 per month towards rent. The average voucher holder
+contributes $300 towards rent in
+Sumter County. [...] ###### Income Based Apartments in Sumter County, Florida
+
+Sumter County features 269 income based apartments.
+Tenants of income based apartments typically pay no more than 30% of their income towards rent and
+utilities.
+
+###### Low Rent Apartments in Sumter County, Florida
+
+There are 102 rent subsidized apartments that do not
+provide direct rental assistance but remain affordable to low income households in Sumter County.
+
+###### Housing Choice Vouchers in Sumter County, Florida
+
+On average, Section 8 Housing Choice vouchers pay Sumter County landlords
+$500 per month towards rent. The average voucher holder
+contributes $300 towards rent in
+Sumter County. [...] The maximum amount a voucher would pay on behalf of a low-income tenant in Sumter County, Florida for
+a two-bedroom apartment is between $1,125 and $1,375.
+
+Sourced from federal housing data and AffordableHousingOnline.com
+research.
+
+|  |  |  |  |  |  |  |  |
+ ---  ---  ---  --- |
+| Federal Program Unit Count|  |  |  |  |  |  |  ---  ---  --- | | Low Income Housing Tax Credit |  |  |  |  |  ---  --- | | Section 8 Project-Based Rental Assistance |  |  |  --- | | USDA Section 515 Rural Rental Housing  | | | | | | | |
+
+###### Tracked Units by Federal Program in Sumter County, Florida
+
+Rental units may be funded in part by multiple federal programs.
+
+###### Income Based Apartments in Sumter County, Florida",serpapi;tavily,Sumter County FL income based apartments,Wildwood,Sumter County,apartment_listing,search_result
+https://affordablehousinghub.org/housing/florida/sumter-county,"Affordable Housing in Sumter County, Florida","What types of housing programs are available in Sumter County, Florida?+
+
+Sumter County, Florida offers three main types of affordable housing: Public Housing (0 listings) — government-owned properties with income-based rent; LIHTC (7 listings) — privately owned apartments built with tax credits, offering below-market rents; and Housing Authorities (0 listings) — agencies administering Section 8 vouchers and public housing programs.
+
+How large is the population of Sumter County?+
+
+Sumter County has an estimated population of 136,939 across 4 cities. With 7 affordable housing properties serving the area, the county provides a range of housing assistance options for eligible residents.
+
+## Other Counties in Florida
+
+Miami DadeCounty
+
+23 cities2,443HillsboroughCounty [...] What are the income limits for affordable housing in Sumter County, Florida?+
+
+For a 4-person household in Sumter County, Florida: Extremely Low Income (30% AMI): $26,500, Very Low Income (50% AMI): $33,650, Low Income (80% AMI): $53,850. These HUD-set limits determine eligibility for various housing programs and are updated annually.
+
+How do I apply for affordable housing in Sumter County, Florida?+
+
+To apply for affordable housing in Sumter County, Florida: 1) Browse the listings on this page to find properties in your preferred city, 2) Contact the property or housing authority directly, 3) Complete their application, and 4) Provide proof of income and household size. Waitlist times vary — apply to multiple properties to maximize your chances. [...] Affordable Housing Hub
+
+# Affordable Housing in SumterCounty, Florida
+
+4citieswith7housing listings· Pop. 136,939
+
+Total Listings
+
+Public Housing
+
+7
+
+LIHTC
+
+0
+
+Authorities
+
+0
+
+Open Waitlists
+
+## Fair Market Rent - SumterCounty, FL
+
+FMR represents the estimated amount needed to cover rent and utilities for a moderately-priced unit in this area.
+
+| Bedrooms | FMR |
+ --- |
+| Studio/Efficiency | $945 |
+| 1 Bedroom | $951 |
+| 2 Bedroom | $1,250 |
+| 3 Bedroom | $1,572 |
+| 4 Bedroom | $1,665 |
+
+## Income Limits - SumterCounty, FL
+
+Annual income limits by household size used to determine eligibility for affordable housing programs.
+
+1Person
+
+Extremely Low (30%)
+:   $14,150
+
+Very Low (50%)
+:   $23,600
+
+Low (80%)
+:   $37,700
+
+2Persons
+
+Extremely Low (30%)
+:   $17,420
+
+Very Low (50%)
+:   $26,950",tavily;tavily;tavily,Sumter County FL income based apartments,Wildwood,Sumter County,apartment_listing,search_result
+https://apartmenthomeliving.com/sumter-county-fl/apartments-for-rent/low_income,"Low Income Apartments for Rent in Sumter County, FL (1 Rental)","ApartmentHomeLiving.com Logo
+
+# Low Income Apartments for Rent in Sumter County, FL (1 Rental)
+
+How Many Bedrooms?Done
+
+Select your price rangeDone
+
+to
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+Lifestyle Matching SearchDone
+
+Learn more about Lifestyle Search
+
+By AmenitiesDone
+
+By Community TypeDone
+
+Features and AvailabilityDone
+
+Done
+
+close
+
+View Me
+
+Rent Specials
+
+$1,122 - $2,319
+
+Total Monthly Price
+
+#### Total Monthly Price
+
+Base Rent
+
+$1,122 - $2,319
+
+Total Monthly Price
+
+Varies
+
+1 to 4 Bedroom Apartments Available Now
+
+## Lake Sumter Apartment Homes
+
+10816 NE 87th LoopLady Lake, FL 32162
+
+Affordability
+
+ Verified
+ Low Income
+
+## Your Guide to Co-Signers: The Risks, Rewards, and Everything in Between [...] | Bedroom | Average Rent | Cheapest Rent | Highest Rent |
+ ---  --- |
+| Sumter County Studio Apartments | $1,525 | $1,383 | $1,799 |
+| Sumter County 1 Bedroom Apartments | $1,441 | $1,122 | $2,302 |
+| Sumter County 2 Bedroom Apartments | $1,694 | $1,199 | $4,500 |
+| Sumter County 3 Bedroom Apartments | $2,165 | $1,399 | $5,000 |
+| Sumter County 4 Bedroom Apartments | $2,404 | $1,684 | $2,699 |
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+### Explore Sumter County
+
+## Let everyone know!
+
+### Do you know the Sumter County area?
+
+If you’re an expert on all things Sumter County, tell us what you love (and don't) by rating it and writing a review.
+
+Write a ReviewDecorative image [...] There are currently 31 Three Bedroom Apartments listings available in Sumter County on ApartmentHomeLiving.com. The pricing ranges from $1,399 to $5,000 - averaging $2,165 for the location.
+
+## Expert Rental Resources
+
+The rental experts at ApartmentHomeLiving.com provide you with top advice, tools, and tips for understanding the leasing process and finding the perfect rental. Here are a few helpful rental and leasing articles from our experts to guide you on your search.
+
+### Articles, How-To's, and Tips
+
+decorative image for Apartment Occupancy Rates: Renter Attraction vs Renter Retention   article
+
+### Apartment Occupancy Rates: Renter Attraction vs Renter Retention
+
+Written by: Robin Stewart",serpapi;tavily;serpapi;tavily;serpapi,Sumter County FL affordable housing,Wildwood,Sumter County,unknown,search_result
+https://sumterbusiness.com/housing-in-sumter-county,Housing in Sumter County,"These exciting new communities will offer exceptional housing opportunities for professionals, skilled workers and their families, retirees, or anyone desiring ...",serpapi;serpapi,Sumter County FL affordable housing,Wildwood,Sumter County,unknown,search_result
+https://uwls.org/help-in-sumter-county-florida,Help in Sumter County Florida,"| Homes in Partnership | (407) 886-2451 |
+| Housing Authority - City of Eustis | (352) 357-4851 |
+| Lake North Apartments | (352) 753-1882 |
+| New Vision for Independence | (352) 435-5040 |
+| Pepper Tree Apartments | (855) 747-6654 |
+| Picerne Real Estate Group | (407) 772-0200 |
+| Raintree Apartments | (352) 726-4330 |
+| Richman Property Services | (813) 262-0401 |
+| Saint Paul Catholic Church | (352) 787-6354 |
+| Refuge at Jumper Creek | (352) 568-8400 | [...] | The Haven of Lake & Sumter Counties | (352) 753-5800 |
+| US Dept. of Veterans Affairs Homeless Hotline | (877) 424-3838 |
+| VORRH (VETS ONLY) | (352) 702-8245 |
+| Zero Hour Life Center (disability application assistance) | (352) 765-4943 |
+| Hope with a Purpose (documentation [IDs for example], food and etc.) | (352) 602-4569 |
+| House of Elyon Church, Inc | (352) 242-1630 |
+| Central Florida Hope Center | (407) 826-1160 |
+| Lifepointe Church | (352) 357-5640 |
+| Public Schools District - Lake County | (352) 253-6500 |
+| Refuge at Jumper Creek | (352) 568-8400 |
+| Trinity Assembly of God | (352) 787-0996 |
+| Concord Rents | (407) 741-8600 |
+| Davis Companies | (352) 472-7773 |
+| Flynn Management Corporation | (727) 449-1182 |
+| Homes in Partnership | (407) 886-2451 | [...] | Homless Assistance | Phone |
+| Come As You Are Ministries - Leesburg (Drop In Center)\ | (352) 396-3570 |
+| Homeless Student Liaison (Families in Transition) | (352) 742-6964  (352) 742-6967 |
+| Find, Feed, Restore - Clermont | (866) 236-2983 |
+| Forward Paths | (352) 408-2307 |
+| Leesburg Resource Center\ | (352) 728-9765 |
+| Mid Florida Homeless Coalition for Housing Assessment | (352) 860-2308 |
+| Mulberry Inn for Women & Children - Clermont | (352) 404-6946 |
+| New Beginnings of Central Florida - Clermont | (352) 404-6946 |
+| Open Door - Eustis (Drop In Center)\ | (352) 589-8157 |
+| Samaritan Inn - Leesburg | (352) 314-8733 |
+| St. Vincent de Paul CARES (VETS ONLY) | (727) 313-3614 |
+| The Haven of Lake & Sumter Counties | (352) 753-5800 |",serpapi;serpapi;tavily,Sumter County FL low income housing,Wildwood,Sumter County,unknown,search_result
+https://habitatls.org,Habitat for Humanity Lake-Sumter |,"##### How can I apply for a Habitat house?
+
+Habitat Lake-Sumter serves the low and very low-income families and individuals in Lake County and Sumter County. Habitat for Humanity works in good faith with people who often are at risk in society, understanding that owning a home is not the answer to every problem. However,  it can be an important step – often the first step – toward helping people break the poverty cycle.  Partner families are required to invest “sweat equity” – time spent on the build site. Our housing program is underwritten by philanthropic donations from individuals, corporations and foundations as well as grants. This allows us to provide an affordable mortgage, ensuring mortgage and escrow payments do not exceed 30% of a homeowner’s monthly income. [...] learn more
+
+## preservation and repair
+
+The Preservation & Repair program preserves affordable housing, improves accessibility and safety through critical home repairs, and revitalizes low-income neighborhoods and community spaces. 
+
+Homeowners in Lake and Sumter Counties are able to retain ownership of their homes, while increasing the safety, accessibility, and beauty of the home.
+
+learn more
+
+## ReStores
+
+Our ReStores sell new and gently used furniture, appliances, home accessories, and more at a fraction of the retail price. Proceeds from the ReStores go directly to building affordable housing solutions right in our community.
+
+We also offer FREE, easy donation pickup—just call our ReStore Scheduling Center at 352-589-3005 to schedule your pickup today!
+
+learn more [...] Facebook
+ Instagram
+ LinkedIn
+ YouTube
+
+ News
+ Contact Us
+
+Habitat for Humanity Lake-Sumter
+
+Select Page
+
+## homes. communities. hope.
+
+# since 1989
+
+### new homes built
+
+### homes repaired
+
+### students enrolled in YCA
+
+## homeownership
+
+Through Homeownership, we partner with individuals and families in Lake and Sumter Counties by providing safe, well-built, affordable housing options. For many families, traditional avenues of buying a home are simply out of reach.
+
+We empower families to invest in their futures through sweat equity, financial education, and entry-level homeownership.
+
+learn more
+
+## preservation and repair",tavily,Sumter County FL low income housing,Wildwood,Sumter County,nonprofit_directory,search_result
+https://sumterha.org,Sumter Housing Authority,"Sumter Housing Authority
+Sumter Housing Authority
+Sumter Housing Authority
+
+# Welcome to the Housing Authority of the City of Sumter
+
+Providing quality housing and opportunities for our community
+
+### Welcome
+
+Sumter Housing Authority
+  
+ 15 Caldwell Street
+  
+ PO Box 1030
+  
+ Sumter, SC 29151
+
+Hours of Operation:
+  
+Monday through Thursday 8:30 a.m. until 5:00 p.m.
+
+Housing Choice Voucher (Section 8)
+  
+ Tele:
+(803)774-7303
+ Fax:
+(803)778-2315
+
+Public Housing Tele:
+(803)774-7301
+ Fax:
+(803)775-8928
+
+(PH) After hours maintenance  ""emergency"" number:
+  
+1-866-744-3951
+
+CLICK HERE
+to view Staff Directory
+
+### Important Announcements / Notices
+
+We Are Hiring!!
+Check Out Our Open Positions!
+
+We will be closed Monday, June 22 in observance of Juneteenth!
+
+### Our Mission [...] SC Housing Search
+
+Wateree Community Actions, Inc.
+
+South Carolina Department of Social Services
+
+Duke Energy
+
+City of Sumter Water Dept.
+
+Dominion Gas
+
+### What's the difference?
+
+What's the difference between Section 8 Housing Choice Voucher Program and Public Housing?
+
+Public Housing assistance is where someone receives assistance within in one of SHA's communities (apartments). These communities are owned and managed through the Housing Authority. You are placed as there is availability upon qualifying.  The Section 8 Voucher Program gives you a little more freedom to choose your own community within Sumter County. Rentals are privately owned.
+
+SumterHA
+
+##### Housing Authority of the City of Sumter
+
+Equal Housing
+Handicap Access
+Accessibility [...] Equal Housing
+Handicap Access
+Accessibility
+
+We are an Equal Housing Opportunity Provider.
+  
+ We provide housing without discrimination on the basis of race, color, religion, sex, physical or mental handicap, familial status, national origin, or other protected class. To file a complaint of discrimination, write HUD Director, Office of Civil Rights, 451 7th Street S.W., Washington, D.C. 20410 or call Customer Service at (202) 708-1112 (voice) or (202) 708-1455 (TTY).",serpapi;tavily,Sumter County FL Section 8 housing,Wildwood,Sumter County,unknown,search_result
+https://affordablehousing.com/sumter-county-fl/utilities-included,"Rental Properties in Sumter County, FL with Utilities Included","View 6 Rental Properties in Sumter County, FL with Utilities Included. Browse photos, get pricing and find the most affordable rental properties in .",serpapi,Sumter County FL USDA apartments,Wildwood,Sumter County,apartment_listing,search_result
+https://sumtercountyfl.gov/AgendaCenter/ViewFile/Item/23512?fileID=57591,[PDF] Sumter County Housing Services,"FY 23‐24: $340,000 Lake Sumter Reserve Apartment Homes 10840 NE 89th Drive, Lady Lake, FL 32162 Community Partners • Homes In Partnership, Inc. constructs affordable site‐built homes in Webster within the Live Oak Park Subdivision ‐  • Habitat for Humanity offers newly constructed affordable site‐built homes and a preservation/repair program ‐  • Sumter County UF/IFAS Extension Office provide a wide variety of educational services, programs, and resources ‐  • USDA Rural Development provides home repair and purchase assistance programs ‐  • Citizens First Bank offers a Fannie Mae HomeReady Mortgage to help homebuyers overcome down payment and closing cost barriers ‐  Community Partnerships help low to moderate‐income families achieve their dreams of homeownership, provide opportunities [...] Down payment assistance: FY 21‐22: 3 ‐ $23,774 FY 22‐23: 6 ‐ $100,000 FY 23‐24: 4 In Progress Purchase Assistance Multi‐Family Rental Development This strategy provides funds to sponsors for development of affordable housing rental units that are awarded construction financing through the State Apartment Incentive Program (SAIL), Low Income Housing Tax Credits (LIHTC), or Florida Housing Finance Corporation (FHFC).
+Lake Sumter Reserve was awarded FHFC and SHIP funding to complete the final build‐out of the apartment community in Sumter County. [...] their dreams of homeownership, provide opportunities for a better way of life, and create healthy, sustainable and affordable homes in our community.",serpapi;tavily,Sumter County FL USDA apartments,Wildwood,Sumter County,government,search_result
+https://usdamortgagesource.com/sumter-florida,USDA 100% Home Loan Financing in Sumter County Florida,Learn about Sumter County in Florida. We offer 100% USDA Home Loan Mortgages in counties like Sumter County. Serving all first time buyers.,serpapi,Sumter County FL USDA apartments,Wildwood,Sumter County,unknown,search_result
+https://homefinancialgroup.net/locations/sumter/usda-mortgage,"USDA Mortgage in Sumter County, Florida | Home Financial Group | Home Financial Group","## USDA Mortgage Details for Sumter County Homebuyers
+
+The USDA Rural Development loan program offers one of the most compelling value propositions in residential mortgage financing — zero down payment and below-market interest rates for eligible properties and borrowers in Sumter County, Florida. Contrary to popular belief, USDA-eligible areas are not limited to farmland; many suburban communities throughout Sumter County qualify based on population density criteria. [...] ## Why Choose a USDA Mortgage in Sumter County?
+
+Sumter County offers diverse housing opportunities, and a USDA Mortgage can be an excellent way to finance your home purchase. Home Financial Group has been helping Florida homebuyers since 2002 with personalized mortgage solutions tailored to local market conditions. Our licensed loan officers understand the nuances of the Sumter County real estate market and will guide you from pre-approval through closing.
+
+### Key Benefits
+
+ Zero down payment required
+ Low mortgage insurance costs
+ Competitive fixed interest rates
+ Available in eligible rural and suburban areas
+ Flexible credit requirements
+
+## USDA Mortgage Details for Sumter County Homebuyers [...] USDA loans are available to moderate-income borrowers who meet household income limits set by the U.S. Department of Agriculture for Sumter County. The annual mortgage insurance fee for USDA loans is just 0.35% — significantly lower than FHA's 0.55% or conventional PMI rates — which helps keep monthly payments affordable even without a down payment. With the median home price in Sumter County at $350,000, the USDA program puts homeownership within reach for buyers who might otherwise struggle to save a traditional down payment.",tavily,Sumter County FL USDA apartments,Wildwood,Sumter County,unknown,search_result
+https://affordablehousing.com/lake-county-fl,"Rental Properties in Lake County, FL","View 43 rentals in Lake County, FL. Browse photos, get pricing and find the most affordable housing.",serpapi;serpapi;serpapi,Lake County FL income based apartments,Leesburg,Lake County,apartment_listing,search_result
+https://lowincomehousing.us/cty/fl-lake,Lake County FL Low Income Housing Apartments,"|  |  |
+ --- |
+| 1 bdrm / 2 bdrm |  |
+
+51 of 55
+
+Fruitland Acres Fruitland Park
+
+#### Fruitland Acres Fruitland Park
+
+303 Urick St Fruitland Park, FL - 34731
+
+Fruitland Acres Fruitland Park is a Low-Income Housing Tax Credit apartment located in Fruitland Park, FL. If you are looking for an affordable housing option, these rental apartments are supported by the LIHTC and having the applicable program rent and income restrictions. The LIHTC gives incentiv ...
+
+|  |  |
+ --- |
+|  |  |
+
+52 of 55
+
+Florida Cooperative Extension - Lake County Cooperative Extension Service
+
+#### Florida Cooperative Extension - Lake County Cooperative Extension Service
+
+1951 Woodlea Road Tavares, FL - 32778 [...] 1305 Raintree Bend Clermont, FL - 34711
+
+Total Apartments: 313 Total Low Income Apartments: 310 Two Bedroom (2 bdrm) Apartments: 193 Three Bedroom (3 bdrm) Apartments: 96 Raintree provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowanc ...
+
+|  |  |
+ --- |
+|  |  |
+
+16 of 55
+
+Osprey Ridge Apartments
+
+#### Osprey Ridge Apartments
+
+201 Hunt St Clermont, FL - 34711
+
+Total Apartments: 176 Total Low Income Apartments: 174 Two Bedroom (2 bdrm) Apartments: 112 Three Bedroom (3 bdrm) Apartments: 64 Osprey Ridge Apartments provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based u ... [...] 1508 Spring Lake C Fruitland Park, FL - 34731
+
+Total Apartments: 96 Total Low Income Apartments: 68 Two Bedroom (2 bdrm) Apartments: 48 Three Bedroom (3 bdrm) Apartments: 48 Senior Apartments Family Apartments Spring Lake Cove I provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Inc ...
+
+|  |  |
+ --- |
+| 2 bdrm / 3 bdrm |  |
+
+13 of 55
+
+Woodcliff Apartments
+
+#### Woodcliff Apartments
+
+1000 Disston Avenu Clermont, FL - 34711
+
+Total Apartments: 34 One Bedroom (1 bdrm) Apartments: 26 Two Bedroom (2 bdrm) Apartments: 8 Senior Apartments Family Apartments Woodcliff provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowance ...",serpapi;tavily;tavily;serpapi;tavily,Lake County FL income based apartments,Leesburg,Lake County,nonprofit_directory,search_result
+https://apartmenthomeliving.com/lake-county-fl/apartments-for-rent/low_income,Low Income Lake County Apartments for Rent,"Write a ReviewDecorative image
+
+## Frequently Asked Questions about Low Income Lake County Apartments
+
+### What is the Cheapest Low Income apartment in Lake County?
+
+Currently the most affordable Low Income Apartment in Lake County is at Silver Pointe at Leesburg listed at $947.
+
+### How much is the average rent for a Low Income Lake County Apartment?
+
+The average rent for a Low Income Apartment in Lake County is $1,340.
+
+### What is the largest Low Income Lake County Apartment for rent?
+
+Today's Low Income apartment with the most square footage in Lake County is a 1,431 square feet unit starting from $1,149 at Cove at Lady Lake.
+
+### What is the average size for Lake County Low Income Apartments for rent? [...] | Bedroom | Average Rent | Cheapest Rent | Highest Rent |
+ ---  --- |
+| Lake County Studio Apartments | $1,110 | $875 | $1,581 |
+| Lake County 1 Bedroom Apartments | $1,572 | $850 | $4,050 |
+| Lake County 2 Bedroom Apartments | $1,852 | $1,000 | $7,050 |
+| Lake County 3 Bedroom Apartments | $2,312 | $1,295 | $9,435 |
+| Lake County 4 Bedroom Apartments | $3,984 | $1,612 | $9,435 |
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+### Browse Apartments in Lake County
+
+See all Apartments in Lake
+
+### Explore Lake County
+
+## Let everyone know!
+
+### Do you know the Lake County area?
+
+If you’re an expert on all things Lake County, tell us what you love (and don't) by rating it and writing a review.
+
+Write a ReviewDecorative image [...] ApartmentHomeLiving.com Logo
+
+# Low Income Apartments for Rent in Lake County, FL (7 Rentals)
+
+How Many Bedrooms?Done
+
+Select your price rangeDone
+
+Note: Properties with the Total Monthly Price badge include all required fees. Hover over the badge for details.
+
+Lifestyle Matching SearchDone
+
+Learn more about Lifestyle Search
+
+By AmenitiesDone
+
+By Community TypeDone
+
+Features and AvailabilityDone
+
+Done
+
+close
+
+View Me
+
+$1,299 - $1,6592 to 3 Bedroom Apartments Available Jun 22
+
+## Southwinds Cove
+
+3400 Southwinds Cove WayLeesburg, FL 34748
+
+Family Friendly
+
+ Verified
+ Customer Reviewed
+ Low Income
+
+close
+
+View Me
+
+$1,170 - $1,4041 to 2 Bedroom Apartments Available Now
+
+## Valencia Grove II
+
+2751 Dillard RdEustis, FL 32726
+
+Senior Living
+
+ Verified
+ Customer Reviewed
+ Low Income
+
+close",tavily;serpapi;tavily;serpapi;tavily,Lake County FL income based apartments,Leesburg,Lake County,unknown,search_result
+https://eustishousingauthority.com/housing-programs,"Housing Programs | Eustis Housing Authority, Florida",Lake County Housing for Section 8 rental assistance. Contact Us 352.357.4851. Office Hours Monday - Friday 9:00am – 5:00pm Closed Noon – 12:30pm call Customer ...,serpapi;serpapi,Lake County FL affordable housing,Leesburg,Lake County,housing_authority,search_result
+https://affordablehousing.com/housing-authority-fl/lake-county-housing-agency-1-1309,"Lake County Housing Agency 1 - Tavares, FL","Lake County Housing Agency 1 2008 Classique Lane, Tavares, FL 32778 (352) 742-6540. Apply for government assistance programs income-restricted rentals rentals ...",serpapi;serpapi,Lake County FL affordable housing,Leesburg,Lake County,apartment_listing,search_result
+https://midfloridanewspapers.com/clermont_sun/opinions/viewpoint-kudos-to-affordable-housing-in-lake-county/article_52bc84ab-d708-4748-93de-9870d691370e.html,Viewpoint: Kudos to affordable housing in Lake County | Opinions | midfloridanewspapers.com,"Kudos to Lake County leaders and Leesburg City Commissioners who recently found a solution by working with Dominium, a national leader in attainable housing that has been working in Florida for over a decade.
+
+Lake County approved funding and the City of Leesburg approved a PUD change paving the way for a beautiful, amenity-filled complex with 276 residential rentals for low and moderate-income families. The Dominium project, with generous buffers on 18 acres near Lake Denham, will include a pool, clubhouse and community center. The two-, three- and four-bedroom apartments will be rent-restricted for families earning no more than 60% of the area’s median income. [...] In recent years, owning a home or finding affordable rentals has become nearly impossible for many working families, including here in Lake County. Housing and rental prices soared as construction costs and demand rose.
+
+Communities faced an alarming problem: Many working families found they earned too much to qualify for subsidized housing but could not afford market-rate homes.
+
+Even modest homes and apartments became out of reach for essential workers, including many teachers, police officers, nurses and firefighters. It’s a problem that has confounded city, county and state officials. [...] Dominium’s reputation goes well beyond building quality, attainable housing. They make scholarships available for residents and their dependents. They offer $100 Kindness Cards when residents have extraordinary hardships. Dominium employees are rewarded for volunteering in the community. The company offers residents opportunities for internships in diverse vocations, including accounting, marketing and property management.
+
+Dominium is planning to take their mission of quality, workforce housing soon to Groveland and Minneola. That’s good news for South Lake. Attainable housing means a stable workforce and a higher quality of life for all.
+
+Angie Langley is CEO of Langley Consulting Group in Clermont and helps businesses work with governments for land development throughout Florida.",serpapi;tavily,Lake County FL affordable housing,Leesburg,Lake County,unknown,search_result
+https://affordablehousing.com/lake-county-fl/section8-owners,"Section 8 Rental Properties in Lake County, FL","View 43 Section 8 Rental Properties in Lake County, FL. Browse photos, get pricing and find the most affordable rental properties in .",serpapi,Lake County FL Section 8 apartments,Leesburg,Lake County,apartment_listing,search_result
+https://thehopecenter.com/places/lake-county-housing-authority,Lake County Housing Authority - The Hope Center,"The Lake County Housing Authority manages several funded programs including public housing, HCV (Housing Choice Vouchers), previously Section 8 Housing Choice Vouchers funded by the federal Department of Housing and Urban Development (HUD), and subsidized affordable housing units for rental assistance.
+
+The LCHA Housing Choice Voucher Program helps eligible low-income individuals and families pay their rent, and the Family Self-Sufficiency Program encourages low-income families to increase earnings and contributions toward their rent in exchange for money being placed in an escrow account.
+
+Contact the Lake County Housing Authority (LCHA) at (847) 223-1170 for more information about coverage area and program availability.
+
+## Recent Posts
+
+## Recent Comments [...] ## Recent Posts
+
+## Recent Comments
+
+#### Join The Hope Center Newsletter
+
+#### 2022 Ⓒ The Hope Center. All rights reserved.
+
+en
+ar
+zh-CN
+nl
+en
+fr
+de
+it
+pt
+ru
+es
+uk
+
+##### Change Location
+
+###### Find awesome listings near you!",serpapi;tavily;serpapi;tavily,Lake County FL Section 8 apartments,Leesburg,Lake County,unknown,search_result
+https://myhousingsearch.com/tenant/FL/Search.html?ch=FL&type=rental&region_id=31066,"FloridaHousingSearch.org | Rental Housing Search: Lake, FL","Find and list homes and apartments for rent in Florida. Housing Search: Lake County, FL. Do you have a Section 8 Voucher? 250 Properties per Page Resources. ...",serpapi,Lake County FL Section 8 apartments,Leesburg,Lake County,unknown,search_result
+https://lakecountyha.org,"Lake County, Illinois Housing Authority","Providing public housing for low income families, the elderly, and persons with disabilities for Lake County, IL.",serpapi,Lake County FL public housing,Leesburg,Lake County,unknown,search_result
+http://officialhousingauthority.com/florida/tavares-county-housing-authority,Lake Housing Authority – Find Local Florida Housing At OfficialHousingAuthority.com,"OfficialHousingAuthority.com is a comprehensive database of information about housing authorities. Public housing was created to provide safe and decent rental housing for low-income families, senior citizens, and persons with disabilities. Units that are provided by Lake County public housing provide a large variety of living arrangements, from single family houses to apartments with care for elderly people. Currently, 1.2 million households live in public housing, which is overseen by around 3,300 housing authorities. We try to keep our information as accurate as possible, but if you find any inaccuracies, please contact us. [...] Official Housing Authority
+
+## FL106 Lake County Housing Authority
+
+# Lake County Housing Authority
+
+The Lake County Housing Authority oversees both public housing and voucher programs, if available. The housing authority owns and manages facilities which total units across the city. Public housing agencies, including the public housing agency in Lake County, are required to submit and receive approval from the US Department of Housing and Urban Development Jacksonville Area Office every 5 years. They detail the housing authority's strategy, outreach programs, operations, and policies so information can change. The Lake County HA code is FL106, and it's part of the Jacksonville Area Office.
+
+### Florida Official Housing Authority Contact Information:
+
+Executive Director: Cheryl Howell [...] Executive Director: Cheryl Howell
+
+Board Chairperson: Jimmy Connor
+
+Address: 323 North Sinclair Avenue  
+Tavares, FL 32778-Additional Address Information
+
+Phone: (352) 742 - 6540
+
+Fax: (352) 742 - 6535
+
+Website: www.hud.gov
+
+Email: chowell@lakecountyfl.gov
+
+Code: FL106
+
+Programs Administered: Section 8
+
+### Helping You Find Cheap Apartments in Lake County
+
+The Lake County Housing Authority offers a wide variety of programs ranging from affordable public housing, housing projects, and subsidized housing all over Lake County, FL. The staff's goals include providing affordable housing in secure environments, while providing a high level of service. You can browse available apartments, housing units, and other accommodations directly by visiting their website:
+
+<www.hud.gov>",tavily,Lake County FL public housing,Leesburg,Lake County,housing_authority,search_result
+https://uwls.org/help-in-lake-county-florida,Help in Lake County Florida • United Way of Lake and Sumter Counties,"| The Haven of Lake & Sumter Counties | (352) 753-5800 |
+| US Dept. of Veterans Affairs Homeless Hotline | (877) 424-3838 |
+| VORRH (VETS ONLY) | (352) 702-8245 |
+| Zero Hour Life Center (disability application assistance) | (352) 765-4943 |
+| Hope with a Purpose (documentation [IDs for example], food and etc.) | (352) 602-4569 |
+| House of Elyon Church, Inc | (352) 242-1630 |
+| Central Florida Hope Center | (407) 826-1160 |
+| Lifepointe Church | (352) 357-5640 |
+| Public Schools District - Lake County | (352) 253-6500 |
+| Refuge at Jumper Creek | (352) 568-8400 |
+| Trinity Assembly of God | (352) 787-0996 |
+| Concord Rents | (407) 741-8600 |
+| Davis Companies | (352) 472-7773 |
+| Flynn Management Corporation | (727) 449-1182 |
+| Homes in Partnership | (407) 886-2451 | [...] | Homes in Partnership | (407) 886-2451 |
+| Housing Authority - City of Eustis | (352) 357-4851 |
+| Lake North Apartments | (352) 753-1882 |
+| New Vision for Independence | (352) 435-5040 |
+| Pepper Tree Apartments | (855) 747-6654 |
+| Picerne Real Estate Group | (407) 772-0200 |
+| Raintree Apartments | (352) 726-4330 |
+| Richman Property Services | (813) 262-0401 |
+| Saint Paul Catholic Church | (352) 787-6354 |
+| Refuge at Jumper Creek | (352) 568-8400 | [...] | Public School District - Lake County | (352) 253-6500 |
+| Anointed Community Services | (352) 404-7898 |
+| Marine Toys for Tots Foundation | (407) 501-6100 |
+| Children's Home Society of Florida | (352) 732-1355 |
+| YMCA of Central Florida | (407) 896-6901 |",tavily,Lake County FL public housing,Leesburg,Lake County,unknown,search_result

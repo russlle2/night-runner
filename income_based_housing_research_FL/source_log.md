@@ -1,3 +1,912 @@
 # Source Log
 
-This file is generated and refreshed by `export_results.py`.
+## Lake North Apts II
+- address: 36 Fair Market Rent - Lake County
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lake-north-apts-ii-2268-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: nits designated as low-income housing in Lady Lake, Florida. The property serves residents in Lake County and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 || Lady Lake, Florida. The property serves residents in Lake County and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized propert || y and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lake North Apts Ii is typically 30% of household income || tions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lake North Apts Ii is typically 30% of household income or less. What are the income limits for affordable housing in Lake County, FL? + For a 4-person household in || Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lake North Apts Ii Low Income (LIHTC) Lake || Lake North Apts Ii | Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL L || Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lake North Apts Ii Low Income (LIHTC) Lake North Apts Ii 511 Highway 466 Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property L
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-lady-lake-lake-north--e94336264c60.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/lake-county/lady-lake [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ousing Authorities Waitlist Status Any Status Open Now Opening Soon Closed Example Photo Low Income (LIHTC) Cove At Lady Lake 735 S US HWY 441, LADY LAKE, FL, 32159 176 Units 1BR, 2BR, 3BR, 4BR View Details Example Photo Low Income (LIHTC) Lake North Apts Ii 511 HWY 466, LADY LAKE, FL, 32159 || st Status Any Status Open Now Opening Soon Closed Example Photo Low Income (LIHTC) Cove At Lady Lake 735 S US HWY 441, LADY LAKE, FL, 32159 176 Units 1BR, 2BR, 3BR, 4BR View Details Example Photo Low Income (LIHTC) Lake North Apts Ii 511 HWY 466, LADY LAKE, FL, 32159 36 Units Units Available View Details Example Photo Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S OLD DIXIE HWY, LADY LAKE, || LAKE, FL, 32159 176 Units 1BR, 2BR, 3BR, 4BR View Details Example Photo Low Income (LIHTC) Lake North Apts Ii 511 HWY 466, LADY LAKE, FL, 32159 36 Units Units Available View Details Example Photo Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S OLD DIXIE HWY, LADY LAKE, FL, 32159 36 Units Units Available View Details Example || ousing Authorities Waitlist Status Any Status Open Now Opening Soon Closed Example Photo Low Income (LIHTC) Cove At Lady Lake 735 S US HWY 441, LADY LAKE, FL, 32159 176 Units 1BR, 2BR, 3BR, 4BR View Details Example Phot || Cove At Lady Lake 735 S US HWY 441, LADY LAKE, FL, 32159 176 Units 1BR, 2BR, 3BR, 4BR View Details Example Photo Low Income (LIHTC) Lake North Apts Ii 511 HWY 466, LADY LAKE, FL, 32159 36 Units Units Available View Details Example Photo Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S OLD DIXIE HWY, LADY LAKE, FL, 32159 36 Units Units Available View Details Example || Apts Ii 511 HWY 466, LADY LAKE, FL, 32159 36 Units Units Available View Details Example Photo Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S OLD DIXIE HWY, LADY LAKE, FL, 32159 36 Units Units Available View Details Example
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-lady-lake-19f065240aeb.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=available_now, waitlist=open, rent=$1558; $1638; $1857; $2362; $2849
+- phone call needed: yes
+
+## Lakewood Villas
+- address: 306 S. Old Dixie Hwy Lady Lake
+- phone: (352) 753-1006
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Lady Lake
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Lady Lake
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Lady Lake
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Lady Lake
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Lady Lake
+  - notes: Snippet type: lead
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: Pet-friendly apartments, Affordable apartments, Senior Living apartments, Handicap Accessible apartments in Lady Lake, FL | Lakewood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property features one and two bedroom units with a stove, refrigerator, central heat and air, carpeting, and mini blinds. Residents enjoy the convenience of an on-site laundry facility. The commu
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: page_summary
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: , Handicap Accessible apartments in Lady Lake, FL | Lakewood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The propert
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: rent
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: mmunity Room with Kitchen Experienced Management Gazebo Near to Shopping On-Site Maintenance Floor Plans One Bedroom Flat Bedrooms 1 Bath 1 Size (sq ft) 610 Price Per Month $761.00 - $916.00 Deposit Equal to one month's rent Two Bedroom Flat Bedrooms 2 Bath 1 Size (sq ft) 785 Price Per Month $828.00 - $1,014.00 Deposit Equal to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schools What's Nearby Bedrooms Bat
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: rent
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: Bedrooms 1 Bath 1 Size (sq ft) 610 Price Per Month $761.00 - $916.00 Deposit Equal to one month's rent Two Bedroom Flat Bedrooms 2 Bath 1 Size (sq ft) 785 Price Per Month $828.00 - $1,014.00 Deposit Equal to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schools What's Nearby Bedrooms Bath Size (sq ft) Price Per Month Deposit One Bedroom Flat 1 1 610 $761.00 - $916.00 Equal to one month's rent Two Bedroom Fl
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: rent
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: ual to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schools What's Nearby Bedrooms Bath Size (sq ft) Price Per Month Deposit One Bedroom Flat 1 1 610 $761.00 - $916.00 Equal to one month's rent Two Bedroom Flat 2 1 785 $828.00 - $1,014.00 Equal to one month's rent Lease Terms We offer a twelve-month lease. Pet Policy Pets are allowed with a $200 pet deposit. Approved service animals are welcome. Income Qua
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: rent
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: cap Accessible apartments in Lady Lake, FL | Lakewood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property featu
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: application
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: tion and bear all risk for inaccuracies. Pricing and terms are subject to change. Toggle navigation Dimension One Management, Inc. - Lakewood Villas Lakewood Villas Contact Email Property Manager Website Feedback Rental Application Request Rental Application Brochure View Email Brochure Print Property Brochure Request Information View Brochure Email Brochure Print Property Brochure Driving Directions Request Information Print Property B
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: application
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: inaccuracies. Pricing and terms are subject to change. Toggle navigation Dimension One Management, Inc. - Lakewood Villas Lakewood Villas Contact Email Property Manager Website Feedback Rental Application Request Rental Application Brochure View Email Brochure Print Property Brochure Request Information View Brochure Email Brochure Print Property Brochure Driving Directions Request Information Print Property Brochure Email Brochure Driv
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: application
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: mily/parental status, income derived from a public assistance program, political beliefs, or reprisal or retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not all bases apply to all programs). Remedies and complaint filing deadlines vary by program or incident. Persons with disabilities who require alternative means of communication for program information (e.g., Braille, large print, a
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: application
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: ing Community Laundry Room Community Room with Kitchen Experienced Management Gazebo Near to Shopping On-Site Maintenance Floor Plans One Bedroom Flat Bedrooms 1 Bath 1 Size (sq ft) 610 Price Per Month $761.00 - $916.00 Deposit Equal to one month's rent Two Bedroom Flat Bedrooms 2 Bath 1 Size (sq ft) 785 Price Per Month $828.00 - $1,014.00 Deposit Equal to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schoo
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: requirements
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: Floor Plans One Bedroom Flat Bedrooms 1 Bath 1 Size (sq ft) 610 Price Per Month $761.00 - $916.00 Deposit Equal to one month's rent Two Bedroom Flat Bedrooms 2 Bath 1 Size (sq ft) 785 Price Per Month $828.00 - $1,014.00 Deposit Equal to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schools What's Nearby Bedrooms Bath Size (sq ft) Price Per Month Deposit One Bedroom Flat 1 1 610 $761.00 - $916.00 Equal to on
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: requirements
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: 2 Bath 1 Size (sq ft) 785 Price Per Month $828.00 - $1,014.00 Deposit Equal to one month's rent Previous Floorplan Next Floorplan Property Photos Area Map Schools What's Nearby Bedrooms Bath Size (sq ft) Price Per Month Deposit One Bedroom Flat 1 1 610 $761.00 - $916.00 Equal to one month's rent Two Bedroom Flat 2 1 785 $828.00 - $1,014.00 Equal to one month's rent Lease Terms We offer a twelve-month lease. Pet Policy Pets are allowed w
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: requirements
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: room Flat 1 1 610 $761.00 - $916.00 Equal to one month's rent Two Bedroom Flat 2 1 785 $828.00 - $1,014.00 Equal to one month's rent Lease Terms We offer a twelve-month lease. Pet Policy Pets are allowed with a $200 pet deposit. Approved service animals are welcome. Income Qualifications Note: Annual adjusted income cannot exceed the moderate income level as set by Rural Development. The maximum allowable income is subject to change. El
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: requirements
+- http://lakewoodvillasladylake.com [unknown] — confirmed: property_name
+  - snippet: usda, rural development, senior, elderly, disabled
+  - raw_html: raw_html/lakewoodvillasladylake-com-2415293cc8f9.html
+  - notes: Snippet type: program_terms
+- http://lakewoodvillasladylake.com/ [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: e apartments in Lady Lake, FL | Lakewood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: || Pet-friendly apartments, Handicap Accessible apartments, Senior Living apartments, Affordable apartments in Lady Lake, FL | L || e apartments in Lady Lake, FL | Lakewood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabl || wood Villas Toggle navigation Overvi || come seniors aged 62+ and disabl || wood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless || od Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabl || wood Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Lakewood Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Reques || od Villas 306 S. Old Dixie Hwy Lady Lake, FL 32159 (352) 753-1006 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property features one and two bedroom units with a stove, refrigerator, central heat and air, carpeting || edroom || ement Gazebo Near to Shopping On-Site Maintenance Overview Amenities Floorplans Property Photos Areamap Overview Office Address Office TDD Phone: 711 Lakewood Villas offers affordable housing for low income seniors aged 62+ and disabled or handicapped households, regardless of age. The property features one and two bedroom units with a stove, refrigerator, central heat and air, carpeting || edroom
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-http-lakewoodvillasladylake-com-5babad3c6419.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lakewood-villas-of-lady-lake-2225-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ady Lake, Florida. The property has been in service since 1994 and is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized propert || nd is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lakewood Villas of Lady Lake is typically 30% of househ || tions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lakewood Villas of Lady Lake is typically 30% of household income or less. What are the income limits for affordable housing in Lake County, FL? + For a 4-person hou || Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lakewood Villas of Lady Lake Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S Old Dixie Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About T || 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Lakewood Villas of Lady Lake provides 36 l || od Villas of Lady Lake Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S Old Dixie Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About T || e Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Lakewood Villas of Lady Lake provides 36 low-income residential units in Lady Lake, Florida. The property has been in service since 1994 and is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Q
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-lady-lake-lakewood-vi-7e9dbebc5ffa.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Lady-Lake/Lakewood-Villas-of-Lady-Lake,-Ltd/10026307 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: e \ Florida \ Lake County \ Lady Lake \ Lakewood Villas of Lady Lake, Ltd ✕ Lakewood Villas of Lady Lake, Ltd 306 S Old Dixie Hwy, Lady Lake, FL 32159 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_c || Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts || e \ Florida \ Lake County \ Lady Lake \ Lakewood Villas of Lady Lake, Ltd ✕ Lakewood Villas of Lady Lake, Ltd 306 S Old Dixie Hwy, Lady Lake, FL 32159 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Colleen C || ed the waiting list status directly with the property. This waiting list status || should always confirm this status directly with the property. Dave's Thoughts On Lakewood Villas of Lady Lake, Ltd Because Lakewood Villas of Lady Lake, Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing || he property. This waiting list status forecast is based on our housing exper || ake, Ltd Because Lakewood Villas of Lady Lake, Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing || he property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm this status directly with the property. Dav || should always confirm this status directly with the property. Dave's Thoughts On Lakewood Villas of Lady Lake, Ltd Because Lakewood Villas of Lady Lake, Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for reside || y may be good for you. Since this || ake, Ltd Because Lakewood Villas of Lady Lake, Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for reside || y may be good for you. Since this property participates in the LIHTC and RD 515 programs, the property is required to accept Section 8 Hous
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-lady-lake-lakewood-vill-3a013c807f02.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$761.00 - $916.00; $828.00 - $1,014.00
+- phone call needed: yes
+
+## Lakewood Villas
+- address: 2345 South Street Leesburg
+- phone: (727) 449-1182
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Leesburg
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Leesburg
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Leesburg
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Leesburg
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakewood Villas | Leesburg
+  - notes: Snippet type: lead
+- https://flynnmanagement.com/lakewood/ [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: s Heritage Manor Apartments Sugar Hill Southern Florida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Lakewood Villas Lakewood Villas in Leesburg, Florida Lakewood Villas in Leesburg, Florida offers one and two bedroom residences. Each residence features a contem || ct communit || r Apartments Sugar Hill Southern Florida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Lakewood Villas Lakewood Villas in Leesburg, Florida Lakewood Villas in Leesburg, Florida offers one and two bedroom residences. Each residence features a contem || d Villas is the perfect community for those look || ida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Lakewood Villas Lakewood Villas in Leesburg, Florida Lakewood Villas in Leesburg, Florida offers one and two bedroom residences. Each residence features a contem || one and two bedroom residences. Each residence features a contemporary layout with step-saver kitchens. Lakewood Villas is the perfect community for those looking for affordable living apartments || Application Employment News Contact Us Lakewood Villas Lakewood Villas in Leesburg, Florida Lakewood Villas in Leesburg, Florida offers one and two bedroom residences. Each residence features a contem
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-flynnmanagement-com-lakewood-30789678ea35.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Lakewood-Villas/6710 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ble Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Lakewood Villas ✕ Lakewood Villas 2345 South Street, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Colleen Cart || orida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartme || ble Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Lakewood Villas ✕ Lakewood Villas 2345 South Street, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Colleen Carter, Ric Gresia Ren || list status directly with the property. This waiting list s || o, luncheons and coffee breaks. Conveniently located. Applicants must be 62 or older or disabled. Dave's Thoughts On Lakewood Villas Because Lakewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for || nd disposal. Each apartment has a patio || houghts On Lakewood Villas Because Lakewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for || nd disposal. Each apartment has a patio and storage shed. Join the activities of shuffleboard, bingo, luncheons and coffee breaks. Conveniently lo || o, luncheons and coffee breaks. Conveniently located. Applicants must be 62 or older or disabled. Dave's Thoughts On Lakewood Villas Because Lakewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 5 || houghts On Lakewood Villas Because Lakewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 5
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-lakewood-villa-770c81392095.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lakewood-villas-of-lady-lake-2225-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ady Lake, Florida. The property has been in service since 1994 and is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized propert || nd is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lakewood Villas of Lady Lake is typically 30% of househ || tions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lakewood Villas of Lady Lake is typically 30% of household income or less. What are the income limits for affordable housing in Lake County, FL? + For a 4-person hou || Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lakewood Villas of Lady Lake Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S Old Dixie Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About T || 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Lakewood Villas of Lady Lake provides 36 l || od Villas of Lady Lake Low Income (LIHTC) Lakewood Villas of Lady Lake 306 S Old Dixie Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About T || e Hwy Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Lakewood Villas of Lady Lake provides 36 low-income residential units in Lady Lake, Florida. The property has been in service since 1994 and is financed through a 4% Low-Income Housing Tax Credit program. Property Details Total Units 36 Fai || Q
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-lady-lake-lakewood-vi-7e9dbebc5ffa.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$1558; $1638; $1857; $2362; $2849
+- phone call needed: yes
+
+## Misty Wood Apartments
+- address: 205 Jumper Dr N
+- phone: (352) 793-8211
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: Sumter County rental assistance provider lead.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: Sumter County rental assistance provider lead.
+  - notes: Curated official lead from planning-stage verified source.
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Misty Wood Apartments - 352-793-8211
+  - notes: Snippet type: lead
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: rch Home Government Services Divisions H - Z Housing Rental Assistance Rental Assistance Resources Rental Assistance Resources Rental Assistance Providers Bushnell Garden Apartments - 352-793-4838 Lake Panasoffkee Apartments - 352-793-2288 Misty Wood Ap || rch Home Government Services Divisions H - Z Housing Rental Assistance Rental Assistance Resources Rental Assistance Resources Rental Assistance Providers Bushnell Garden Apartments - 352-793-4838 Lake Panasoffkee Apartments - 352-793-2288 Misty Wood Apartments - 352-793 || rch Home Government Services Divisions H - Z Housing Rental Assistance Rental Assistance Resources Rental Assistance Resources Rental Assistance Providers Bushnell Garden Apartments - 352-793-4838 Lake Panasoffkee Apartments - 352-793-2288 Misty Wood Apartments - 352-793-8211 Webster Apartments - 3 || rch Home Government Services Divisions H - Z Housing Rental Assistance Rental Assistance Resources Rental Assistance Resources Rental Assistance Providers Bushnell Garden Apartments - 352-793-4838 Lake Panasoffkee Apartments - 352-793-2288 Misty Wood Apartments - 352-793-8211 Webster Apartments - 352-793-4060 Wildwood Commons
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-sumtercountyfl-gov-246-rental-assistance-resources-560bb863f0b0.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/sumter-county/bushnell/misty-woods-2356-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: x of 36 one-bedroom and 6 two-bedroom apartments. The property has been in service since 1992 and is funded through 9% Low-Income Housing Tax Credits. The community || d Questions What is the average rent for affordable housing in Bushnell, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properti || has been in service since 1992 and is funded through 9% Low-Income Housing Tax Credits. The community || d Questions What is the average rent for affordable housing in Bushnell, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properties like Misty Woods is typically 30% of household income or les || stions What is the average rent for affordable housing in Bushnell, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properties like Misty Woods is typically 30% of household income or less. What size apartments are available at Misty Woods? + Misty Woods offers the following unit types: 36 One-Be || s: 36 One-Bedroom, 6 Two-Bedroom units, for a total of 42 units. What are the income li || ent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properties like Misty Woods is typically 30% of household income or less. What size apartments are available at Misty Woods? + Misty Woods offers the following unit types: 36 One-Be || oods | Affordable Housing in Bushnell, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Sumter County Bushnell Misty Woods Low Income (LIHTC) Misty Woods 205 Ju || Misty Woods | Affordable Housing in Bushnell, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Hom || oods | Affordable Housing in Bushnell, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Sumter County Bushnell Misty Woods Low Income (LIHTC) Misty Woods 205 Jumper Dr N, Bushnell, FL, 33513 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Misty Woods off
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-sumter-county-bushnell-misty-wood-020d952082e4.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Bushnell/Misty-Woods-Apartments/6252 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: s search Loading... Home \ Florida \ Sumter County \ Bushnell \ Misty Woods Apartments ✕ Misty Woods Apartments 205 Jumper Drive N, Bushnell, FL 33513 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 || e Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply || s search Loading... Home \ Florida \ Sumter County \ Bushnell \ Misty Woods Apartments ✕ Misty Woods Apartments 205 Jumper Drive N, Bushnell, FL 33513 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Colleen Carter, Ric Gr || ine has not confirmed the waiting list status directly with the pro || rtments have ceiling fans, carpet, central air and more! Call for more information! Dave's Thoughts On Misty Woods Apartments Because Misty Woods Apartments participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. T || ntly located near the downtown and business districts || ty Woods Apartments Because Misty Woods Apartments participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. T || ntly located near the downtown and business districts with shopping and restaurants. Our 1 & 2 bedroom apartments have ceiling fans, carpet, central air and mo || rtments have ceiling fans, carpet, central air and more! Call for more information! Dave's Thoughts On Misty Woods Apartments Because Misty Woods Apartments participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Se || ty Woods Apartments Because Misty Woods Apartments participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Se
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-bushnell-misty-woods-ap-0b0e13346b6c.html
+  - notes: Targeted enrichment search result.
+- https://flynnmanagement.com/misty [government] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: s Heritage Manor Apartments Sugar Hill Southern Florida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Misty Woods Misty Woods in Bushnell, Florida Misty Woods in Bushnell, Florida, offers one and two bedroom residences in single story designs. Each residence feat || s apart || Manor Apartments Sugar Hill Southern Florida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Misty Woods Misty Woods in Bushnell, Florida Misty Woods in Bushnell, Florida, offers one and two bedroom residences in single story designs. Each residence feat || . Misty Woods provides apartments for pe || ern Florida Collingswood Apartments Sunset Apartments Thornbury Apartments Palmetto Villas Georgia Heritage Manor Apartments Kings Villas Pine Ridge Villas Application Employment News Contact Us Misty Woods Misty Woods in Bushnell, Florida Misty Woods in Bushnell, Florida, offers one and two bedroom residences in single story designs. Each residence feat
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-flynnmanagement-com-misty-2d008af44a4d.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$945; $951; $1250; $1572; $1665
+- phone call needed: yes
+
+## Lake North Apts LTD
+- address: 36 Fair Market Rent - Lake County
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lake-north-apts-ii-2268-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: nits designated as low-income housing in Lady Lake, Florida. The property serves residents in Lake County and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 || Lady Lake, Florida. The property serves residents in Lake County and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized propert || y and operates under affordable housing guidelines. Property Details Total Units 36 Fair Market Rent - || Questions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lake North Apts Ii is typically 30% of household income || tions What is the average rent for affordable housing in Lady Lake, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Lake North Apts Ii is typically 30% of household income or less. What are the income limits for affordable housing in Lake County, FL? + For a 4-person household in || Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lake North Apts Ii Low Income (LIHTC) Lake || Lake North Apts Ii | Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL L || Affordable Housing in Lady Lake, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Lady Lake Lake North Apts Ii Low Income (LIHTC) Lake North Apts Ii 511 Highway 466 Apt 5, Lady Lake, FL, 32159 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property L
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-lady-lake-lake-north--e94336264c60.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$1558; $1638; $1857; $2362; $2849
+- phone call needed: yes
+
+## Wildwood Terrace
+- address: 500 Gilliam St
+- phone: (352) 748-0013
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Terrace | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Terrace | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Terrace | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Terrace | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Terrace | Wildwood
+  - notes: Snippet type: lead
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Wildwood Terrace - 352-748-0013
+  - notes: Snippet type: lead
+- https://affordablehousinghub.org/housing/florida/sumter/wildwood/wildwood-terrace-2298-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: orida. The property was placed in service in 1991 and utilizes 4% Low-Income Housing Tax Credits to support affordable housing operations. A property manager overse || d Questions What is the average rent for affordable housing in Wildwood, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properti || 4% Low-Income Housing Tax Credits to support affordable housing operations. A property manager overse || d Questions What is the average rent for affordable housing in Wildwood, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properties like Wildwood Terrace is typically 30% of household income o || stions What is the average rent for affordable housing in Wildwood, FL? + The Fair Market Rent (FMR) for Sumter County, FL is: $945 (Studio), $951 (1BR), $1250 (2BR), $1572 (3BR), $1665 (4BR). Actual rent at subsidized properties like Wildwood Terrace is typically 30% of household income or less. What are the income limits for affordable housing in Sumter County, FL? + For a 4-person household in || | Affordable Housing in Wildwood, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Sumter County Wildwood Wildwood Terrace Low Income (LIHTC) Wildwood || Wildwood Terrace | Affordable Housing in Wildwood, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL || | Affordable Housing in Wildwood, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Sumter County Wildwood Wildwood Terrace Low Income (LIHTC) Wildwood Terrace 500 Gilliam St, Wildwood, FL, 34785 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Wildwood Te || errace 500 Gilliam St, Wildwood, FL, 34785 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Wildwood Terrace consists of 40 low-income residential units in Wi || ome FL Sumter County Wildwood Wildwood Terrace Low Income (LIHTC) Wildwood Terrace 500 Gilliam St, Wildwood, FL, 34785 Information verified June 19, 2026 · We re-chec
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-sumter-wildwood-wildwood-terrace--f6ceeab6d79e.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/wildwood.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: s: 28 Three Bedroom (3 bdrm) Apartments: 32 Family Apartments Club Wildwood provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Inc ... 1 bdrm / 2 bdrm / 3 bdrm Section 8 2 of 3 Wildwood Terrace Apartments 500 Gilliam Street Wildwood , FL - 34785 Section 8 rental assistance. Total Low Incom || Credit) apartment properties. The rents are based upon the Area Medium Inc ... 1 bdrm / 2 bdrm / 3 bdrm Section 8 2 of 3 Wildwood Terrace Apartments 500 Gilliam Street Wildwood , FL - 34785 Section 8 rental assistance. Total Low Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that || e rents are based upon the Area Medi || t Wildwood , FL - 34785 Section 8 rental assistance. Total Low Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that || e rents are based upon the Area Medium Inc ... 1 bdrm / 2 bdrm / 3 bdrm Section 8 2 of 3 Wildwood Terrace Apartments 500 Gilliam Street Wildwood , FL - 34785 Section 8 rental assistance. Total Low Incom || h Section 42, a program that || e rents are based upon the Area Medium Inc ... 1 bdrm / 2 bdrm / 3 bdrm Section 8 2 of 3 Wildwood Terrace Apartments 500 Gilliam Street Wildwood , FL - 34785 Section 8 rental assistance. Total Low Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent || n 8 rental assistance. Total Low Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth || Income Apartments: 40 Total Apartments: 40 Wildwood Terrace Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-wildwood-html-0ed3109d313b.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$945; $951; $1250; $1572; $1665
+- phone call needed: yes
+
+## Orangewood Villas
+- address: 220 E Collins St
+- phone: (352) 669-0009
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Orangewood Villas | Umatilla
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Orangewood Villas | Umatilla
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Orangewood Villas | Umatilla
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Orangewood Villas | Umatilla
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Orangewood Villas | Umatilla
+  - notes: Snippet type: lead
+- https://affordablehousingonline.com/housing-search/Florida/Umatilla/Orangewood-Villas/10026157 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Housing Videos search Loading... Home \ Florida \ Lake County \ Umatilla \ Orangewood Villas ✕ Orangewood Villas 220 E Collins St, Umatilla, FL 32784 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2023 by Lorena Be || ida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Wa || Housing Videos search Loading... Home \ Florida \ Lake County \ Umatilla \ Orangewood Villas ✕ Orangewood Villas 220 E Collins St, Umatilla, FL 32784 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2023 by Lorena Bentley, Joshua Cappel || g list status directly with the property. This waiting list || ar properties. You should always confirm this status directly with the property. Apply Today! Dave's Thoughts On Orangewood Villas Because Orangewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify || h the property. This waiting list status for || hts On Orangewood Villas Because Orangewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify || h the property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm this sta || ar properties. You should always confirm this status directly with the property. Apply Today! Dave's Thoughts On Orangewood Villas Because Orangewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section || y may be good for || hts On Orangewood Villas Because Orangewood Villas participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section || y may be good for you. Since this property participates in the LIHTC and RD 515 programs, the property is required to accep
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-umatilla-orangewood-vil-beee883679f3.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/lake-county/umatilla/orangewood-villas-2350-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: wood Villas comprises 45 low-income residential units in Umatilla, Florida. The property was placed in service in 8888 and serves residents in Lake County. Property Details Total Units 45 Fair Market Rent - Lake County, FL FMR represe || d Questions What is the average rent for affordable housing in Umatilla, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $18 || rida. The property was placed in service in 8888 and serves residents in Lake County. Property Details Total Units 45 Fair Market Rent - Lake County, FL FMR represe || d Questions What is the average rent for affordable housing in Umatilla, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properti || idents in Lake County. Property Details Total Units 45 Fair Market Rent - Lake County, FL FMR represe || d Questions What is the average rent for affordable housing in Umatilla, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Orangewood Villas is typically 30% of household income || stions What is the average rent for affordable housing in Umatilla, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Orangewood Villas is typically 30% of household income or less. What are the income limits for affordable housing in Lake County, FL? + For a 4-person household in L || | Affordable Housing in Umatilla, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Umatilla Orangewood Villas Low Income (LIHTC) Orangewo || Orangewood Villas | Affordable Housing in Umatilla, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL || | Affordable Housing in Umatilla, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Umatilla Orangewood Villas Low Income (LIHTC) Orangewood Villas 220 E Collins St, Umatilla, FL, 32784 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This Property Orangewo
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-umatilla-orangewood-v-11611f3e57ff.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/umatilla.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins St Umatilla , FL - 32 || Umatilla , FL - 32784 Total Apartments: 45 Total Low Income Apartments: 45 Orangewood Villas Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 45 Total Low Income Apartments: 45 Orangewood Villas Apartments offers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins S || g through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fifth of these apartments must ... Senior Housing 2 of 2 Orangewood Villas Apartments 220 E Collins St Umatilla , FL - 32784 Total Apartments: 45 Tot
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-umatilla-html-5ee2f465cfd6.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=waitlist_only, waitlist=open, rent=$1558; $1638; $18; $1857; $2362; $2849
+- phone call needed: yes
+
+## Panasoffkee Family Apartments
+- address: 910 CR 482N
+- phone: (352) 793-2288
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: County multifamily inventory indicates family-focused property at same site as senior apartments.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: County multifamily inventory indicates family-focused property at same site as senior apartments.
+  - notes: Curated official lead from planning-stage verified source.
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Lake Panasoffkee Apartments - 352-793-2288
+  - notes: Snippet type: lead
+- https://www.lowincomehousing.us/FL/lake_panasoffkee.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, F || e housing through Section 42, a progr || Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Hous || h Florida income averages. State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Lake Panasoffkee, FL Low Income Housing: 1 Active Listings 1 of 1 Panasoffkee
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-lake-panasoffkee-html-d1f3048094e0.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/sumterville.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ome Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || low number of listings in Sumtervi || housing through Section 42, a progr || low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 || ate of Florida Median Non-Metropolitan Income $48,400 Low Income Housing Apartments Nearest To Sumterville, FL Low Income Housing Near Sumterville Due to the low number of listings in Sumterville, we have added area listings below. 1 of 10 Panasoffkee Family
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-sumterville-html-c158cd5777e2.html
+  - notes: Targeted enrichment search result.
+- https://www.uslowcosthousing.com/foreclosure-housing/fl/lady_lake/fl-lady_lake-panasoffkee-family-apartments/ [government] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ee Family Apartments - UsLowCostHousing Waiting List Section 8 Waiting List Public Housing Waiting List Waiting List Openings Affordable Housing Section 8 Housing Affordable Housing Housing Authority Rent Assistance Foreclosure Hou || meless Shelter Energy Assistance Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housin || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total A || ce Thrift Store Legal Aid Guide Glossary Articles Sign In Sign Out Log in to save your favorite Housing List Don’t miss the apartments you like! Sign in later Hom || er Home / Foreclosure Housing / Florida / Lady Lake / Panasoffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33 || ffkee Family Apartments Panasoffkee Family Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby R || by Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income || ly Apartments Advertisement 910 County Rd 482 N, Lake Panasoffkee, FL 33538 (352) 793-2288 Call for rent $ Add to Favorites Nearby Resource About This Building Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing throu
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-lady-lake-fl-lady-lake-pan-df49927c6ecd.html
+  - notes: Targeted enrichment search result.
+- https://www.uslowcosthousing.com/foreclosure-housing/fl/sanford/fl-sanford-overlook-at-monroe-apartments/ [government] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 || contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo || s Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || Panasoffkee Family Apartments 910 County Rd 482 N, Lake Panasoffkee, FL 33538 Call for rent $ Check Details Paradise Point Senior Apartments 55+ 4 North Blackwater Lane, Key Largo, FL 33037 Call for rent $ Check Details Park Place Apartment || . You will need to contact the apartments to determine if you qualify for income based rent. Get Directions More Housing Options Padgett Island Homes Pahokee Housing Authority 758 Frasier Ct, Pahokee, FL 33476 Call for rent $ Check Details Panasoffkee Family Apartments 910
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-uslowcosthousing-com-foreclosure-housing-fl-sanford-fl-sanford-overloo-3677ca52257c.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/center_hill.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assista || erties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a progr || a Medium Income (AMI) and tenant b || housing through Section 42, a progr || a Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 482 Lake Panasoffkee , FL - 33538 Rent assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords || assistance apartments Total Apartments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || tments: 36 Total Low Income Apartments: 36 Panasoffkee Family Apartmentsoffers affordable housing through Section 42, a program that gives tax credits to landlords who rent to low-income tenants. The rents depend on the average income and utility costs in the area. At least one-fift || s: 20 Senior Apartments Family Apartments Webster Ii provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 2 of 10 Panasoffkee Family Apartments 910 County Rd 4
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-center-hill-html-4bbcaa9dd4be.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=$48,400; $88,300; $59,500
+- phone call needed: yes
+
+## Lakeview Villas LTD
+- address: 200 12th St Clermont
+- phone: 1 (352) 394-2896
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakeview Villas LTD | Clermont
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakeview Villas LTD | Clermont
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakeview Villas LTD | Clermont
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakeview Villas LTD | Clermont
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Lakeview Villas LTD | Clermont
+  - notes: Snippet type: lead
+- https://www.publichousing.com/city/fl-clermont [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: income apartment locations in Clermont, FL plus additional low income housing resources nearby. Lakeview Villas for Seniors 62 and Older - Clermont 200 12th St Clermont, FL - 34711 (352) 394-2896 Currently Lakeview Villas Ltd has 38 subsidized apartments out of a total of 38 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroo || Villas for Seniors 62 and Older - Clermont 200 12th St Clermont, FL - 34711 (352) 394-2896 Currently Lakeview Villas Ltd has 38 subsidized apartments out of a total of 38 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroom apartments at Lakeview Villas Ltd. Housing pr || 34711 (352) 394-2896 Currently Lakeview Villas Ltd has || 8 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroom apartments at Lakeview Villas Ltd. Housing pr || 34711 (352) 394-2896 Currently Lakeview Villas Ltd has 38 subsidized apartments out of a total of 38 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroo || e are 34 one bedroom apartments at Lakeview Villas Ltd. Housing pr || 34711 (352) 394-2896 Currently Lakeview Villas Ltd has 38 subsidized apartments out of a total of 38 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroom apartments at Lakeview Villas Ltd. Housing program available: Rental Assistance RD | Section 515.... see || total of 38 apartments. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 34 one bedroom apartments at Lakeview Villas Ltd. Housing program available: Rental Assistance RD | Section 515.... see full details Lake County See What Other Users Are Saying Apartment Costs (user reports): How much is rent for 1 bedroom * See More User Reports on ap || ents at Lakeview Villas Ltd. Housing program available: Rental Assistance RD | Section 515.... see full details Lake County See What Other Users Are Saying Apartment Costs (user reports): How much is rent for 1 bedroom * See More User Reports on ap
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-publichousing-com-city-fl-clermont-f5be223b1ccf.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Mirror Lake Manor
+- address: 301 East Mirror Lk Fruitland Park
+- phone: 1 352-728-4208
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Mirror Lake Manor | Fruitland Park Dr.
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Mirror Lake Manor | Fruitland Park Dr.
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Mirror Lake Manor | Fruitland Park Dr.
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Mirror Lake Manor | Fruitland Park Dr.
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Mirror Lake Manor | Fruitland Park Dr.
+  - notes: Snippet type: lead
+- https://www.publichousing.com/city/fl-fruitland_park [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: l Scenic Nature Trail 24/7 Emergency Maintenance Service and Online Maintenance Requests Online Rent Payment Service Apartment Amenities: Open Kitchen with Breakfast Bar and Pantry Granite Countertops Energy... see full details Lake County Mirror Lake Manor - Fruitland Park 301 East Mirror Lk Fr || Open Kitchen with Breakfast Bar and Pantry Granite Countertops Energy... see full details Lake County Mirror Lake Manor - Fruitland Park 301 East Mirror Lk Fruitland Park, FL - 32731 352-728-4208 Currently Mirror Lake Manor has 32 subsidized apartments out of a total of 32 apartments. Occupancy status: Ready for Occupancy. The apartment is || ment Service Apartment Amenities: Open Kitchen with Br || Open Kitchen with Breakfast Bar and Pantry Granite Countertops Energy... see full details Lake County Mirror Lake Manor - Fruitland Park 301 East Mirror Lk Fruitland Park, FL - 32731 352-728-4208 Currently Mirror Lake Manor has 32 subsidized apartments out of a total of 32 apartments. Occupancy status: Ready for Occupancy. The apartment is rent subsidized by the US Department of Agriculture Rural || ast Mirror Lk Fruitland Park, FL - 32731 352-728-4208 Currently Mirror Lake Manor has 32 subsidized apartments out of a total of 32 apartments. Occupancy status: Ready for Occupancy. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 14 one bedroom apartmen || Lake Manor has 32 subsidized apartments out of a total of 32 apartments. Occupancy status: R || of Agriculture Rural Development. There are 14 one bedroom apartmen || Lake Manor has 32 subsidized apartments out of a total of 32 apartments. Occupancy status: Ready for Occupancy. The apartment is rent subsidized by the US Department of Agriculture Rural Development. There are 14 one bedroom apartments at Mirror Lake Manor. Housing program available: Section 515. ... see full details Lake Count || Mirror Lake Manor. Housing program available: Section 515. ... see full details Lake County Fruitland Acres - Fruitland Park 303 Urick Street Fruitland Park, FL - 34731 352-323-3303 This apartment is rent subsidized by the Florida Housing F
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-publichousing-com-city-fl-fruitland-park-0cb72147dce2.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Pendry Villas
+- address: 1303 2400 Kurt St
+- phone: (352) 357-3434
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Pendry Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Pendry Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Pendry Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Pendry Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Pendry Villas | Eustis
+  - notes: Snippet type: lead
+- https://eustischamber.org/AboutEustis/housing.asp [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Ave., Eustis FAMILY 32 units, low income, 1 & 2 bedrooms The Franklin House 483-1303 2400 Kurt St., Eustis 62 + 24-hr. security, HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on i || income, 1 & 2 bedrooms The Franklin House 483-1303 2400 Kurt St., Eustis 62 + 24-hr. security, HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 3 || HUD subsidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || ipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || sidized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 || y Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-eustischamber-org-abouteustis-housing-asp-805097f10896.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Wildwood Commons
+- address: 1000 Lee St
+- phone: (352) 748-0047
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Commonsltd | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Commonsltd | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Commonsltd | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Commonsltd | Wildwood
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Wildwood Commonsltd | Wildwood
+  - notes: Snippet type: lead
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Wildwood Commons - 352-748-0047
+  - notes: Snippet type: lead
+- https://www.mapquest.com/us/florida/wildwood-commons-apartments-277251531 [government] — confirmed: address, phone, program_type, property_type, application_method
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-mapquest-com-us-florida-wildwood-commons-apartments-277251531-c013e1afa5cf.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Panasoffkee Senior Apartments
+- address: 910 CR 482N
+- phone: (352) 793-2288
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: County multifamily inventory indicates senior-focused property at same site as family apartments.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: County multifamily inventory indicates senior-focused property at same site as family apartments.
+  - notes: Curated official lead from planning-stage verified source.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Wildwood Townhomes
+- address: 301 E Gulf Atlantic Hwy
+- phone: (352) 748-5677
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: Listed by Sumter County as rental assistance provider and in county multifamily inventory.
+  - notes: Curated official lead from planning-stage verified source.
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Wildwood Townhomes - 352-748-5677
+  - notes: Snippet type: lead
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Bushnell Gardens II
+- address: 1000 Meadows Cir
+- phone: (352) 793-4838
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: County multifamily inventory lead; verify with property directly.
+  - notes: Curated official lead from planning-stage verified source.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Lake Sumter Reserve Apartment Homes
+- address: 10840 NE 89th Drive
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/AgendaCenter/ViewFile/Item/23512?fileID=57591 [government] — confirmed: property_name, city, phone
+  - snippet: County SHIP agenda references FHFC and SHIP funding for this apartment community.
+  - notes: Curated official lead from planning-stage verified source.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Austin Commons
+- address: NOT FOUND / NEEDS CALL
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Austin Commons | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Austin Commons | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Austin Commons | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Austin Commons | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Austin Commons | Eustis
+  - notes: Snippet type: lead
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Windemere Villas
+- address: 1416 Griffin Rd
+- phone: (352) 728-5444
+- source_quality: unknown
+- confirmed evidence:
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: Windemere Villas | A 55+ Community in Leesburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment community, offers one bedroom and two bedroom apartments. Each residence featur
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: page_summary
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: sburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: artment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment co
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: away to avoid noise and congestion. Windemere Villas 1416 Griffin Rd. Leesburg, FL 34748 Office: (352) 728-5444 Fax: (352) 728-0970 windemere@flynnmanagement.com Office Hours: Monday-Friday 8:30am to 5pm Schedule a Tour Applications Apartments Take a Tour Contact Us Living in Windemere Villas Windemere Villas is ideal for active seniors over 55 years of age. Conveniently located between Spanish Springs and Brownwood in The Villages. Ame
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: 5444 Fax: (352) 728-0970 windemere@flynnmanagement.com www.windemerevillas.com Equal Housing Opportunity • Information is believed to be accurate but is not guaranteed or warranted. Home Apartments Amenities Take a Tour Application Directions Contact Us © 2026 Windemere Villas | All Rights Reserved | Leesburg, Florida | Privacy Policy All properties are professionally managed by Flynn Management Corporation, Licensed Real Estate Broker
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: senior
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: program_terms
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: Windemere Villas | A 55+ Community in Leesburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment community, offers one bedroom and two bedroom apartments. Each residence featur
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: page_summary
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: sburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: artment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment co
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: away to avoid noise and congestion. Windemere Villas 1416 Griffin Rd. Leesburg, FL 34748 Office: (352) 728-5444 Fax: (352) 728-0970 windemere@flynnmanagement.com Office Hours: Monday-Friday 8:30am to 5pm Schedule a Tour Applications Apartments Take a Tour Contact Us Living in Windemere Villas Windemere Villas is ideal for active seniors over 55 years of age. Conveniently located between Spanish Springs and Brownwood in The Villages. Ame
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: 5444 Fax: (352) 728-0970 windemere@flynnmanagement.com www.windemerevillas.com Equal Housing Opportunity • Information is believed to be accurate but is not guaranteed or warranted. Home Apartments Amenities Take a Tour Application Directions Contact Us © 2026 Windemere Villas | All Rights Reserved | Leesburg, Florida | Privacy Policy All properties are professionally managed by Flynn Management Corporation, Licensed Real Estate Broker
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: senior
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: program_terms
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: Windemere Villas | A 55+ Community in Leesburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment community, offers one bedroom and two bedroom apartments. Each residence featur
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: page_summary
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: sburg, Florida | Leesburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: artment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment co
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: away to avoid noise and congestion. Windemere Villas 1416 Griffin Rd. Leesburg, FL 34748 Office: (352) 728-5444 Fax: (352) 728-0970 windemere@flynnmanagement.com Office Hours: Monday-Friday 8:30am to 5pm Schedule a Tour Applications Apartments Take a Tour Contact Us Living in Windemere Villas Windemere Villas is ideal for active seniors over 55 years of age. Conveniently located between Spanish Springs and Brownwood in The Villages. Ame
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: 5444 Fax: (352) 728-0970 windemere@flynnmanagement.com www.windemerevillas.com Equal Housing Opportunity • Information is believed to be accurate but is not guaranteed or warranted. Home Apartments Amenities Take a Tour Application Directions Contact Us © 2026 Windemere Villas | All Rights Reserved | Leesburg, Florida | Privacy Policy All properties are professionally managed by Flynn Management Corporation, Licensed Real Estate Broker
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: application
+- https://windemerevillas.com [unknown] — confirmed: property_name
+  - snippet: senior
+  - raw_html: raw_html/windemerevillas-com-7cca95b0820c.html
+  - notes: Snippet type: program_terms
+- https://windemerevillas.com/apartments/ [unknown] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: laxing apartment community designed to fit your lifestyle. Windemere Villas offers one bedroom and two bedroom apartments. Each residence features a contemporary layout with step-saver kitchens. View Available Units One Bedroom Apartments Affordable & spacious, one-bedroom villas. Enjoy the ease of || living. One-bedroom villats at Windemere are 652 sq. ft. Review Floor Plans Download Floor Plans || mmunity in Leesburg, Florida Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application D || Apartments | Windemere Villas | A 55+ Community in Leesburg, Florida Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom A || mmunity in Leesburg, Florida Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartme || ons Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Appl || ans Application Directions Contact Us Home Apartments One Bedroom Apartme || ons Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Apartments A private, relaxing apartment community designed to fit your lifestyle. Windemere Villas offers one bedroom and two bedroom apartments. Each residence feat || 970 windemere@flynnmanagement.com www.windemerevillas.com Equal Housing Opportunity • Information is believed to be accurate but is not guaranteed or warranted. Home Apartments Amenities Take a Tour Application Directions Contact Us © 2026 Windemere Villas | All Rights Reserved | Leesburg, Florida | Privacy Policy All properties are professionally managed by Flynn Management Corporation, Licensed
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-windemerevillas-com-apartments-e8fabe25bc4b.html
+  - notes: Targeted enrichment search result.
+- https://windemerevillas.com/ [unknown] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: sburg, Florida 55+ Community Windemere Villas | Leesburg, Florida (352) 728-5444 Navigation Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartme || droom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom A || room Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartme || droom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Lees || Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Home Apartments One Bedroom Apartment Two Bedroom Apartment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas || partment Community Designed to Fit Your Lifestyle Windemere Villas, a 55+ apartment community, offers one bedroom and two bedroom apartments || artment Amenities Take a Tour Photo Gallery Floor Plans Application Directions Contact Us Windemere Villas in Leesburg, Florida Save $$$ Over Living in The Villages A Private, Relaxing 55+ Apartment Community Designed to Fit Your Lifestyle Windemere Villas || and congestion. Windemere Villas 1416 Griffin Rd. Leesburg, FL 34748 Office: (352) 728-5444 Fax: (352) 728-0970 windemere@flynnmanagement.com Office Hours: Monday-Friday 8:30am to 5pm Schedule a Tour Applications Apartments Take a Tour Contact Us Living in
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-windemerevillas-com-c2e3c5ac7bba.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=call_required, waitlist=call_required, rent=NOT FOUND
+- phone call needed: yes
+
+## Tall Pines Villas
+- address: 1000 Wall Street Suite 60
+- phone: 352.357.4851
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Tall Pines Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Tall Pines Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Tall Pines Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Tall Pines Villas | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Tall Pines Villas | Eustis
+  - notes: Snippet type: lead
+- https://www.eustishousingauthority.com/our-communities/tall-pines-villas [housing_authority] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ity Translate Tall Pines Villas Map • List Address: 1000 Wall Street Suite 60 City: Eustis State: FL Zip: 32726 County: Lake Property Type: USDA Rural Development Housing Bedrooms: 2-4 Bathrooms: 1-2 Rent: $705 - $758 Security Deposit: $705 - $758 Office || llas Map • List Address: 1000 Wall Street Suite 60 City: Eustis State: FL Zip: 32726 County: Lake Property Type: USDA Rural Development Housing Bedrooms: 2-4 Bathrooms: 1-2 Rent: $705 - $758 Security Deposit: $705 - $758 Office
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-eustishousingauthority-com-our-communities-tall-pines-villas-91824c75f905.html
+  - notes: Targeted enrichment search result.
+- http://tallpinesvillas.com/ [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: rdable apartments in Eustis, FL | Tall Pines Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Tall Pines Villas 1000 Wall St. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Directions Brochure Office Address Office TDD Phone: 71 || Handicap Accessible apartments, Affordable apartments in Eustis, FL | Tall Pines Villas Toggle navigation Overview Ameniti || rdable apartments in Eustis, FL | Tall Pines Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Tall Pines Villas 1000 Wall St. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Tall Pines Villas offers affordable housing for families with up to moderate income. The || ll Pines Villas Toggle navigatio || with up to moderate income. The || ll Pines Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Tall Pines Villas 1000 Wall St. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Tall Pines Villas offers affordable housing for families with up to moderate income. The property features two, three, and f || t. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Tall Pines Villas offers affordable housing for families with up to moderate income. The || ll Pines Villas Toggle navigation Overview Amenities Floorplans Property Photos Areamap Tall Pines Villas 1000 Wall St. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Di || t. #60 Eustis, FL 32726 (352) 357-4851 Request Rental Application Directions Brochure Office Address Office TDD Phone: 711 Tall Pines Villas offers affordable housing for families with up to moderate income. The property features two, three, and four bedroom units with a stove, refrigerator, central heat and air, mini blinds, and patio areas. Residents enjoy th || om units with a stove, refrigerat || Maintenance Playground Overview Amenities Floorplans Property Photos Areamap Overview Office Address Office TDD Phone: 711 Tall Pines Villas offers affordable housing for families with up to moderate income. The property features two, three, and four bedroom units with a stove, refrigerator, central heat and air, mini blinds, and patio areas. Residents enjoy th || om units with a stove, refrigerat
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-http-tallpinesvillas-com-878094369367.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Eustis/Tall-Pines-Villas/10103280 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: le Housing Videos search Loading... Home \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall || orida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment || ng... Home \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall || orida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News Ab || le Housing Videos search Loading... Home \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall Pines Villas, how m || e \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tal || ng... Home \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall Pines Villas, how m || e \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, E || ddition to Tall Pines Villas, how m || e \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall Pines Villas, how many other affordable housing properties (and units) are there in || how m || e \ Florida \ Lake County \ Eustis \ Tall Pines Villas ✕ Tall Pines Villas 1000 Wall St, Eustis, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Tall Pines Villas In addition to Tall Pines Villas, how many other affordable housing properties (and units) are there in Eustis? In addition to Tall P
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-eustis-tall-pines-villa-e637881ad706.html
+  - notes: Targeted enrichment search result.
+- https://apartmenthomesflorida.com/rental_place/tall-pines-villas/ [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: omes Florida Skip to content Manager & Owner Registration Login Add Listing Profile Account Advertise With Us Contact Us Apartment Homes Florida Home Florida Map Florida Cities Florida Counties Beach Rentals A || tals Historic Florida Retire in Florida Blog Moving Tips Home Decor Ideas Florida Living Florida Excursions News Apartment Manager Tips Manager & Owner Registration Login Add Listing Prof || e, refrigerator, central heat and air, mini blinds and patio areas. A laundry facility is located on site. Place Title: Tall Pines Villas Address: 1000 Wall St Eustis 32726 Tags: Cheap Apartments For Rent Florida County: Lake County Phone: (352) 357-4851 Property Type: Apartment Bedrooms: 4 Bathrooms: 2 Rent: $467 Property Photos Reviews Next Post navigation || . Place Title: Tall Pines Villas Address: 1000 Wall St Eustis 32726 Tags: Cheap Apartments For Rent Florida County: Lake County Phone: (352) 357-4851 Property Type: Apartment Bedrooms: 4 Bathrooms: 2 Rent: $467 Property Photos Reviews Next Post navigation
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-apartmenthomesflorida-com-rental-place-tall-pines-villas-a85ed865cf7a.html
+  - notes: Targeted enrichment search result.
+- https://www.eustishousingauthority.com/ [housing_authority] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: program and USDA Rural Development Housing in the City of Eustis in Lake County Florida. Tall Pines Villas , a 56-apartment complex funded by the USDA, is managed by Dimension One Management. Limited rental assistance for qualified tenants is available. EHA also manages 60 Public Housing units. Public Housing accommodates elder || in the City of Eustis in Lake County Florida. Tall Pines Villas , a 56-apartment complex funded by the USDA, is managed by Dimension One Management. Limited rental assistance for qualified tenants is available. EHA also manages 60 Public Housing units. Public Housing accommodates elder
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-eustishousingauthority-com-aa79aed9c229.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=$705 - $758
+- phone call needed: yes
+
+## Villas Of Mt. Dora
+- address: 3001 Javens Circle
+- phone: (352) 383-0466
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Villas Of Mt. Dora | Mount Dora
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Villas Of Mt. Dora | Mount Dora
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Villas Of Mt. Dora | Mount Dora
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Villas Of Mt. Dora | Mount Dora
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Villas Of Mt. Dora | Mount Dora
+  - notes: Snippet type: lead
+- https://www.seniorlivingguide.com/communities/villas-of-mt-dora-3001-javens-circle-mount-dora-fl-32757/ [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: dining and banking. We are || rson with a handicap/ disability regardless of age Convenient to shopping, dining & transportation Close to medical plazas and hospital Water & garbage utility included Income restrictions may apply Property Managers Are you the manager of Villas of Mt. Dora? If so, you can claim this listing below. Claim This Listing You May Also Be Interested In Lake Ridge Village || of Mt Dora are located close to shopping, dining and banking. We are also close to medical plazas and Florida Waterman Hospital. Villas of Mt Dora is affordable housing. Let us help you feel at home. Income restrictions may apply. Community
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-seniorlivingguide-com-communities-villas-of-mt-dora-3001-javens-circle-01d6366d0a0a.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Mount-Dora/Villas-of-Mt.-Dora/67546 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Videos search Loading... Home \ Florida \ Lake County \ Mount Dora \ Villas of Mt. Dora ✕ Villas of Mt. Dora 3001 Javens Circle , Mount Dora, FL 32757 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2019 by Co || Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How || Videos search Loading... Home \ Florida \ Lake County \ Mount Dora \ Villas of Mt. Dora ✕ Villas of Mt. Dora 3001 Javens Circle , Mount Dora, FL 32757 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2019 by Colleen Carter, Ric Gre || ine has not confirmed the waiting list status directly with the pr || stop by today and talk to one of our leasing consultants about making Villas of Mt. Dora your new home!!!! Dave's Thoughts On Villas of Mt. Dora Because it participates in the USDA Section 515 Rural Rental Housing program, Villas of Mt. Dora is likely located in a rural community and may be one of only a few || t moments from Lake Dora, Lake Eustis, and Lake Beauclair. We offer our one and two be || stop by today and talk to one of our leasing consultants about making Villas of Mt. Dora your new home!!!! Dave's Thoughts On Villas of Mt. Dora Because it participates in the USDA Section 515 Rural Rental Housing program, Villas of Mt. Dora is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for resid || e's Thoughts On Villas of Mt. Dora Because it participates in the USDA Section 515 Rural Rental Housing program, Villas of Mt. Dora is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for resid || Villas of Mt. Dora in Mount Dora, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \ Florida \ Lake Co || n Mount Dora, Florida Home Housing Waiting Lists Apa
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-mount-dora-villas-of-mt-7cd453019060.html
+  - notes: Targeted enrichment search result.
+- https://www.mapquest.com/us/florida/villas-of-mount-dora-4194392 [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-mapquest-com-us-florida-villas-of-mount-dora-4194392-4b4ff88c0bef.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Mount-Dora [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: a, FL Discover affordable housing in Mount Dora where there are 4+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now. Villas of Mt. Dora 3001 Javens Circle , Mount Dora, Florid || fordable housing in Mount Dora where there are 4+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now. Villas of Mt. Dora 3001 Javens Circle , Mount Dora, Florida 32757 bed 1-2 switch_access_shortcut Short Wait payment Subsidized real_estate_agent Accepts Vouchers elderly Senior || ate_agent Accepts Vouchers elderly Senior Ridge at Mt Dora 3000 Lake Center Dr, Mount Dora, Florida 32757 || iscover affordable housing in Mount Dora where there are 4+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now. Villas of Mt. Dora 3001 Javens Circle , Mount Dora, Florid
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-mount-dora-eae7b820b776.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Bushnell Garden Apartments
+- address: 200 Jumper St S
+- phone: (352) 793-4838
+- source_quality: government
+- confirmed evidence:
+- https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name, city, phone
+  - snippet: Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.
+  - notes: Curated official lead from planning-stage verified source.
+- https://www.sumtercountyfl.gov/DocumentCenter/View/29964/Sumter-County-Multifamily-Analysis-Final-Version-06202018 [government] — confirmed: property_name, city, phone
+  - snippet: Outside primary city list but near the target areas and listed by Sumter County as rental assistance provider.
+  - notes: Curated official lead from planning-stage verified source.
+- https://sumtercountyfl.gov/246/Rental-Assistance-Resources [government] — confirmed: property_name
+  - snippet: Bushnell Garden Apartments - 352-793-4838
+  - notes: Snippet type: lead
+- https://affordablehousingonline.com/housing-search/Florida/Bushnell/Bushnell-Garden-Apartments/10000207 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ome \ Florida \ Sumter County \ Bushnell \ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft || using Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up f || ome \ Florida \ Sumter County \ Bushnell \ Bushnell Garden Apartments ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Ve || - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bu || ✕ Bushnell Garden Apartments 200 Jumper Drive S., Bushnell, FL 33513 check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt $600 - 999 per Month † 1 - 3 Beds 1 - 1.5 Bath 726 - 957 Sq Ft Call (352) 793-4838 Email Bushnell Garden Apartments is a one, two and three bedroom community for families. Located || Office Handicapped Accessible Carpet Patio Deck Or Balcony Refrigerator Trash Included On-Site Maintenance Cable & Internet Ready Electric Range Units at Bushnell Garden Apartments Unit (Bd/Ba) Ft 2 Rent 1 BR (1/1) 726ft 2 $600 $811 † 2 BR (2/1) 877ft 2 $700 $917 † 3 BR (3/1.5) 957ft 2 $775 $999 † FAQs for Bushnell Garden Apartments What property management company manges Bushnell Garden Apa || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \ Florida \ S || in Bushnell, Florida Home Housing Waiting Lists Apartment || Bushnell Garden Apartments in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Home \ Florida \ S || in Bushnell, Florida Home Housing Waiting Lists Apartment Search Section 8 Wai
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-bushnell-bushnell-garde-82844ca52775.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/bushnell.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apa || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Sec || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 M || apartment cost in Bushnell $558.00 State of Florida Median Income $88,300 State of Florida Median Metropolitan Income $59,500 State of Florida Median Non-Metropolitan Income $48,400 Bushnell, FL Low Income Housing: 3 Active Listings 1 of 3 Bushnell Garden Apartments 200 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ || 0 Jumper Dr S, B Bushnell , FL - 33513 Section 8 rent assistance apartments ... Section 8 2 of 3 Misty Woods Senior Apartments 55+ 205 Jumper Dr N Bushnell , FL - 33513 Total Apartments: 42 Total Low Income Apar
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-bushnell-html-02dfc24c5189.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=$600; $811; $700; $917; $775; $999
+- phone call needed: yes
+
+## Fruitland Acres LTD
+- address: 303 Urick St
+- phone: (352) 323-3303
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousingonline.com/housing-search/Florida/Fruitland-Park/Fruitland-Acres-Ltd/10026305 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: eos search Loading... Home \ Florida \ Lake County \ Fruitland Park \ Fruitland Acres Ltd ✕ Fruitland Acres Ltd 303 Urick St, Fruitland Park, FL 34731 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Col || Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To || eos search Loading... Home \ Florida \ Lake County \ Fruitland Park \ Fruitland Acres Ltd ✕ Fruitland Acres Ltd 303 Urick St, Fruitland Park, FL 34731 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2024 by Colleen Carter, Ric Gresi || ed the waiting list status directly with the property. This wait || of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Fruitland Acres Ltd Because Fruitland Acres Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qual || irectly with the property. This waiting list st || On Fruitland Acres Ltd Because Fruitland Acres Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qual || irectly with the property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm || of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Fruitland Acres Ltd Because Fruitland Acres Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Secti || y may be good for y || On Fruitland Acres Ltd Because Fruitland Acres Ltd participates in the USDA Section 515 Rural Rental Housing program, this property is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Secti || y may be good for you. Since this property participates in the LIHTC and RD 515 programs, the property is required to accept
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-fruitland-park-fruitlan-b9120213151e.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Fruitland-Park [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: L Discover affordable housing in Fruitland Park where there are 3+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now. Fruitland Acres Ltd 303 Urick St, Fruitland Park, Florida || able housing in Fruitland Park where there are 3+ housing opportunities based on income and household needs like accessible units for seniors or persons with disabilities. Find and apply to these low income apartments now. Fruitland Acres Ltd 303 Urick St, Fruitland Park, Florida 34731 switch_access_shortcut Short Wait payment Subsidized real_estate_agent Accepts Vouchers payment Income Based acce || ply to these low income apartments now. Fruitland Acres Ltd 303 Urick St, Fruitland Park, Florida 34731 switch_access_shortcut Short Wait payment Subsidized real_estate_agent Accepts Vouchers payment Income Based accessibility Accessible Spring Lake Cove II 1508 Spring Lake Cove
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-fruitland-park-e71cffb543b6.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Fruitland-Park/Mirror-Lake-Manor/10048622 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: d Park. Listings Near Mirror Lake Manor Fruitland Acres Ltd 303 Urick St, Fruitland Park, Florida 34731 switch_access_shortcut Short Wait payment Subsidized real_estate_agent Accepts Vouchers payment Income Based accessibility Accessible Spring Lake Cove II 1508 Spring Lake Cove
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-fruitland-park-mirror-l-26553ef0db76.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Montclair Village
+- address: 2000 Park Cir
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Montclair-Village/10103948 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: using Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to M || ida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitl || Home \ Florida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to M || ida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About U || using Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to Montclair Village, ho || lorida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair || Home \ Florida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to Montclair Village, ho || lorida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesbu || n addition to Montclair Village, ho || lorida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to Montclair Village, how many other affordable housing properties (and units) are there in || e, ho || lorida \ Lake County \ Leesburg \ Montclair Village ✕ Montclair Village 2000 Park Cir, Leesburg, FL check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - FAQs for Montclair Village In addition to Montclair Village, how many other affordable housing properties (and units) are there in Leesburg? In addition to Mont
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-montclair-vill-65f9096d7dcd.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Low Income Apartments and Affordable Housing For Rent in Leesburg, FL Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos Home \ Florida \ Lake Co
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-74ee930ec6e6.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Palm Brook Apts LTD
+- address: 37 Brook Cir
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Palm-Brook-Apts-Ltd/10103487 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: rdable Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Palm Brook Apts Ltd ✕ Palm Brook Apts Ltd 37 Brook Cir, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, || a Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartmen || rdable Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Palm Brook Apts Ltd ✕ Palm Brook Apts Ltd 37 Brook Cir, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds || ed the waiting list status directly with the property || ir, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Beds || ed the waiting list status directly with the property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm this s || xperts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Palm Brook Apts Ltd Because it participates in the USDA Section 515 Rural Rental Housing program, Palm Brook Apts Ltd is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for res || on our housing experts' knowle || s Thoughts On Palm Brook Apts Ltd Because it participates in the USDA Section 515 Rural Rental Housing program, Palm Brook Apts Ltd is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for res || on our housing experts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On || xperts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Palm Brook Apts Ltd Because it participates in the USDA Section 515 Rural Rental Housing program, Palm Brook Apts Ltd is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 515 property,
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-palm-brook-apt-e2f61cad547c.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Low Income Apartments and Affordable Housing For Rent in Leesburg, FL Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos Home \ Florida \ Lake Co
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-74ee930ec6e6.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Pepper Tree Apts
+- address: 2503 South Street
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Pepper-Tree-Apts/10103485 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: ordable Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Pepper Tree Apts ✕ Pepper Tree Apts 2503 South Street, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, || rida Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apart || ordable Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Pepper Tree Apts ✕ Pepper Tree Apts 2503 South Street, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Bed || ed the waiting list status directly with the property. || et, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent Bed || ed the waiting list status directly with the property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm this st || g experts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Pepper Tree Apts Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency || ed on our housing experts' || Dave's Thoughts On Pepper Tree Apts Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency || ed on our housing experts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Tho || g experts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Pepper Tree Apts Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 515 property, you
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-pepper-tree-ap-e688a98a80df.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Low Income Apartments and Affordable Housing For Rent in Leesburg, FL Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos Home \ Florida \ Lake Co
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-74ee930ec6e6.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Pepper Tree Apts II
+- address: 2503 South Street
+- phone: NOT FOUND / NEEDS CALL
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name, city, phone
+  - snippet: Listed on USDA Rural Development Lake County property list.
+  - notes: Curated official lead from planning-stage verified source.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Pepper-Tree-Apts-II/10104710 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: e Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Pepper Tree Apts II ✕ Pepper Tree Apts II 2503 South Street, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Ca || a Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Wai || e Housing Videos search Loading... Home \ Florida \ Lake County \ Leesburg \ Pepper Tree Apts II ✕ Pepper Tree Apts II 2503 South Street, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent || ed the waiting list status directly with the property. Thi || et, Leesburg, FL Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2021 by Colleen Carter, Ric Gresia Rent || ed the waiting list status directly with the property. This waiting list status forecast is based on our housing experts' knowledge of similar properties. You should always confirm this status || xperts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Pepper Tree Apts II Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts II is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for res || on our housing experts' knowle || s Thoughts On Pepper Tree Apts II Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts II is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for res || on our housing experts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On || xperts' knowledge of similar properties. You should always confirm this status directly with the property. Dave's Thoughts On Pepper Tree Apts II Because it participates in the USDA Section 515 Rural Rental Housing program, Pepper Tree Apts II is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 515 property,
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-pepper-tree-ap-192f26e02b68.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Low Income Apartments and Affordable Housing For Rent in Leesburg, FL Home Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos Home \ Florida \ Lake Co
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-74ee930ec6e6.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=NOT FOUND
+- phone call needed: yes
+
+## Turtle Oaks Apartments
+- address: 2311 Griffin Rd Leesburg
+- phone: 352.787.1990
+- source_quality: unknown
+- confirmed evidence:
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: Turtle Oaks Apartments - Low Income Apartments in Leesburg, FL Home Add a Listing About Navigation Home Add a Listing About Quick Search: Select a State Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware District of Columbia Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas Utah Vermont Virginia Washington West Virginia Wisconsin Wyoming Search Find An Apartment Turtle Oaks Apartments Leesbu
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: page_summary
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: s 2311 Griffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC w
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: rent
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: ffin Rd Leesburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: rent
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: ross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: rent
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: deductions such as medical and child care expenses, and other allowances, includes a utility allowance. HUD Residents also may choose to pay what is known as flat rent. The HACC works with applicants to determine which rent arrangement is best for them. Median apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59.6 Media household income of those living in this zip co
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: rent
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: ments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-inco
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: application
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Each program has its own eligibility requirements and application process, so it is important to do your research to find the program that is right for you. 2. Get all of your documentation in order: When you apply for low income housing, you will need to provide documentat
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: application
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Q
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: application
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: me housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a variety of federal, state, and local programs that offer low-income housing assistance. Eac
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: application
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: s, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low in
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: waitlist
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists for most, if not all low-income housing programs is long. Do not limit yourself to only apply to one apartment location. Qualifications: Do you qualify to live here? To qualify for low income housing in Flo
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: waitlist
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: Help PublicHousing.com users find out answers. We publish all Helpful information. If you know the apartment costs, let us know. Answer Are these apartments low income, sliding scale income based? Answer Do you know any waiting list details? Let us know.. Answer Friday, March 3, 2023 User Response: I been on the list for about two years now and because I donâ€™t have kids they seem to keep skipping over me, so hey, try, your luck. Are t
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: waitlist
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: ome requirements: Your household income must be below 80% of the area median income (AMI). The AMI is updated annually by the Department of Housing and Urban Development (HUD) and varies by county. You must have a valid Social Security number or Individual Taxpayer Identification Number (ITIN). You must be a U.S. citizen or a legal immigrant. In addition to the income requirements, you may also need to meet other eligibility requirement
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: requirements
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: tion in order: When you apply for low income housing, you will need to provide documentation of your income, assets, and household composition. This documentation may include tax returns, pay stubs, bank statements, and birth certificates. 3. Be careful and accurate on all information provided: Any false or misleading information on your application will most likely result in your disqualification. 4. Waiting Lists: The waiting lists fo
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: requirements
+- https://publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: property_name
+  - snippet: section 8, public housing, hud, income based
+  - raw_html: raw_html/publichousing-com-0e8696d4481f.html
+  - notes: Snippet type: program_terms
+- https://affordablehousingonline.com/housing-search/Florida/Leesburg/Turtle-Oaks-Apartments/10014722 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: eesburg \ Turtle Oaks Apartments ✕ Turtle Oaks Apartments 2311 Griffin Rd, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan In || ome Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housin || ts ✕ Turtle Oaks Apartments 2311 Griffin Rd, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan In || ome Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About Us Sign Up for Alerts Affordable Housing Videos search Loading... Hom || eesburg \ Turtle Oaks Apartments ✕ Turtle Oaks Apartments 2311 Griffin Rd, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - check || ed the waiting list status directly with the property. This waiting list status forecast is based on our housing experts' || ts ✕ Turtle Oaks Apartments 2311 Griffin Rd, Leesburg, FL 34748 Waiting List Forecast: Likely Long or Closed check_circle Verified for 2019 by Colleen Carter, Ric Gresia Rent Beds Baths SqFt Call for Rents † Floorplan Info Upon Request - - check || ed the waiting list status directly with the property. This waiting list status forecast is based on our housing experts' knowledge of similar properti || imilar properties. You should always confirm this status directly with the property. Dave's Thoughts On Turtle Oaks Apartments Since Turtle Oaks Apartments participates in the Section 8 Project-Based Rental Assistance program , your rent would be subsidized. You would not pay more than 30% of your income for rent. To qualify, you must earn 50 || rectly with the property. This waiting list status f || ays confirm this status directly with the property. Dave's Thoughts On Turtle Oaks Apartments Since Turtle Oaks Apartments participates in the Section 8 Project-Based Rental Assistance program , your rent would be subsidized. You would not pay more than 30% of your income for rent. To qualify, you must earn 50 || rectly with the property. This waiting list status forecast is based on our housing e
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-leesburg-turtle-oaks-ap-31664b0ce6a3.html
+  - notes: Targeted enrichment search result.
+- https://www.publichousing.com/details/turtle_oaks_apartments [unknown] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: esburg, FL - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowan || ian apartment rental rate in this zip code: $911 Popula || - 34748 352.787.1990 See ALL Leesburg Low Income Housing Apartments ALL LEESBURG Listings Turtle Oaks Apartments is a HUD Apartment. HUD residents usually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowan || ian apartment rental rate in this zip code: $911 Population in zi || sually pay 30% of their gross income for rent. The rent amount, less approved HUD deductions such as medical and child care expenses, and other allowances, includes a utility allowan || ian apartment rental rate in this zip code: $911 Population in zip code: 39,977 Media age of those living in this zip code: 59.6 Media household income of those living in this zip code: $45,059 Average home value i || s Apartments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing app || hose living in this zip code: $45,059 Average home value in this zip code: $152,928 Turtle Oaks Apartments is a Family low income housing apartment subsidized by the || s Apartments is a Family low income housing apartment subsidized by the federal governments HUD (Housing and Urban Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a vari || n Development Division). Contact Turtle Oaks Apartments for complete details on the current vacancies and housing applications. Tips Before Applying for Low Income Housing 1. Research all of the different low-income housing programs available in your area. There are a vari
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-publichousing-com-details-turtle-oaks-apartments-55a9bbffc9c7.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=unknown, waitlist=unknown, rent=$911; $45,059; $152,928
+- phone call needed: yes
+
+## Rosemont Manor
+- address: 3726 Kurt Street
+- phone: (352) 357-0624
+- source_quality: HUD/USDA/FHFC
+- confirmed evidence:
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Rosemont Manor | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Rosemont Manor | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Rosemont Manor | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Rosemont Manor | Eustis
+  - notes: Snippet type: lead
+- https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12 [HUD/USDA/FHFC] — confirmed: property_name
+  - snippet: Rosemont Manor | Eustis
+  - notes: Snippet type: lead
+- https://affordablehousingonline.com/housing-search/Florida/Eustis/Rosemont-Manor-Apartments/6356 [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: Loading... Home \ Florida \ Lake County \ Eustis \ Rosemont Manor Apartments ✕ Rosemont Manor Apartments 1801 N. C. R. 19A Ste # J-1, Eustis, FL 32726 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verif || me Housing Waiting Lists Apartment Search Section 8 Waitlists Apartment Waitlists How To Apply News About || Loading... Home \ Florida \ Lake County \ Eustis \ Rosemont Manor Apartments ✕ Rosemont Manor Apartments 1801 N. C. R. 19A Ste # J-1, Eustis, FL 32726 Waiting List Forecast: Likely Long or Closed for Rent Assisted units, and Likely Short or None for other affordable units check_circle Verified for 2023 by Joshua Cappe || ine has not confirmed the waiting list status directly with the property. Thi || ear public transportation, farigrounds, schools, shopping and more! Call today for more informtaion. Dave's Thoughts On Rosemont Manor Apartments Because it participates in the USDA Section 515 Rural Rental Housing program, Rosemont Manor Apartments is likely located in a rural community and may be one of only a few rental housing choices in the area. To qua || We are located near public transport || n Rosemont Manor Apartments Because it participates in the USDA Section 515 Rural Rental Housing program, Rosemont Manor Apartments is likely located in a rural community and may be one of only a few rental housing choices in the area. To qua || We are located near public transportation, farigrounds, schools, shopping and more! Call today for more informtaion. Dave's Thoughts On Rosemont Manor Apa || ear public transportation, farigrounds, schools, shopping and more! Call today for more informtaion. Dave's Thoughts On Rosemont Manor Apartments Because it participates in the USDA Section 515 Rural Rental Housing program, Rosemont Manor Apartments is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 515 prop || n Rosemont Manor Apartments Because it participates in the USDA Section 515 Rural Rental Housing program, Rosemont Manor Apartments is likely located in a rural community and may be one of only a few rental housing choices in the area. To qualify for residency in a Section 515 property, you must earn 80% or less of Area Median Income (AMI). How
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousingonline-com-housing-search-florida-eustis-rosemont-manor-a-1014c6c89018.html
+  - notes: Targeted enrichment search result.
+- https://eustischamber.org/AboutEustis/housing.asp [HUD/USDA/FHFC] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: dized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 3 || dized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 bdrms. Royal Chateau Apts. 357-8833 1482 MacDona || ipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 bdrms. Royal Chateau Apts. 357-8833 1482 MacDonald Ave., Eustis Tall Pines Ap || dized, Handicap equipped Little Oaks Apts. 589-2515 300 W. Atwater Ave. Eustis FAMILY Based on income Pendry Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 bdrms. Royal Chateau Apts. 357-8833 1482 MacDonald Ave., || y Villas 589-0192 2728 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 bdrms. Royal Chateau Apts. 357-8833 1482 MacDonald Ave., Eustis Tall Pines Apts. 357-4851 1000 Wall St., Eustis FAMILY (Eustis Housing Aut || 8 Ruleme St., Eustis Sr. or handicap 32 units, Section 8, low income, pets under 20 lbs. w/deposit. 1& 2 bdrms. Rosemont Manor 357-2600 1801 N. CR 19A, Eustis FAMILY 37 units, no pets, Section 8, tax credit, 1 & 2 bdrms. Royal Chateau Apts. 357-8833 1482 MacDonald Ave., Eustis Tall Pines Apts. 357-4851 1000 Wall St., Eustis FAMILY (Eustis Housing Aut
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-eustischamber-org-abouteustis-housing-asp-805097f10896.html
+  - notes: Targeted enrichment search result.
+- https://affordablehousinghub.org/housing/florida/lake-county/eustis/rosemont-manor-4684-lihtc [apartment_listing] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: with a mix of 18 one-bedroom and 19 two-bedroom apartments. The property was placed in service in 2019 and is funded through 4% Low-Income Housing Tax Credits. T || ked Questions What is the average rent for affordable housing in Eustis, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties || The property was placed in service in 2019 and is funded through 4% Low-Income Housing Tax Credits. T || ked Questions What is the average rent for affordable housing in Eustis, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Rosemont Manor is typically 30% of household income or || uestions What is the average rent for affordable housing in Eustis, FL? + The Fair Market Rent (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Rosemont Manor is typically 30% of household income or less. What size apartments are available at Rosemont Manor? + Rosemont Manor offers the following unit types: || ing unit types: 18 One-Bedroom, 19 Two-Bedroom units, for a total of 37 units. Who is eligi || (FMR) for Lake County, FL is: $1558 (Studio), $1638 (1BR), $1857 (2BR), $2362 (3BR), $2849 (4BR). Actual rent at subsidized properties like Rosemont Manor is typically 30% of household income or less. What size apartments are available at Rosemont Manor? + Rosemont Manor offers the following unit types: || t Manor | Affordable Housing in Eustis, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Eustis Rosemont Manor Low Income (LIHTC) Waitlist Closed Ro || Rosemont Manor | Affordable Housing in Eustis, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Ho || t Manor | Affordable Housing in Eustis, FL Affordable Housing Hub Waitlist Openings Weekly Updates Find Housing Programs Guides Blog Search Advertisement Home FL Lake County Eustis Rosemont Manor Low Income (LIHTC) Waitlist Closed Rosemont Manor 1801 N County Road 19A, Eustis, FL, 32726 Information verified June 19, 2026 · We re-check waiting list status daily Share Example Photo Share About This
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-affordablehousinghub-org-housing-florida-lake-county-eustis-rosemont-manor-4721cd114509.html
+  - notes: Targeted enrichment search result.
+- https://www.lowincomehousing.us/FL/eustis.html [nonprofit_directory] — confirmed: address, phone, program_type, property_type, application_method
+  - snippet: : 96 Three Bedroom (3 bdrm) Apartments: 24 Family Apartments Valencia Grove provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility ... 3 of 11 Rosemont Manor Apartments 1801 North County Eustis , FL - 32726 Total Apartments: 37 Total Low Income Apartments: || One Bedroom (1 bdrm) Apartments: 18 Two Bedroom (2 bdrm) Apartments: 19 Senior Apartments Family Apartments Rosemont Manor provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility allowances. At least 2 ... 1 bdrm / 2 bdrm Senior Housing 4 of 11 Tall Pi || : 96 Three Bedroom (3 bdrm) Apartments: 24 Family Apartments Valencia Grove provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility ... 3 of 11 Rosemont Manor Apartments 1801 North County Eustis , FL - 32726 Tota || : 96 Three Bedroom (3 bdrm) Apartments: 24 Family Apartments Valencia Grove provides Section 42, LIHTC (Low Income Tax Credit) apartment properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility ... 3 of 11 Rosemont Manor Apartments 1801 North County Eustis , FL - 32726 Total Apartments: 37 Total Low Income Apartments: 37 One Bedroom (1 bdrm) Apartments: || t properties. The rents are based upon the Area Medium Income (AMI) and tenant based utility ... 3 of 11 Rosemont Manor Apartments 1801 North County Eustis , FL - 32726 Total Apartments: 37 Total Low Income Apartments: 37 One Bedroom (1 bdrm) Apartments: 18 Two Bedroom (2 bdrm) Apartments: 19 Senior Apartments Family Apartments Rosemont Manor || ty ... 3 of 11 Rosemont Manor Apartments 1801 North || Two Bedroom (2 bdrm) Apartments: 19 Senior Apartments Family Apartments Rosemont Manor || ty ... 3 of 11 Rosemont Manor Apartments 1801 North County Eustis , FL - 32726 Total Apartments: 37 Total Low Income Apartments: 37 One Bedroom (1 bdrm) Apartments: 18 Two Bedroom (2 bdrm) Apartments: 19 Senior Apartments Family Apartments Rosemont Manor provides Section 42, LIHTC (Low Income Tax Credit) apar
+  - raw_html: /workspace/income_based_housing_research_FL/raw_html/enrich-https-www-lowincomehousing-us-fl-eustis-html-53abe97a1ead.html
+  - notes: Targeted enrichment search result.
+- unverified items: vacancy=no_vacancy, waitlist=closed, rent=$1558; $1638; $1857; $2362; $2849
+- phone call needed: yes

@@ -1,0 +1,2488 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+	
+		
+	<title>FloridaHousingSearch.org | Rental Housing Search: Lake, FL</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<meta name="keywords" content="Find or list rental housing, search site for tenants and landlord, housing locator service, find housing, add property, renter tools" />
+	<meta name="author" content="myhousingsearch.com" />
+	<meta name="description" content="Florida's housing search site. Renters search for free, landlords list rental housing for free." />
+	<meta name="generator" content="Pippin" /> <!-- and did it in 0.116895914078, so there! -->
+	<meta name="language" content="en" />
+
+
+
+		<link rel="shortcut icon" type="image/x-icon" href="/graphics/favicons/FL.ico" />
+
+
+
+	<link rel="stylesheet" type="text/css" href="https://www.myhousingsearch.com/css/Universal1.css" media="all" />
+
+		<link rel="stylesheet" type="text/css" href="/css/SkinUniversal.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" media="all" />
+		<link rel="stylesheet" type="text/css" href="/css/FLBorders2.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="/css/FLNavTab.css" media="all" />
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open Sans:400,700" media="all" />
+		<link rel="stylesheet" type="text/css" href="/css/FLDefault.css" media="all" />
+
+
+		<script type="text/javascript" src="/global-js/jquery/jquery-1.10.2.js"></script>
+		<script type="text/javascript" src="/global-js/deferred.min.js"></script>
+		<script type="text/javascript" src="/global-js/json2.js"></script>
+		<script type="text/javascript" src="/global-js/json-rpc-st.js"></script>
+
+
+		<script nonce="35b77a1919d34d7eab82535d050efac0" type="text/javascript">//<![CDATA[
+
+
+		$(document).ready(function() {
+			var myhousingsearch_header = $(".myhousingsearch-header");
+			var myhousingsearchHeight = myhousingsearch_header.height();
+			var fixed = false;
+
+			$(window).scroll(function() {
+				var scrollTop = $(window).scrollTop();
+
+				if (scrollTop > myhousingsearchHeight) {
+					if (!fixed) {
+      					myhousingsearch_header.addClass("myhousingsearch-scroll");
+						fixed = true;
+					}
+				} else {
+					if (fixed) {
+      					myhousingsearch_header.removeClass("myhousingsearch-scroll");
+						fixed = false;
+					}
+				}
+			});
+		});
+	
+
+
+		(function (c, s, q, u, a, r, e) {
+			c.hj=c.hj||function(){(c.hj.q=c.hj.q||[]).push(arguments)};
+			c._hjSettings = { hjid: a };
+			r = s.getElementsByTagName('head')[0];
+			e = s.createElement('script');
+			e.async = true;
+			e.src = q + c._hjSettings.hjid + u;
+			r.appendChild(e);
+		})(window, document, 'https://static.hj.contentsquare.net/c/csq-', '.js', 6695479);
+	
+
+
+				$(document).ready(function() {
+					$('.langHam').click(function() {
+						$('.langNav a, .langNav .ib, .gTrans').not(this).slideToggle('fast');
+						$('.langHam').toggleClass('langHamNoBorder');
+					});
+					
+
+				});
+			
+
+
+		document.addEventListener("DOMContentLoaded", function() {
+			var trigger = document.querySelector(".enableRecite-static");
+			if (trigger) {
+				trigger.addEventListener("click", function(e) {
+					e.preventDefault();
+					loadService();
+				});
+			}
+
+			var hostname = window.location.hostname.toLowerCase().replace(/^www\./, "");
+
+			var allowedAccessibilityDomains = [
+				"myhousingsearch.com",
+				"lahousingsearch.org",
+				"indianahousingnow.org",
+				"dchousingsearch.org",
+				"georgiahousingsearch.org",
+				"floridahousingsearch.org",
+				"tnhousingsearch.org",
+				"nchousingsearch.org",
+				"pahousingsearch.com",
+				"mdhousingsearch.org",
+				"ilhousingsearch.org",
+				"coloradohousingsearch.com",
+				"housing.lacounty.gov"
+			];
+
+			var showAccessibilityTools = allowedAccessibilityDomains.some(function(domain) {
+				return hostname === domain || hostname.endsWith("." + domain);
+			});
+
+			if (!showAccessibilityTools) {
+				var accLink = document.querySelector(".accessibility-link");
+				if (accLink) accLink.remove();
+			}
+
+			setTimeout(function () {
+				// Fix hidden voting form inputs by adding labels
+				$("#goog-gt-votingForm input").each(function() {
+					var id = $(this).attr("id");
+					if (id && !$("label[for='" + id + "']").length) {
+						var labelText = id.replace("goog-gt-votingInput", "").replace(/([A-Z])/g, " $1").trim();
+						var label = $('<label class="sr-only" for="' + id + '"> ' + labelText + '</label>');
+						$(this).before(label);
+					}
+				});
+			}, 500);
+		});
+
+		var serviceUrl = "//api.reciteme.com/asset/js?key=";
+		var serviceKey = "1c6844d70dac46ec387943f18ede5e413722072c";
+		var options = {};
+		var autoLoad = false;
+		var enableFragment = "#reciteEnable";
+		var loaded = [];
+		var frag = (window.location.hash === enableFragment);
+
+		function loadScript(src, callback) {
+			var s = document.createElement("script");
+			s.type = "text/javascript";
+			if (s.readyState) {
+				s.onreadystatechange = function() {
+					if (s.readyState === "loaded" || s.readyState === "complete") {
+						s.onreadystatechange = null;
+						if (callback) callback();
+					}
+				};
+			} else if (callback) {
+				s.onload = callback;
+			}
+			s.src = src;
+			document.getElementsByTagName("head")[0].appendChild(s);
+		}
+
+		function _rc(name) {
+			name += "=";
+			var ca = document.cookie.split(";");
+			for (var i = 0; i < ca.length; i++) {
+				var c = ca[i].trim();
+				if (c.indexOf(name) === 0) return c.substring(name.length, c.length);
+			}
+			return null;
+		}
+
+		function loadService(cb) {
+			var src = serviceUrl + serviceKey;
+			for (var i = 0; i < loaded.length; i++) {
+				if (loaded[i] === src) return;
+			}
+			loaded.push(src);
+			loadScript(src, function() {
+				if (typeof _reciteLoaded === "function") _reciteLoaded();
+				if (typeof cb === "function") cb();
+				Recite.load(options);
+				Recite.Event.subscribe("Recite:load", function() {
+					Recite.enable();
+				});
+			});
+		}
+
+		if (_rc("Recite.Persist") === "true") loadService();
+		if ((autoLoad && _rc("Recite.Persist") !== "false") || frag) {
+			if (document.addEventListener)
+				document.addEventListener("DOMContentLoaded", function() { loadService(); });
+			else
+				loadService();
+		}
+
+		function _reciteLoaded() {
+			Recite.Event.subscribe("Controls:loaded", function() {
+				function ignoreOverlay() {
+					var el = document.querySelector("[data-id='1']");
+					if (el) {
+						el.classList.add("recite-ignore-styles-background");
+					} else {
+						setTimeout(ignoreOverlay, 100);
+					}
+				}
+				ignoreOverlay();
+			});
+
+			Recite.Event.subscribe("Preferences:load", function() {
+				Recite.Preferences.set("player.autoplay", false);
+			});
+
+			Recite.Event.subscribe("Preferences:reset", function() {
+				Recite.Preferences.set("player.autoplay", false);
+			});
+		}
+	
+
+
+							$(document).ready(function() {
+								$('.hamNav').click(function() {
+									$('.ctnavcontainer ul li').not(this).slideToggle('fast');
+								});
+							});
+						
+
+ssc_json_rpc = new JSON_RPC("https://www.myhousingsearch.com/api/JSON_RPC");
+
+
+ack_announcement = function (announcement_id) {
+    var deferred;
+    var args_as_array = Array.prototype.slice.call(arguments, 0);
+    deferred = ssc_json_rpc.call_remote(window.PIP_SYNCH_TOKEN, "ack_announcement", args_as_array, true,
+                                        true);
+
+return deferred;
+}
+
+
+
+        // Set up click handlers to dismiss each clicked-on announcement.
+        $(document).ready(function() {
+            var click_handler = function(e) {
+                e.preventDefault();
+                var a_id = $(this).parent().attr('id').split('_')[1];
+                ack_announcement(a_id);
+                $(this).parent().removeClass('displayed_admin_announcement').addClass('hidden_admin_announcement');
+                $(this).remove();
+            };
+
+            $('.unacked-csr-announcement').each(function() {
+                var link = $('<a href="javascript:void(0);">Dismiss<\/a>');
+                $(this).append(link);
+                link.bind('click', click_handler);
+                });
+        });
+
+    
+
+document.addEventListener('DOMContentLoaded', function() { document.querySelector('#search_form').addEventListener('submit', function() { if(zipcode.value=='Optional ZIP Code[s]')zipcode.value=''; }); });
+
+
+    document.addEventListener('DOMContentLoaded', function(e) {
+        document.querySelector('#search_form').addEventListener('submit', function(e) {
+            var el,arr;arr=document.getElementsByName('c_b_b_h');for(var i=0;i>arr.length;i++){el=arr[i];el.value='c_b_b_h';el.value='';};
+        });
+    });
+
+
+document.addEventListener('DOMContentLoaded', function(e) { document.querySelector('#default_street').addEventListener('focus', function(e) { if (this.value == 'Optional Search Name') this.value = ''; }); });
+
+document.addEventListener('DOMContentLoaded', function(e) { document.querySelector('#zipcode').addEventListener('blur', function(e) { if (this.value == 'Optional ZIP Code[s]') this.value = ''; }); });
+
+
+		//]]></script>
+
+		<style type="text/css">/*<![CDATA[*/
+				
+		.primaryColor { color: #007ac7; }
+		.primaryColorBG { background-color: #007ac7; }
+		.secondaryColor { color: #444; }
+		.secondaryColorBG { background-color: #444; }
+	
+				
+		  @media print
+			{
+				#mhsConsentBanner,
+				#mhsConsentToast,
+				#mhsPrivacySettings,
+				#showBotAgain,
+				iframe[src*="chatbase"],
+				iframe[src*="ChatClient"],
+				div[id*="chatbase"],
+				div[class*="chatbase"],
+				div[id^="icPatronChat"],
+				.icPatronChatRoot,
+				.ic-container,
+				.ic-widget,
+				.ic-chat-container,
+				#chatbase-bubble-button {
+					display: none !important;
+					visibility: hidden !important;
+					opacity: 0 !important;
+				}
+			}
+		  
+				
+				.gTrans {
+					height:26px;
+    				margin: 1px 0px 0 5px;
+					font-size:10pt;
+    				display: inline-block;
+				}
+				.gTrans>img {
+						margin:0px -4px 0 0;
+					}
+				#google_translate_element {
+					display:inline-block;
+				}
+				.goog-logo-link {
+					display:none;
+				}
+				#google_translate_element select {
+					font-size:9pt;
+				}
+			
+				
+				.accessibility-link {
+					height: 29px !important;
+					margin: 0 2px;
+					display: inline-flex !important;
+					align-items: center;
+					float: right;
+				}
+				.accessibility-link .enableRecite-static {
+					border: none;
+					background: transparent;
+					color: inherit;
+					font: inherit;
+					cursor: pointer;
+					padding: 0;
+				}
+				.accessibility-link .enableRecite-static:hover{
+					text-decoration: underline;
+				}
+				:lang(es) .accessibility-link .enableRecite-static {
+					padding-bottom: 10px;
+				}
+			
+				
+					.gTrans>img {
+						margin:0px -4px 0 0;
+					}
+				@media all and (max-width: 600px) {
+					.langPipe, .noLink, .gTrans {
+						display:none;
+					}
+					.langNav {
+						margin-bottom:3px;
+
+					}
+					.langNav a,
+					.langNav .ib {
+						display:none;
+						text-decoration:none;
+						border-bottom:1px solid #444;
+						flex: 1 1 auto;
+						font-size:150%;
+						line-height:200%;
+					}
+					.langNav .ib a {
+						display:none;
+						border-bottom:none;
+					}
+					.langNav, .languageLinkPadding {
+						display:flex;
+						flex-direction:column;
+						margin-top:-4px;
+					}
+					.languageLinkPadding>div {
+						flex: 1 1 auto;
+					}
+					a.langHam {
+						display:block !important;
+						order: -1;
+						border-bottom:1px solid #444;
+						font-size:120%;
+					}
+					.langHam img {
+						vertical-align:middle;
+						margin:1px;
+					}
+					.langHamNoBorder {
+						border-bottom:none !important;
+					}
+					.gTrans {
+						order: 99;
+						text-align: right;
+					}
+				}
+				@media all and (min-width:601px) {
+					.langNav a, .langNav .ib {
+						display:inline-block !important;
+					}
+					a.langHam {
+						display:none !important;
+					}
+				}
+			
+				
+							@media all and (min-width: 1000px) {
+								.ctnavcontainer {
+									margin-top:-40px;
+								}
+								.languageLinkPadding {
+									margin-bottom:-20px;
+								}
+							}
+							@media all and (min-width: 601px) {
+								.ctnavcontainer ul li {
+									display:block !important;
+								}
+								.ctnavcontainer li.hamNav,
+								.ctnavcontainer li.langApp {
+									display:none !important;
+								}
+
+							}
+							@media all and (max-width: 600px) {
+								.ctnavcontainer  {
+									text-align:left;
+									padding:5px 0 0 0;
+									width:100%;
+								}
+								.ctnavcontainer ul {
+									flex-direction:column;
+									border-top:1px solid #57641f;
+								}
+								.ctnavcontainer ul li,
+								.langNav {
+									display:none;
+									padding:0;
+									white-space:nowrap;
+									width:100%;
+								}
+								.ctnavcontainer ul li a,
+								.ctnavcontainer ul li a:hover,
+								.ctnavcontainer ul li a#active,
+								.ctnavcontainer ul li a.listingButton,
+								.ctnavcontainer ul li a.listingButton:hover {
+									width:98%;
+									padding:0 1%;
+									text-align:left;
+									height:60px;
+									line-height:60px;
+									font-size:200%;
+									border-bottom:none;
+									color: #444;
+									background-color:#FFF;
+									margin-bottom:0;
+									border-bottom:1px solid #57641f;
+									text-transform: capitalize;
+									cursor: pointer;
+								}
+								.ctnavcontainer li.hamNav,
+								.gTrans {
+									display:block !important;
+								}
+								.FLTextSearchContainer .tsTextboxClass {
+									width:80%
+								}
+							}
+						
+				
+				.accessibility-link {
+					height: 29px !important;
+					margin: 0 2px;
+					display: inline-flex !important;
+					align-items: center;
+					float: right;
+				}
+				.accessibility-link .enableRecite-static {
+					border: none;
+					background: transparent;
+					color: inherit;
+					font: inherit;
+					cursor: pointer;
+					padding: 0;
+				}
+				.accessibility-link .enableRecite-static:hover{
+					text-decoration: underline;
+				}
+				:lang(es) .accessibility-link .enableRecite-static {
+					padding-bottom: 10px;
+				}
+			
+				
+					.textContainer {
+						height: 140px;
+						padding: 0;
+						width: 100%;
+						background-position-y: 20%;
+						animation-name: none;
+					}
+				
+				
+				table.adminTable, table.searchedUsers, div.csr-announcement {
+					border-radius: 5px;
+					}
+
+					table.searchedUsers tr:first-child td:first-child {
+						border-top-left-radius: 5px;
+					}
+
+					table.searchedUsers tr:first-child td:last-child {
+						border-top-right-radius: 5px;
+					}
+
+					table.searchedUsers tr:last-child td:first-child {
+						border-bottom-left-radius: 5px;
+					}
+
+					table.searchedUsers tr:last-child td:last-child {
+						border-bottom-right-radius: 5px;
+					}
+				
+				
+        .hidden_admin_announcement {
+            display: none;
+        }
+        .displayed_admin_announcement {
+            display: block;
+        }
+        div.csr-announcement {
+            border: 1px solid #999999;
+            margin: 2px;
+            padding: 10px;
+            margin-bottom: 10px;
+        }
+        div.draft {
+            background: #ffe;
+        }
+
+        div.future {
+            background: #eff;
+        }
+    
+				
+		.searchTableFlex {
+			display:flex;
+			flex-wrap:wrap;
+			margin:auto;
+			max-width:1260px;
+			}
+		.stfLeft {
+			flex-basis:55%;
+			flex-grow:1;
+			min-width:320px;
+			margin-bottom:2%;
+			}
+		.stfRight {
+			flex-basis:45%;
+			flex-grow:1;
+			min-width:270px;
+			}
+		.stfvertdiv {
+		    float: left;
+			width: 10%;
+			height: 100%;
+		}
+		.stfRightContent {
+			width:90%;
+			float:left;
+		}
+
+		.otherOptionsChecks {
+			display:flex;
+			flex-wrap:wrap;
+			justify-content:space-between;
+			align-items:center;
+			background-color:#EEE;
+		}
+		.otherOptionsChecks > div {
+			flex: 1 1 32%;
+			padding: 3px 2px;
+			display:flex;
+			align-items:center;
+			min-width:175px;
+			height:31px;
+		}
+		.otherOptionsChecks input {
+			vertical-align: middle;
+		}
+		.otherOptionsChecks label {
+			display: inline-block;
+			padding: 2px;
+		}
+		.otherOptionsChecks > .row1,
+		.otherOptionsChecks > .row2 {
+			background-color: #EEE;
+			border-top:1px solid #DDD;
+		}
+		.filtertable td table td {
+			border-bottom: none;
+		}
+		form#search_form input#zipcode,
+		form#search_form .sfInternalFlexRight input{
+			margin-bottom: 10px;
+		}
+		
+		form#search_form select#median {
+			margin-bottom: 5px;
+		}
+	
+				
+		/*div#SFnavcontainer, div#SFnav {
+			position:relative;
+		}*/
+
+		#SFnavcontainer {
+			font-size:14px;
+		}
+
+		#SFnavcontainer div {
+			border: 1px solid #999;
+			height: 20px;
+			width:120px;
+			text-align:center;
+			vertical-align:middle;
+			display:table-cell;
+			position:relative;
+			top:1px;
+			left:0;
+			z-index:99;
+			background: #EEE;
+			float:left;
+			line-height:20px;
+		}
+
+		#SFnavcontainer div#SFBasic {
+			border-left:none;
+		}
+
+		#SFnavcontainer div.spacer {
+			border:none;
+			width:7px;
+			background:inherit;
+		}
+
+		#SFnavcontainer div.active {
+			border-bottom: 1px solid #FFF;
+			background: #FFF;
+		}
+
+		#SFnavcontainer div.spacer span {
+			display:none;
+		}
+
+		#SFnavcontainer img {
+			vertical-align:middle;
+		}
+
+		#SFnavcontainer div#topLeftCorner {
+			border-top: 1px solid #999;
+			border-right: none;
+			border-bottom: 1px solid #999;;
+			border-left: 1px solid #999;
+			background:inherit;
+			width: 5px;
+			position: absolute;
+			left: 0px;
+			top: -1px;
+			height: 20px;
+		}
+
+		#SFnavcontainer div.active #topLeftCorner {
+			border-bottom:none;
+			height:22px;
+		}
+		.sfInternalFlex {
+			display:flex;
+			flex-wrap:wrap;
+		}
+		.sfInternalFlexLeft {
+			flex-basis:55%;
+			flex-grow:1;
+			border:0;
+		}
+		.sfInternalFlexLeft > table {
+			width:100%;
+			border-spacing:0;
+		}
+		.sfInternalFlexRight {
+			flex-basis:45%;
+			flex-grow:1;
+			min-width:270px;
+			border-bottom:0;
+		}
+
+
+		.sfInternalFlexLeft fieldset.specialSearch table tr td:first-child {
+			width:inherit;
+		}
+		.sfInternalFlexLeft table tr td {
+			vertical-align: middle;
+		}
+
+		.mainSearchSubmit {
+			background: #1e73be;
+    		border: 2px solid #1e73be;
+			font: bold 24px/26px 'Open Sans', Arial, sans-serif;
+			color: #fff;
+			width: 298px;
+			height: 56px;
+			border-radius: 3px;
+    		cursor: pointer;
+		}
+		.mainSearchSubmit:hover {
+			background: #FFF;
+    		color: #1e73be;
+		}
+		.mainSearchSubmit:active {
+			background: #10a0cd;
+    		border: 2px solid #10a0cd;
+			color: #fff;
+		}
+	
+				
+			.sfInternalFlexLeft table tr td:first-child {
+			width:50%;}
+
+				
+			#search_form table.filtertable {
+				border-radius: 0 5px 5px 5px;
+			}
+
+			.rcBottomCap {
+				border-radius: 0 0 5px 5px;
+			}
+
+			#search_form table.filtertable fieldset,
+			.searchRt fieldset {
+				border-radius:5px;
+			}
+
+			#search_form table.filtertable fieldset legend {
+				border-radius:5px;
+				text-align:left;
+			}
+
+			.searchRt fieldset,
+			.searchRt fieldset legend {
+				border-radius:5px;
+			}
+
+			#search_form table.filtertable fieldset .rcClear,
+			.searchRt fieldset .rcClear {
+				clear:both;
+			}
+
+			#SFnavcontainer div {
+				border-radius: 5px 5px 0 0;
+			}
+
+			#SFnavcontainer div#topLeftCorner {
+				border-radius: 5px 0 0 0;
+			}
+			.mainSearchSubmit {
+				border-radius: 5px;
+			}
+		
+				
+			.light.ctr.standardFooter {
+				border-top: solid 1px #d3d3d3;
+				background-color: #fff !important;
+				line-height: inherit !important;
+			}
+			.standardFooter-label {
+				font-size: 15px;
+    			font-weight: bold;
+				color:#2E41DE;
+				letter-spacing: 2.5px;
+				margin: 25px 0 8px;
+			}
+			.standardFooter-links ul {
+				list-style: none;
+				margin: 0;
+				padding: 0;
+				display: flex;
+				justify-content: center;
+				gap: 0.75rem;
+				flex-flow: wrap;
+			}
+
+			.standardFooter-links li {
+				display: flex;
+				align-items: center;
+			}
+
+			.standardFooter-links li:not(:last-child)::after {
+				content: "•";
+				margin-left: 0.75rem;
+				font-weight: bold;
+    			font-size: 14px;
+				color: #000;
+			}
+
+			.standardFooter-links a {
+				text-decoration: none;
+				color: #000;
+				font-size: 14px;
+				font-weight: bold;
+			}
+			
+			.standardFooter-links a:hover {
+				color: #2E41DE;
+				text-decoration: underline;
+			}
+			.copyright {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				align-items: center;
+				gap: 4px 8px;
+				font-size: 11px;
+				font-weight: bold;
+				padding-bottom: 20px;
+				margin-top: 15px;
+				color: #000;
+			}
+			.copyright a{
+				text-decoration: none;
+				color: #000;
+			}
+			.copyright a img {
+				display: inline-block;
+				max-width: 100%;
+				width: auto;
+				max-height: 24px;
+				height: auto;
+				margin: 4px;
+			}
+		
+			/*]]>*/
+		</style>
+
+</head>
+
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+		<header class="myhousingsearch-header">
+			<div class="left-side">
+				<a href="https://www.myhousingsearch.com/" title="MyHousingSearch"><img alt="MyHousingSearch" src="https://www.myhousingsearch.com/images/MHSlogo.svg" /></a>
+			</div>
+			<div class="right-side">
+				<div class="contact-us-grid">
+					<a href="tel:+18774288844" title="Toll-Free: 1.877.428.8844"><img alt="Toll-Free: 1.877.428.8844" src="https://www.myhousingsearch.com/images/MHSphoneicon.svg" /></a>
+				</div>
+				<div class="social-media-grid">
+					<div class="social-media-images">
+						<a href="https://www.facebook.com/people/My-Housing-Search/61551706457138/" title="Facebook"><img alt="Facebook" src="https://www.myhousingsearch.com/images/MHSfacebook.svg" /></a>
+					</div>
+					<div class="social-media-images">
+						<a href="https://www.instagram.com/myhousingsearch/" title="Instagram"><img alt="Instagram" src="https://www.myhousingsearch.com/images/MHSinstagram.svg" /></a>
+					</div>
+					<div class="social-media-images">
+						<a href="https://www.threads.net/@myhousingsearch" title="Threads"><img alt="Threads" src="https://www.myhousingsearch.com/images/MHSthreads.svg" /></a>
+					</div>
+                    <div class="social-media-images">
+						<a href="https://bsky.app/profile/myhousingsearch.com" title="Bluesky"><img alt="Bluesky" src="https://www.myhousingsearch.com/images/MHSblusky.svg" /></a>
+					</div>
+					<div class="social-media-images">
+						<a href="https://twitter.com/myhousingsearch" title="Twitter"><img alt="Twitter" src="https://www.myhousingsearch.com/images/MHSX.svg" /></a>
+					</div>
+					<div class="social-media-images">
+						<a href="https://www.tiktok.com/@myhousingsearch" title="TikTok"><img alt="TikTok" src="https://www.myhousingsearch.com/images/MHStiktok.svg" /></a>
+					</div>
+					<div class="social-media-images">
+						<a href="https://www.youtube.com/@MyHousingSearch" title="YouTube"><img alt="YouTube" src="https://www.myhousingsearch.com/images/youtubeicon.svg" /></a>
+					</div>
+				</div>
+			</div>
+		</header>
+
+
+		<main id="mastertable">	
+			<a name="top" title="top of page marker"></a>
+
+		<div><a href="#toptable" id="navSkip" aria-label="Skip over navigation"><span class="noshow">Skip over navigation</span></a><span class="noshow">|</span></div>
+
+
+
+	
+	
+
+	 
+
+
+
+
+
+
+		<div class="headFlex">
+			<div class="languageLinkPadding">
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+			
+				<div class="gTrans" style="float:right;min-width:11.75em;">
+					<img src="https://www.myhousingsearch.com/graphics/icons/gTrans.png" class="imgMiddle" alt="Powered by Google" />
+					<div id="google_translate_element"></div>
+				</div>
+				<script nonce="35b77a1919d34d7eab82535d050efac0" type="text/javascript">
+					function googleTranslateElementInit() {
+					  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, autoDisplay: false},'google_translate_element');
+					
+					  var $googleDiv = $("#google_translate_element .skiptranslate");
+						$googleDiv.contents().filter(function () {
+							return this.nodeType === 3 && this.nodeValue.includes("Powered by");
+						}).remove();
+						var $googleDivChild = $("#google_translate_element .skiptranslate div");
+						$googleDivChild.next().remove();
+
+					}
+
+					(function() {
+					  var googleTranslateScript = document.createElement('script');
+					  googleTranslateScript.type = 'text/javascript';
+					  googleTranslateScript.defer = true;
+					  googleTranslateScript.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+					  ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( googleTranslateScript );
+					})();
+				</script>
+			
+
+
+				<div class="accessibility-link">
+					
+				<button class="enableRecite-static">Accessibility Tools</button>
+			
+				</div>
+
+			<div class="langCont rt imgRt" style="padding-top:4px">
+
+
+
+		<span class="langNav"><a href="/login?ch=FL" title="Log in to your account">Login</a><span class="langPipe">&nbsp;|&nbsp;</span><span class="noLink">English</span><span class="langPipe">&nbsp;|&nbsp;</span><a href="/tenant/FL/Search.html.ESP?ch=FL&amp;type=rental&amp;region_id=31066">Espa&ntilde;ol</a><span class="langPipe">&nbsp;|&nbsp;</span><a class="noshow langHam langHamNoBorder"><img src="https://www.myhousingsearch.com/graphics/icons/account_translate.png" alt="Account/Translate" />&#9776;</a></span>
+
+
+		<span class="noshow">&nbsp;|&nbsp;</span>
+
+		</div>
+
+
+
+				<div class="clearboth"></div>
+			</div>
+			<div class="headProper">
+				<a href="https://www.floridahousingsearch.org/index.html" title="Return to our home page"><img alt="FloridaHousingSearch.org - Find and list homes and apartments for rent in Florida." class="imgBottom imgShrink headerImg" src="/graphics/headers/FLHSheaderlogo.png" /></a>
+			</div>
+
+			<div class="ctnavcontainer">
+				<ul>
+						<li class="hamNav"><span><a>&#9776;&nbsp;Menu</a></span></li>
+
+
+						
+	<li>
+		<a href="https://www.floridahousingsearch.org/Resources.html">Resources</a>
+	<span class="noshow">&nbsp;|&nbsp;</span>
+	</li>
+
+						
+	<li>
+		<a href="/tenant/FL/index.html?ch=FL">Find Rentals</a>
+	<span class="noshow">&nbsp;|&nbsp;</span>
+	</li>
+
+						
+	<li>
+		<a class="listingButton" href="/dbh/realtor/?ch=FL">List Rentals</a>
+	<span class="noshow">&nbsp;|&nbsp;</span>
+	</li>
+
+
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+			<li class="langApp"><a href="/tenant/FL/Search.html.ESP?ch=FL&amp;type=rental&amp;region_id=31066">Espa&ntilde;ol</a></li>
+			<li class="langApp"><span class="noLink">English</span></li>
+			<li class="langApp"><a href="/login?ch=FL" title="Log in to your account">Login</a></li>
+
+
+
+				</ul>
+			</div>
+		</div>
+
+		<div class="textContainer">
+		</div>
+	
+	<div id="toptable"> 
+
+
+
+
+		
+			
+
+
+
+
+
+
+
+<script nonce="35b77a1919d34d7eab82535d050efac0">
+	(function () {
+		var style = document.createElement("style");
+		style.textContent = `
+			body.handoff-active iframe[src*="chatbase"],
+			body.handoff-active [id*="chatbase"],
+			body.handoff-active [class*="chatbase"],
+			body.handoff-active [class*="cb-"],
+			body.handoff-active [id*="cb-"],
+			body.handoff-active #chatbase-message-bubbles,
+			body.handoff-active #chatbase-bubble-button,
+			body.handoff-active #chatbase-bubble-window {
+				display: none !important;
+				visibility: hidden !important;
+				opacity: 0 !important;
+				pointer-events: none !important;
+			}
+		`;
+		document.head.appendChild(style);
+	
+		var host = window.location.hostname.toLowerCase().replace(/^www\./, "");
+
+		/********************************************************************
+		* FEATURE FLAG (easy on/off switch)
+		********************************************************************/
+		var ENABLE_AI_CHATBOT = true;
+
+		if (ENABLE_AI_CHATBOT) {
+			localStorage.removeItem("liveChatActive");
+		}
+
+		/* SKIN DECIDER: Chatbase on MHS + KC + MT */
+		/*
+		var USE_CHATBASE =
+			host.includes("myhousingsearch") ||
+			host.endsWith("kchousinglocator.com") ||
+			host.endsWith("mthousingsearch.com");
+		*/
+		/* All skins use Chatbase */
+		var USE_CHATBASE = ENABLE_AI_CHATBOT;
+
+		/********************************************************************
+		* SHARED STATE
+		********************************************************************/
+		var CHAT_TIMEOUT_MS = 10 * 60 * 1000;   // 10 minutes
+		var activityTimeout = null;
+		var lastIssue = "";
+
+		function markLiveChatActive()   { localStorage.setItem("liveChatActive", "true"); }
+		function markLiveChatInactive() { localStorage.removeItem("liveChatActive"); }
+		function isLiveChatActive()     { return localStorage.getItem("liveChatActive") === "true"; }
+
+
+		function hasChatConsent() {
+			try {
+				var saved = localStorage.getItem("mhs_consent_preferences");
+				var prefs = saved ? JSON.parse(saved) : null;
+				return !!(prefs && prefs.chat);
+			} catch (e) {
+				return false;
+			}
+		}
+
+		function loadChatbaseAfterConsent() {
+			if (!hasChatConsent()) return;
+
+			if (document.querySelector('script[src*="chatbase.co/embed.min.js"]')) {
+				return;
+			}
+
+			var s = document.createElement("script");
+			s.src = "https://www.chatbase.co/embed.min.js";
+			s.id = "8TxXhfz0PRBxu2pxb-Nt_";
+			s.domain = "www.chatbase.co";
+			s.nonce = "35b77a1919d34d7eab82535d050efac0";
+			document.body.appendChild(s);
+		}
+
+		window.mhsLoadChatServices = function () {
+			if (!hasChatConsent()) return;
+
+			if (ENABLE_AI_CHATBOT) {
+				loadChatbaseAfterConsent();
+			} else {
+				startLiveChat("Website visitor");
+			}
+		};
+
+
+		/********************************************************************
+		* DOM HELPERS
+		********************************************************************/
+		function hideChatbase() {
+			document.body.classList.add("handoff-active");
+			var btn = document.getElementById("showBotAgain");
+			if (btn) btn.style.display = "block";
+		}
+		function showChatbase() {
+  			if (!hasChatConsent()) return;
+			removeCXone();
+			document.body.classList.remove("handoff-active");
+			var btn = document.getElementById("showBotAgain");
+			if (btn) btn.style.display = "none";
+  			loadChatbaseAfterConsent();
+		}
+		function removeCXone() {
+			var selectors = [
+				"#icPatronChat",
+				"div[id^='icPatronChat']",
+				".icPatronChatRoot",
+				".ic-container",
+				".ic-widget",
+				".ic-chat-container",
+				"iframe[src*='ChatClient']"
+			];
+			document.querySelectorAll(selectors.join(",")).forEach(function(el) {
+				el.remove();
+			});
+		}
+
+		/********************************************************************
+		* TIMER RESET
+		********************************************************************/
+		function resetChatTimeout() {
+    		if (!ENABLE_AI_CHATBOT) return;
+			
+			if (activityTimeout) clearTimeout(activityTimeout);
+			activityTimeout = setTimeout(function () {
+				markLiveChatInactive();
+				showChatbase();
+			}, CHAT_TIMEOUT_MS);
+		}
+
+		/********************************************************************
+		* CXONE LOADER + START
+		********************************************************************/
+		var CXONE_CONFIG = {
+			serverHost: "https://home-c11.incontact.com",
+			bus_no: 4594254,
+			poc: "27a3cfee-1e5b-4743-a2c8-3d867d8f0fa7"
+		};
+
+		function loadCXoneScript() {
+			return new Promise(function(resolve, reject) {
+				var s = document.createElement("script");
+				s.src = "https://home-c11.incontact.com/inContact/ChatClient/js/embed.min.js";
+				s.onload = resolve;
+				s.onerror = reject;
+				document.body.appendChild(s);
+			});
+		}
+
+		function startLiveChat(issue) {
+			markLiveChatActive();
+			resetChatTimeout();
+
+			loadCXoneScript().then(function() {
+				hideChatbase();
+				if (window.icPatronChat && window.icPatronChat.init) {
+					window.icPatronChat.init({
+						serverHost: CXONE_CONFIG.serverHost,
+						bus_no: CXONE_CONFIG.bus_no,
+						poc: CXONE_CONFIG.poc,
+						params: [{ name: "issue_summary", value: issue || "" }]
+					});
+				}
+			});
+		}
+
+		/********************************************************************
+		* CHATBASE MESSAGE CAPTURE + HANDOFF
+		********************************************************************/
+		function isFromChatbase(origin) {
+			try {
+				var h = new URL(origin).hostname;
+				return h === "chatbase.co" || h.endsWith(".chatbase.co");
+			} catch { return false; }
+		}
+
+		/* Listen for assistant messages containing handoff instructions */
+		var HANDOFF_TRIGGERS = [
+			"your request has been sent to a live agent",
+			"request has been sent to a live agent",
+			"i'm connecting you to a live agent",
+			"we're connecting you to a live agent",
+			"i will forward this to a live agent",
+			"forwarded to a live agent",
+			"connecting you to a live agent"
+		];
+
+		window.addEventListener("message", function(event) {
+			if (!isFromChatbase(event.origin)) return;
+
+			var payload = event.data;
+			if (!payload) return;
+
+			// extract text in either Chatbase message format
+			var text = null;
+			if (payload.type === "assistant-message") {
+				text = payload.data?.content || "";
+			}
+			if (payload.event === "assistant_response") {
+				text = payload.response?.text || "";
+			}
+			if (!text) return;
+
+			var lower = text.toLowerCase();
+
+			// Extract issue summary for CXone params
+			var match = text.match(/send this to a live agent:\s*[“'"](.+?)[”'"]/i);
+			if (match) lastIssue = match[1].trim();
+
+			// Handoff triggers
+			if (HANDOFF_TRIGGERS.some(t => lower.includes(t))) {
+				setTimeout(() => startLiveChat(lastIssue || "General issue"), 800);
+			}
+		});
+
+		/********************************************************************
+		* CXONE events (resize/minimize) reset inactivity timer
+		********************************************************************/
+		window.addEventListener("message", function(event) {
+			if (event.origin !== "https://home-c11.incontact.com") return;
+			var payload = event.data;
+
+			if (payload?.messageType === "resize") {
+				if (ENABLE_AI_CHATBOT) {
+					resetChatTimeout();
+				}
+				var minimized = payload.data?.minimize;
+				var btn = document.getElementById("showBotAgain");
+
+				if (btn) {
+					if (minimized === true) btn.style.display = "block";
+					else if (minimized === false) btn.style.display = "none";
+				}
+			}
+		});
+
+		/********************************************************************
+		* INITIAL LOAD: prepare chatbot, but do NOT load it before consent
+		********************************************************************/
+		window.addEventListener("DOMContentLoaded", function () {
+			if (!ENABLE_AI_CHATBOT) {
+        		if (activityTimeout) clearTimeout(activityTimeout);
+				document.body.classList.add("handoff-active");
+			}
+			/* Add the “back to chatbot” button if missing */
+			if (USE_CHATBASE) {
+				if (!document.getElementById("showBotAgain")) {
+					var btn = document.createElement("button");
+					btn.id = "showBotAgain";
+					btn.innerText = "Back to AI Chatbot";
+					btn.style.cssText = "display:none;position:fixed;bottom:80px;right:20px;z-index:9999999999;padding:10px 18px;background:#4b0082;color:#fff;border-radius:6px;cursor:pointer;";
+					btn.addEventListener('click', function() { markLiveChatInactive(); showChatbase(); });
+					document.body.appendChild(btn);
+				}
+			}
+		});
+	})();
+	</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div style="color:#b01717" class="scamBlurb ctr">
+
+			<div class="ptb10">
+				<div class="ptb10">
+					<div><strong>Protect yourself from scams!</strong> Verify the identity of a landlord <strong>BEFORE</strong> you complete an application to protect against identify theft. <strong>NEVER</strong> wire or send money using an app and only pay after you have verified they have a right to rent the unit! <strong><a href="/tenant/FraudAlert.html?ch=FL&amp;region_id=31066">Find out how</a></strong> to detect a scam and report a listing.</div>
+				</div>
+				
+			</div>
+	</div>
+
+
+
+<div>&nbsp;<br />&nbsp;</div>
+
+
+
+	<div class="searchTableFlex">
+		<div class="stfLeft">
+			
+
+
+
+
+
+
+
+	<h1 class="paintTitleH2">
+			Housing Search:
+			Lake County, FL
+	</h1>
+
+		<div class="rt">
+			&nbsp;<a href="index.html?ch=FL&amp;type=rental&amp;state_id=4089">Choose a different area</a><br />&nbsp;
+		</div>
+
+	<form id="search_form" action="/dbh/SearchHousingSubmit.html" method="get">
+<div class="noshow">&nbsp;
+<input type="hidden" name="ch" value="FL" />
+<input type="hidden" name="type" value="rental" />
+<input type="hidden" name="region_id" value="31066" />
+<input type="hidden" name="c_b_b_h" value="c_b_b_h" />
+</div>
+
+
+		<div id="SFnav">
+			<div id="SFnavcontainer">
+				<div id="SFBasic" class="active">
+					<div id="topLeftCorner"></div>
+							<strong>Basic</strong>
+				</div>
+
+					<div class="spacer">
+						&nbsp;<span>|</span>&nbsp;
+					</div>
+					    <div >
+    							<a href="Search.html?ch=FL&amp;region_id=31066&amp;type=rental&amp;advanced=t" title="Advanced Search"><strong>Advanced</strong></a>
+    					</div>
+
+						<div class="spacer">
+							&nbsp;<span>|</span>&nbsp;
+						</div>
+
+				<div >
+						<img src="/graphics/icons/SSCaccess20px.png" alt="Universal Accessibility" title="Accessibility features. Inspect the property for your requirements." />
+						<a href="Search.html?ch=FL&amp;region_id=31066&amp;type=rental&amp;accessibility=t" title="Accessibility Search"><strong>Accessible</strong></a>
+				</div>
+			</div>
+		</div>
+		<table class="filtertable clearboth" style="background:white; border-top:1px #999 solid; border-radius:0 5px 0 0" cellspacing="0" cellpadding="4"  role="presentation">
+			<tr><td class="sfInternalFlex" style="border-bottom:0;">
+			<div class="sfInternalFlexLeft">
+			<table role="presentation">
+				<tr>
+				<td class="ctr" style="border-bottom: none;" valign="top">
+					<p id="basic_anchor"></p>
+
+					<fieldset title="General Search Information">
+						<legend>
+							<b>General Search Information</b>
+						</legend>
+						<table class="w100ctr" cellspacing="0" cellpadding="0" role="presentation">
+
+								    <tr class="row1">
+    									<td class="lt">
+    									  <label for="s8">
+    										<strong>&nbsp;Do you have a Section 8 Voucher?</strong>
+    									  </label>
+    									  <sup>[<a href="/tenant/Definitions.html?ch=FL#sec8_anchor" rel="noopener noreferrer" target="_blank" title="More Info"><b>?<span style="display: none;">&nbsp;s8</span></b></a>]</sup>
+    									</td>
+
+    									<td class="lt">
+    									  <input type="checkbox" id="s8" name="s8" value="t"   />&nbsp;<span>Yes</span>
+    									</td>
+    								</tr>
+								    <tr class="row2">
+								        <td class="lt">
+								            <label for="taxcredit">
+								            <strong>&nbsp;Tax Credit Affordable Housing (LIHTC)</strong>
+								            </label>
+								            <sup>[<a href="/tenant/Definitions.html?ch=FL#taxcredit" rel="noopener noreferrer" target="_blank" title="More Info"><b>?<span style="display: none;">&nbsp;taxcredit</span></b></a>]</sup>
+								        </td>
+                                                                        <td class="lt">
+									    <input type="checkbox" id="taxcredit" name="taxcredit" value="t"   />&nbsp;<label for="taxcredit">Yes</label>
+								        </td>
+								    </tr>
+    										<tr class="row1">
+    											<td class="lt">
+    											  <label for="rental_voucher_programs_5">
+    												<strong>&nbsp;Veteran or VASH Recipient?</strong>
+    											  </label>
+    													<sup>[<a href="/Types.html#vash" rel="noopener noreferrer" target="_blank" title="More Info"><b>?<span style="display: none;">&nbsp;rental_voucher_programs_5</span></b></a>]</sup>
+    											</td>
+    											<td class="lt">
+    									  			<input type="checkbox" id="rental_voucher_programs_5" name="rental_voucher_programs_5" value="t"   />&nbsp;<span>Yes</span>
+    											</td>
+    										</tr>
+						<tr class="row2">
+							<td class="lt">
+								<label for="sliding_scale" title="Rent is adjusted based on median income, age, disability or other tenant factors.">
+									<strong>&nbsp;Income Based</strong>
+								</label>
+								<sup>[<a href="/tenant/Definitions.html?ch=FL#income_sliding" rel="noopener noreferrer" target="_blank" title="More Info"><b>?<span style="display: none;">&nbsp;sliding_scale</span></b></a>]</sup>
+							</td>
+							<td class="lt">
+								<input type="checkbox" id="sliding_scale" name="sliding_scale" value="t"   />&nbsp;<span>Yes</span>
+							</td>
+						</tr>
+							    <tr class="row1">
+    								<td class="lt">
+    									<label for="bedroom">&nbsp;Bedroom[s]</label>
+    								</td>
+    								<td class="lt">
+    									<select id="bedroom" name="bedroom"  >
+    <option value="-1" selected="selected">0+</option>
+    <option value="1,2,3,4,5,6,7,8">1+</option>
+    <option value="2,3,4,5,6,7,8">2+</option>
+    <option value="3,4,5,6,7,8">3+</option>
+    <option value="4,5,6,7,8">4+</option>
+    <option value="5,6,7,8">5+</option>
+    <option value="6,7,8">6+</option>
+    <option value="7,8">7+</option>
+    <option value="8">8</option>
+</select>
+    								</td>
+    							</tr>
+							    <tr class="row2">
+    								<td class="lt">
+    									<label for="bathroom">&nbsp;Bath</label>
+    								</td>
+    								<td class="lt">
+    									<select id="bathroom" name="bathroom"  >
+    <option value="-1.0" selected="selected">Any</option>
+    <option value="1.0">1+</option>
+    <option value="2.0">2+</option>
+    <option value="3.0">3+</option>
+    <option value="4.0">4+</option>
+    <option value="5.0">5+</option>
+    <option value="6.0">6+</option>
+</select>
+    								</td>
+    							</tr>
+
+    							<tr class="row1">
+    								<td class="lt">
+    										&nbsp;<label for="low_rent" title="Fair Market Rent or including voucher or subsidy">Rent range</label>&nbsp;&nbsp;
+    										</td>
+    										<td class="lt">
+    										<select id="low_rent" name="low_rent"  >
+    <option value="0" selected="selected">$0</option>
+    <option value="50">$50</option>
+    <option value="100">$100</option>
+    <option value="150">$150</option>
+    <option value="200">$200</option>
+    <option value="250">$250</option>
+    <option value="300">$300</option>
+    <option value="350">$350</option>
+    <option value="400">$400</option>
+    <option value="450">$450</option>
+    <option value="500">$500</option>
+    <option value="550">$550</option>
+    <option value="600">$600</option>
+    <option value="650">$650</option>
+    <option value="700">$700</option>
+    <option value="750">$750</option>
+    <option value="800">$800</option>
+    <option value="850">$850</option>
+    <option value="900">$900</option>
+    <option value="950">$950</option>
+    <option value="1000">$1,000</option>
+    <option value="1100">$1,100</option>
+    <option value="1200">$1,200</option>
+    <option value="1300">$1,300</option>
+    <option value="1400">$1,400</option>
+    <option value="1500">$1,500</option>
+    <option value="1600">$1,600</option>
+    <option value="1700">$1,700</option>
+    <option value="1800">$1,800</option>
+    <option value="1900">$1,900</option>
+    <option value="2000">$2,000</option>
+    <option value="2100">$2,100</option>
+    <option value="2200">$2,200</option>
+    <option value="2300">$2,300</option>
+    <option value="2400">$2,400</option>
+    <option value="2500">$2,500</option>
+    <option value="2600">$2,600</option>
+    <option value="2700">$2,700</option>
+    <option value="2800">$2,800</option>
+    <option value="2900">$2,900</option>
+    <option value="3000">$3,000</option>
+    <option value="3100">$3,100</option>
+    <option value="3200">$3,200</option>
+    <option value="3300">$3,300</option>
+    <option value="3400">$3,400</option>
+    <option value="3500">$3,500</option>
+    <option value="3600">$3,600</option>
+    <option value="3700">$3,700</option>
+    <option value="3800">$3,800</option>
+    <option value="3900">$3,900</option>
+    <option value="4000">$4,000</option>
+    <option value="4100">$4,100</option>
+    <option value="4200">$4,200</option>
+    <option value="4300">$4,300</option>
+    <option value="4400">$4,400</option>
+    <option value="4500">$4,500</option>
+    <option value="4600">$4,600</option>
+    <option value="4700">$4,700</option>
+    <option value="4800">$4,800</option>
+    <option value="4900">$4,900</option>
+    <option value="5000">$5,000</option>
+    <option value="5100">$5,100</option>
+    <option value="5200">$5,200</option>
+    <option value="5300">$5,300</option>
+    <option value="5400">$5,400</option>
+    <option value="5500">$5,500</option>
+    <option value="5600">$5,600</option>
+    <option value="5700">$5,700</option>
+    <option value="5800">$5,800</option>
+    <option value="5900">$5,900</option>
+    <option value="6000">$6,000</option>
+    <option value="6100">$6,100</option>
+    <option value="6200">$6,200</option>
+    <option value="6300">$6,300</option>
+    <option value="6400">$6,400</option>
+    <option value="6500">$6,500</option>
+    <option value="6600">$6,600</option>
+    <option value="6700">$6,700</option>
+    <option value="6800">$6,800</option>
+    <option value="6900">$6,900</option>
+    <option value="7000">$7,000</option>
+</select>
+    										<label for="high_rent">to</label>
+    										<select id="high_rent" name="high_rent"  >
+    <option value="0">$0</option>
+    <option value="50">$50</option>
+    <option value="100">$100</option>
+    <option value="150">$150</option>
+    <option value="200">$200</option>
+    <option value="250">$250</option>
+    <option value="300">$300</option>
+    <option value="350">$350</option>
+    <option value="400">$400</option>
+    <option value="450">$450</option>
+    <option value="500">$500</option>
+    <option value="550">$550</option>
+    <option value="600">$600</option>
+    <option value="650">$650</option>
+    <option value="700">$700</option>
+    <option value="750">$750</option>
+    <option value="800">$800</option>
+    <option value="850">$850</option>
+    <option value="900">$900</option>
+    <option value="950">$950</option>
+    <option value="1000">$1,000</option>
+    <option value="1100">$1,100</option>
+    <option value="1200">$1,200</option>
+    <option value="1300" selected="selected">$1,300</option>
+    <option value="1400">$1,400</option>
+    <option value="1500">$1,500</option>
+    <option value="1600">$1,600</option>
+    <option value="1700">$1,700</option>
+    <option value="1800">$1,800</option>
+    <option value="1900">$1,900</option>
+    <option value="2000">$2,000</option>
+    <option value="2100">$2,100</option>
+    <option value="2200">$2,200</option>
+    <option value="2300">$2,300</option>
+    <option value="2400">$2,400</option>
+    <option value="2500">$2,500</option>
+    <option value="2600">$2,600</option>
+    <option value="2700">$2,700</option>
+    <option value="2800">$2,800</option>
+    <option value="2900">$2,900</option>
+    <option value="3000">$3,000</option>
+    <option value="3100">$3,100</option>
+    <option value="3200">$3,200</option>
+    <option value="3300">$3,300</option>
+    <option value="3400">$3,400</option>
+    <option value="3500">$3,500</option>
+    <option value="3600">$3,600</option>
+    <option value="3700">$3,700</option>
+    <option value="3800">$3,800</option>
+    <option value="3900">$3,900</option>
+    <option value="4000">$4,000</option>
+    <option value="4100">$4,100</option>
+    <option value="4200">$4,200</option>
+    <option value="4300">$4,300</option>
+    <option value="4400">$4,400</option>
+    <option value="4500">$4,500</option>
+    <option value="4600">$4,600</option>
+    <option value="4700">$4,700</option>
+    <option value="4800">$4,800</option>
+    <option value="4900">$4,900</option>
+    <option value="5000">$5,000</option>
+    <option value="5100">$5,100</option>
+    <option value="5200">$5,200</option>
+    <option value="5300">$5,300</option>
+    <option value="5400">$5,400</option>
+    <option value="5500">$5,500</option>
+    <option value="5600">$5,600</option>
+    <option value="5700">$5,700</option>
+    <option value="5800">$5,800</option>
+    <option value="5900">$5,900</option>
+    <option value="6000">$6,000</option>
+    <option value="6100">$6,100</option>
+    <option value="6200">$6,200</option>
+    <option value="6300">$6,300</option>
+    <option value="6400">$6,400</option>
+    <option value="6500">$6,500</option>
+    <option value="6600">$6,600</option>
+    <option value="6700">$6,700</option>
+    <option value="6800">$6,800</option>
+    <option value="6900">$6,900</option>
+    <option value="7000">$7,000</option>
+    <option value="7100">$7,100</option>
+    <option value="7200">$7,200</option>
+    <option value="7300">$7,300</option>
+    <option value="7400">$7,400</option>
+    <option value="7500">$7,500</option>
+    <option value="7600">$7,600</option>
+    <option value="7700">$7,700</option>
+    <option value="7800">$7,800</option>
+    <option value="7900">$7,900</option>
+    <option value="8000">$8,000</option>
+    <option value="8100">$8,100</option>
+    <option value="8200">$8,200</option>
+    <option value="8300">$8,300</option>
+    <option value="8400">$8,400</option>
+    <option value="8500">$8,500</option>
+    <option value="8600">$8,600</option>
+    <option value="8700">$8,700</option>
+    <option value="8800">$8,800</option>
+    <option value="8900">$8,900</option>
+    <option value="9000">$9,000</option>
+</select>&nbsp;a month
+    								</td>
+    							</tr>
+								<tr class="row2">
+									<td class="lt">
+										&nbsp;<label for="street" >Building or Complex Name</label>
+									</td>
+									<td class="lt">
+										<input type="text" id="street" name="street" value="Type Building or Complex Name Here"  size="20" />
+										<input type="hidden" id="default_street" name="default_street" value="Type Building or Complex Name Here"   />
+									</td>
+								</tr>
+						</table>
+					</fieldset>
+				</td>
+
+			</tr>
+
+			
+			<tr>
+				<td style="border-bottom: none;" valign="top">
+					<p id="a_optional_filters"></p>
+					<fieldset title="Optional Filters">
+						<legend>
+							<b>Optional Filters</b>
+						</legend>
+
+						<table class="w100ctr" cellspacing="0" cellpadding="0" role="presentation">
+
+
+
+
+						    <tr class="row1">
+    							<td>
+    								&nbsp;Wait Listed Properties
+    							</td>
+    							<td>
+    								<input type="radio" id="exclude_waitlist_no" name="exclude_waitlist" value="f" checked="checked"  />&nbsp;<label for="exclude_waitlist_no">Display</label>
+    								<input type="radio" id="exclude_waitlist_yes" name="exclude_waitlist" value="t"   />&nbsp;<label for="exclude_waitlist_yes">Hide</label>
+    							</td>
+    						</tr>
+
+						    	<tr class="row2">
+	  <td>
+		&nbsp;<label for="building_type">Housing Type</label>
+	  </td>
+	  <td style="white-space:nowrap">
+		<select id="building_type" name="building_type"  >
+    <option value="-1" selected="selected">Any (House, etc.)</option>
+    <option value="2">Apartments</option>
+    <option value="22">Assisted Living Facility</option>
+    <option value="7">Condominium</option>
+    <option value="26">Cooperative</option>
+    <option value="3">Duplex</option>
+    <option value="15">Flat (apartment)</option>
+    <option value="20">Group Home</option>
+    <option value="1">House</option>
+    <option value="17">Loft</option>
+    <option value="11">Mobile Home</option>
+    <option value="12">Mobile Home Park</option>
+    <option value="10">Modular or Manufactured</option>
+    <option value="16">Multi Family Flat</option>
+    <option value="6">Quadplex</option>
+    <option value="8">Retirement Community</option>
+    <option value="13">Shared Housing/Room to Rent</option>
+    <option value="23">Short-Term Hotel/Motel/Inn</option>
+    <option value="14">Single Room Occupancy</option>
+    <option value="9">Studio/Efficiency</option>
+    <option value="4">Townhouse</option>
+    <option value="5">Triplex</option>
+    <option value="19">Villa</option>
+</select>
+		<sup>[<a href="/dbh/BuildingTypeHelp.html?ch=FL&amp;type=rental&amp;region_id=31066#top" rel="noopener noreferrer" target="_blank" title="More Info"><b>?<span style="display: none;">&nbsp;building_type</span></b></a>]</sup>
+	  </td>
+	</tr>
+
+
+    						<tr class="row1">
+    							<td>
+    								&nbsp;<label for="senior_housing">Senior/Disability Housing</label>
+    							</td>
+    							<td>
+    								<select id="senior_housing" name="senior_housing"  >
+    <option value="0" selected="selected">Include in Results</option>
+    <option value="4">Exclude Senior Housing</option>
+    <option value="1">Only Senior Housing</option>
+    <option value="5">Ages 50 and up</option>
+    <option value="2">Ages 55 and up</option>
+    <option value="7">Ages 60 and up</option>
+    <option value="3">Ages 62 and up</option>
+    <option value="6">Eligible Disabled</option>
+</select>
+    							</td>
+    						</tr>
+
+
+
+
+
+    						<tr class="row2">
+    							<td>
+    								&nbsp;<label for="zipcode" title="SEARCH TIP: you can search one or more ZIP Codes - space or comma separated">ZIP Code[s]</label>
+    							</td>
+    							<td style="padding:4px 0">
+    								<input type="text" id="zipcode" name="zipcode" value="Optional ZIP Code[s]"  size="20" title="SEARCH TIP: you can search one or more ZIP Codes - space or comma separated" />
+    								<input type="hidden" id="default_zipcode" name="default_zipcode" value="Optional ZIP Code[s]"   />
+    								<br/>
+    								<a href="/tenant/ZipList.html?ch=FL&amp;type=rental&amp;region_id=31066" rel="noopener noreferrer" target="_blank">List relevant ZIP codes</a>
+    							</td>
+    						</tr>
+
+    							<tr class="row1">
+    								<td>
+    									&nbsp;<label for="bus" title="Find listings near public transportation">Public Transit</label>
+    								</td>
+    								<td>
+    									<select id="bus" name="bus"  >
+    <option value="optional" selected="selected">Not Applicable</option>
+    <option value="0">On Site</option>
+    <option value="1">One Block</option>
+    <option value="2">Two Blocks</option>
+    <option value="3">Three Blocks</option>
+    <option value="4">Four Blocks</option>
+    <option value="5">Five Blocks</option>
+    <option value="6">Within One Mile</option>
+    <option value="7">Within Two Miles</option>
+    <option value="8">Within Five Miles</option>
+</select>
+    								</td>
+    							</tr>
+
+						    <tr class="row2">
+    						  <td>
+    							&nbsp;<label for="smoking_status_id" title="Smoking Policy">Smoking Policy [<a href="/dbh/ViewUnitHelp.html?ch=FL&amp;type=rental&amp;region_id=31066#smoking" rel="noopener noreferrer" target="_blank">?</a>]</label>
+    						  </td>
+    						  <td>
+    							<select id="smoking_status_id" name="smoking_status_id"  >
+    <option value="optional" selected="selected">Any</option>
+    <option value="1">Allowed</option>
+    <option value="2">No Smoking</option>
+</select>
+    						  </td>
+    						</tr>
+
+						    <tr class="row1">
+    							<td>
+    							  &nbsp;<label for="language_spoken_id">Landlord Speaks</label>
+    							</td>
+    							<td>
+    								<select id="language_spoken_id" name="language_spoken_id"  >
+    <option value="1" selected="selected">English</option>
+    <option value="2">Spanish</option>
+</select>
+    							</td>
+    						</tr>
+
+
+						</table>
+					</fieldset>
+				</td>
+			</tr>
+
+
+
+
+			</table>
+			</div>
+			</td></tr>
+		</table>
+
+		<table class="w100ctr filtertable" style="border-radius: 0 0 5px 5px; border-spacing: 0; background:white;" role="presentation">
+			<tr>
+				<td class="ctr rcBottomCap" style="border-bottom: #999999 solid 1px;" >
+					<div class="ctr pb10">
+								<label for="showmax">Show me</label>
+								<select name="showmax" id="showmax">
+									<option value="-1" > All </option>
+									<option value="10" selected="selected"> 10 </option>
+									<option value="30" > 30 </option>
+									<option value="50" > 50 </option>
+									<option value="100" > 100 </option>
+									<option value="250" > 250 </option>
+								</select>
+								Properties per Page
+								<br />&nbsp;<br />
+
+						<input class="mainSearchSubmit" type="submit" name="submit" value="Search Properties" />
+						<br />
+					</div>
+				</td>
+			</tr>
+		</table>
+	</form>
+
+
+
+		</div>
+
+			<div class="stfRight">
+				<div class="stfvertdiv vertdiv">&nbsp;</div>
+				<div class="stfRightContent">
+
+
+
+					<h2 class="paintTitleH2">Resources</h2>
+					<ul>
+
+								<li>
+		<strong><a href="http://www.floridahousingsearch.org/ServiceResources.html">Community Resources &amp; Info</a></strong><br />&nbsp;
+		</li>
+
+
+
+
+
+
+							<li>
+									<a href="/tenant/FraudAlert.html?ch=FL&amp;region_id=31066" style="color:#940000;">Scam Alert for Renters</a>
+	<br />
+		&nbsp;
+
+							</li>
+							<li>
+								<a href="/tenant/ForeclosureAlert.html?ch=FL" style="color:#940000;">Foreclosure Alert</a><br />&nbsp;
+							</li>
+							<li>
+								<img src="/global_graphics/email_icon.gif" width="14" height="9" alt="Email icon" title="Suggest a Resource" />&nbsp;<a class="" href="https://www.myhousingsearch.com/SendEmail.html?state_id=4089&amp;ch=FL&amp;type=Resource&amp;region_id=31066" title="Email MyHousingSearch.com">Suggest a Resource</a>
+							</li>
+					</ul>
+
+
+					&nbsp;<h2 class="paintTitleH2">Helpful Tools</h2>
+
+						<ul>
+
+
+			<li>
+
+
+				<a href="/dbh/MFICalculator.html?ch=FL&amp;type=rental&amp;region_id=31066&amp;region_name=Lake&amp;state_abbr=FL" title="Calculate">What can you afford to rent?</a><br />&nbsp;
+			</li>
+
+		<li>
+			<a href="/tenant/education/MovingCostExample.html?ch=FL">An example of moving costs</a><br />&nbsp;
+		</li>
+
+		<li>
+			<a href="/tenant/education/MovingCostCalculator.html?ch=FL">Calculate your moving costs</a><br />&nbsp;
+		</li>
+
+		<li>
+			<a href="/tenant/RentalChecklist.html?ch=FL">Rental checklist</a><br />&nbsp;
+		</li>
+		
+		<li>
+			<img src="/global_graphics/email_icon.gif" width="14" height="9" alt="Email icon" title="Email this page to others" />&nbsp;<a href="mailto:?subject=Check%20out%20this%20MyHousingSearch.com%20link...&amp;body=MyHousingSearch.com%20at%20http://www.myhousingsearch.com">Email this page to others</a>
+		</li>
+	</ul>
+
+				</div> 
+			</div> 
+	</div> 
+
+
+
+
+
+
+
+
+	</main> 
+
+			</div> 
+
+	<div class="FLFooter clearboth">
+		<div>
+			<div class="footerNav">
+
+
+				<div>
+					<h2 class="footNavHead">HOUSING</h2>
+					<ul>
+						<li><a href="/tenant/FL/index.html?ch=FL">Find Rentals</a></li>
+						<li><a href="/dbh/realtor/index.html?ch=FL">List Rentals</a></li>
+					</ul>
+				</div>
+
+				<div>
+					<h2 class="footNavHead">SUPPORT</h2>
+					<ul>
+						<li><a href="https://www.floridahousingsearch.org/Resources.html?ch=FL">Resources</a></li>
+						<li><a href="/tenant/FL/MFIIndex.html?ch=FL">Affordability Calculator</a></li>
+					</ul>
+				</div>
+
+				<div>
+					<h2 class="footNavHead">SERVICE</h2>
+					<ul>
+						<li><a href="https://www.floridahousingsearch.org/About.html">About Us</a></li>
+						<li><a href="/Contact.html?ch=FL">Contact Us</a></li>
+					</ul>
+				</div>
+
+				<div>
+					<h2 class="footNavHead">SITE INFO</h2>
+					<ul>
+						<li><a href="/Disclaimer.html?ch=FL">Disclaimer</a></li>
+						<li><a href="/Privacy.html?ch=FL">Privacy</a></li>
+						<li><a href="/TermsOfUse.html?ch=FL">Terms</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+
+	<footer class="light ctr standardFooter" aria-labelledby="network-footer-title">
+
+		<h2 id="network-footer-title" class="standardFooter-label">
+			PART OF THE MYHOUSINGSEARCH NETWORK
+		</h2>
+		<div class="standardFooter-links">
+			<ul>
+				<li><a href="/about.html">About Us</a></li>
+				<li><a href="/contact.html">Contact</a></li>
+				<li><a href="javascript:void(0);" id="mhsPrivacySettings">Privacy Settings</a></li>
+				<li><a href="/faq-tenants.html">FAQs</a></li>
+				<li><a href="https://www.hud.gov/helping-americans/fair-housing-act-overview#openModal">HUD</a></li>
+				<li><a href="https://www.ada.gov/">ADA</a></li>
+			</ul>
+		</div>
+		<h3 class="copyright">
+			Copyright &copy; 2026&nbsp;&nbsp;<a href="https://www.myhousingsearch.com/">Emphasys Housing Locator</a>.&nbsp;All rights reserved
+			
+	<a href="http://portal.hud.gov/hudportal/HUD/program_offices/fair_housing_equal_opp/FHLaws/yourrights" title="Fair Housing Act of 1968"><img alt="Fair Housing Logo" class="imgBottom" src="/graphics/icons/HUD_icon.svg" /></a>
+
+			
+	<a href="https://www.disability.gov/" title="Universally Accessible"><img alt="Universally Accessible" class="imgBottom" src="/graphics/icons/ADA_icon.svg" /></a>
+
+		</h3>
+
+	</footer>
+
+
+
+			
+
+	<div class="light ctr validationTags">
+		&nbsp;<br />[
+		<a href="http://validator.w3.org/" title="Valid XHTML 1.0">XHTML</a>
+
+			&nbsp;|&nbsp;&nbsp;<a href="http://jigsaw.w3.org/css-validator/" title="Valid CSS">CSS</a>
+
+				&nbsp;|&nbsp;&nbsp;<a href="http://www.cynthiasays.com/"
+				
+					title="Section 508 Compliant and WCAG AAA">508 / AA / AAA
+
+				</a>
+		]
+		<br />This specific page meets the above validation levels.
+	</div>
+			
+
+
+
+
+	
+
+	<div id="mhsConsentBanner" class="mhs-consent-banner" role="dialog" aria-modal="true" aria-label="Privacy and cookie consent">
+		<div class="mhs-banner-inner">
+
+			<div class="mhs-blocking-notice" id="mhsConsentStatus">
+				No optional tools active — waiting for your choice
+			</div>
+
+			<div class="mhs-banner-main">
+				<div class="mhs-banner-content">
+					<p class="mhs-banner-title">We don’t track anything until you say so</p>
+					<p class="mhs-banner-body">
+						We use optional analytics and chat tools to improve site performance and support services.
+						These tools do not load unless you choose to allow them. Essential cookies required for
+						site functionality are always active. You can change or withdraw your consent at any time
+						through Privacy Settings.
+					<br><br>
+						<a href="https://www.myhousingsearch.com/privacy.html">Privacy Policy</a>
+					</p>
+				</div>
+				<div class="mhs-banner-actions">
+					<button type="button" class="mhs-btn mhs-btn-primary" id="mhsAcceptAllConsent">
+						Accept all
+					</button>
+
+					<button type="button" class="mhs-btn mhs-btn-secondary" id="mhsRejectAllConsent">
+						Reject all
+					</button>
+
+					<button type="button" class="mhs-btn mhs-btn-ghost" id="mhsPrefsToggle">
+						Manage preferences ↓
+					</button>
+				</div>
+			</div>
+
+			<div class="mhs-prefs-panel" id="mhsPrefsPanel">
+				<hr class="mhs-prefs-divider">
+
+				<div class="mhs-prefs-grid">
+					<div class="mhs-pref-card" id="mhs-card-essential">
+						<div class="mhs-pref-card-header">
+							<span class="mhs-pref-label">
+								Essential
+								<span class="mhs-badge-required">Always on</span>
+							</span>
+
+							<label class="mhs-toggle" aria-label="Essential cookies — always on">
+								<input type="checkbox" checked disabled>
+								<span class="mhs-toggle-track"></span>
+								<span class="mhs-toggle-thumb"></span>
+							</label>
+						</div>
+
+						<p class="mhs-pref-desc">
+							Required for the site to function, including security, login/session behavior, and basic site operations.
+						</p>
+
+						<div class="mhs-pref-tools">
+							<span>session cookies</span>
+							<span>security</span>
+						</div>
+					</div>
+
+					<div class="mhs-pref-card" id="mhs-card-analytics">
+						<div class="mhs-pref-card-header">
+							<span class="mhs-pref-label">Analytics</span>
+
+							<label class="mhs-toggle" aria-label="Enable analytics">
+								<input type="checkbox" id="mhsToggleAnalytics">
+								<span class="mhs-toggle-track"></span>
+								<span class="mhs-toggle-thumb"></span>
+							</label>
+						</div>
+
+						<p class="mhs-pref-desc">
+							Measures page traffic and performance to help us improve the site. Off by default.
+						</p>
+
+						<div class="mhs-pref-tools">
+							<span>google-analytics.com</span>
+							<span>googletagmanager.com</span>
+						</div>
+					</div>
+
+					<div class="mhs-pref-card" id="mhs-card-chat">
+						<div class="mhs-pref-card-header">
+							<span class="mhs-pref-label">Chat & support</span>
+
+							<label class="mhs-toggle" aria-label="Enable chat and support tools">
+								<input type="checkbox" id="mhsToggleChat">
+								<span class="mhs-toggle-track"></span>
+								<span class="mhs-toggle-thumb"></span>
+							</label>
+						</div>
+
+						<p class="mhs-pref-desc">
+							Enables chat and support tools. Off by default; turn on only if you want to use chat support.
+						</p>
+
+						<div class="mhs-pref-tools">
+							<span>Chatbase</span>
+							<span>NICE CXone</span>
+						</div>
+					</div>
+				</div>
+
+				<div class="mhs-rights-row">
+					<p class="mhs-rights-text">
+						<strong>Your privacy choices:</strong>
+						You may accept all, reject all, or choose which optional tools may load.
+					</p>
+
+					<div class="mhs-save-row">
+
+						<button type="button" class="mhs-btn mhs-btn-primary" id="mhsSavePrefs">
+							Save my choices
+						</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="mhsConsentToast">Preferences saved</div>
+
+	<script nonce="35b77a1919d34d7eab82535d050efac0">
+		(function () {
+		var CONSENT_KEY = "mhs_consent_preferences";
+		var GA_ID = "G-1ML5E0D82V";
+
+		var prefsOpen = false;
+		var openedFromSettings = false;
+
+		function getPrefs() {
+			try {
+			var saved = localStorage.getItem(CONSENT_KEY);
+			return saved ? JSON.parse(saved) : null;
+			} catch (e) {
+			return null;
+			}
+		}
+
+		function savePrefsObject(prefs) {
+			localStorage.setItem(CONSENT_KEY, JSON.stringify({
+			essential: true,
+			analytics: !!prefs.analytics,
+			chat: !!prefs.chat,
+			savedAt: new Date().toISOString()
+			}));
+		}
+
+		function loadGoogleAnalytics() {
+			if (!GA_ID || window.__mhsAnalyticsLoaded) return;
+
+			window.__mhsAnalyticsLoaded = true;
+			window.dataLayer = window.dataLayer || [];
+
+			var script = document.createElement("script");
+			script.async = true;
+			script.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(GA_ID);
+			script.nonce = "35b77a1919d34d7eab82535d050efac0";
+			document.head.appendChild(script);
+
+			window.gtag = function () {
+			window.dataLayer.push(arguments);
+			};
+
+			gtag("js", new Date());
+			gtag("config", GA_ID);
+		}
+
+		function loadEnabledServices(prefs) {
+			if (prefs.analytics) {
+			loadGoogleAnalytics();
+			}
+
+			if (prefs.chat && typeof window.mhsLoadChatServices === "function") {
+			window.mhsLoadChatServices();
+			}
+		}
+
+		function showBanner() {
+			var banner = document.getElementById("mhsConsentBanner");
+			if (banner) {
+			banner.classList.add("is-visible");
+			banner.classList.remove("is-hidden");
+			}
+		}
+
+		function hideBanner() {
+			var banner = document.getElementById("mhsConsentBanner");
+			if (banner) {
+			banner.classList.add("is-hidden");
+			banner.classList.remove("is-visible");
+			}
+		}
+
+		function syncCard(name, checked) {
+			var card = document.getElementById("mhs-card-" + name);
+			if (card) {
+			card.classList.toggle("active", checked);
+			}
+		}
+
+		function setToggle(name, checked) {
+			var toggle = document.getElementById("mhsToggle" + name.charAt(0).toUpperCase() + name.slice(1));
+			if (toggle) {
+			toggle.checked = checked;
+			}
+
+			syncCard(name, checked);
+		}
+
+		function updateConsentStatus(prefs) {
+			var status = document.getElementById("mhsConsentStatus");
+			if (!status) return;
+
+			if (!prefs) {
+			status.textContent = "No optional tools active — waiting for your choice";
+			status.className = "mhs-blocking-notice";
+			return;
+			}
+
+			if (prefs.analytics && prefs.chat) {
+			status.textContent = "Analytics and chat are currently enabled";
+			status.className = "mhs-blocking-notice is-active";
+			return;
+			}
+
+			if (prefs.analytics) {
+			status.textContent = "Analytics is currently enabled — chat is blocked";
+			status.className = "mhs-blocking-notice is-partial";
+			return;
+			}
+
+			if (prefs.chat) {
+			status.textContent = "Chat is currently enabled — analytics is blocked";
+			status.className = "mhs-blocking-notice is-partial";
+			return;
+			}
+
+			status.textContent = "Only essential tools are active — analytics and chat are blocked";
+			status.className = "mhs-blocking-notice";
+		}
+
+		function togglePrefs() {
+			prefsOpen = !prefsOpen;
+
+			var panel = document.getElementById("mhsPrefsPanel");
+			var button = document.getElementById("mhsPrefsToggle");
+
+			if (panel) {
+			panel.classList.toggle("open", prefsOpen);
+			}
+
+			if (button) {
+			button.textContent = prefsOpen ? "Hide preferences ↑" : "Manage preferences ↓";
+			}
+		}
+
+		function openPreferences() {
+			openedFromSettings = true;
+
+			var savedPrefs = getPrefs();
+
+			if (savedPrefs) {
+			setToggle("analytics", !!savedPrefs.analytics);
+			setToggle("chat", !!savedPrefs.chat);
+			}
+
+			updateConsentStatus(savedPrefs);
+			showBanner();
+
+			prefsOpen = true;
+
+			var panel = document.getElementById("mhsPrefsPanel");
+			var button = document.getElementById("mhsPrefsToggle");
+
+			if (panel) {
+			panel.classList.add("open");
+			}
+
+			if (button) {
+			button.textContent = "Hide preferences ↑";
+			}
+		}
+
+		function showToast(message) {
+			var toast = document.getElementById("mhsConsentToast");
+			if (!toast) return;
+
+			toast.textContent = message;
+			toast.classList.add("show");
+
+			setTimeout(function () {
+			toast.classList.remove("show");
+			}, 4500);
+		}
+
+		function commitPrefs(prefs, message, shouldReload) {
+			savePrefsObject(prefs);
+			hideBanner();
+			showToast(message);
+
+			if (shouldReload) {
+			setTimeout(function () {
+				window.location.reload();
+			}, 700);
+			return;
+			}
+
+			updateConsentStatus(prefs);
+			loadEnabledServices(prefs);
+		}
+
+		function acceptAll() {
+			var prefs = {
+			analytics: true,
+			chat: true
+			};
+
+			setToggle("analytics", true);
+			setToggle("chat", true);
+
+			commitPrefs(
+			prefs,
+			"All optional tools enabled. You can change this at any time.",
+			openedFromSettings
+			);
+		}
+
+		function rejectAll() {
+			var prefs = {
+			analytics: false,
+			chat: false
+			};
+
+			setToggle("analytics", false);
+			setToggle("chat", false);
+
+			commitPrefs(
+			prefs,
+			"Only essential cookies active. No optional third-party tools loaded.",
+			openedFromSettings
+			);
+		}
+
+		function saveSelectedPrefs() {
+			var analyticsToggle = document.getElementById("mhsToggleAnalytics");
+			var chatToggle = document.getElementById("mhsToggleChat");
+
+			var prefs = {
+			analytics: !!(analyticsToggle && analyticsToggle.checked),
+			chat: !!(chatToggle && chatToggle.checked)
+			};
+
+			var enabled = [];
+
+			if (prefs.analytics) enabled.push("analytics");
+			if (prefs.chat) enabled.push("chat");
+
+			var message = enabled.length
+			? "Enabled: " + enabled.join(", ") + ". Other tools remain blocked."
+			: "Only essential cookies active. No optional third-party tools loaded.";
+
+			commitPrefs(prefs, message, openedFromSettings);
+		}
+
+		document.addEventListener("DOMContentLoaded", function () {
+			var savedPrefs = getPrefs();
+
+			var analyticsToggle = document.getElementById("mhsToggleAnalytics");
+			var chatToggle = document.getElementById("mhsToggleChat");
+
+			if (analyticsToggle) {
+			analyticsToggle.addEventListener("change", function () {
+				syncCard("analytics", this.checked);
+			});
+			}
+
+			if (chatToggle) {
+			chatToggle.addEventListener("change", function () {
+				syncCard("chat", this.checked);
+			});
+			}
+
+			var acceptButton = document.getElementById("mhsAcceptAllConsent");
+			var rejectButton = document.getElementById("mhsRejectAllConsent");
+			var saveButton = document.getElementById("mhsSavePrefs");
+			var prefsButton = document.getElementById("mhsPrefsToggle");
+			var settingsLink = document.getElementById("mhsPrivacySettings");
+
+			if (acceptButton) acceptButton.addEventListener("click", acceptAll);
+			if (rejectButton) rejectButton.addEventListener("click", rejectAll);
+			if (saveButton) saveButton.addEventListener("click", saveSelectedPrefs);
+			if (prefsButton) prefsButton.addEventListener("click", togglePrefs);
+
+			if (settingsLink) {
+			settingsLink.addEventListener("click", function (e) {
+				e.preventDefault();
+				openPreferences();
+			});
+			}
+
+			if (savedPrefs) {
+			setToggle("analytics", !!savedPrefs.analytics);
+			setToggle("chat", !!savedPrefs.chat);
+			updateConsentStatus(savedPrefs);
+			loadEnabledServices(savedPrefs);
+			return;
+			}
+
+			updateConsentStatus(null);
+			showBanner();
+		});
+		})();
+	</script>
+
+	</body>
+</html> 

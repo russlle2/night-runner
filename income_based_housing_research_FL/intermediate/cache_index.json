@@ -1,57 +1,57 @@
 [
   {
-    "source_url": "https://www.hud.gov/states/florida",
-    "raw_path": "raw_html/www-hud-gov-d142b276ad40.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/www-hud-gov-d142b276ad40.png",
+    "source_url": "https://hud.gov/states/florida",
+    "raw_path": "raw_html/hud-gov-f9c4dda91181.html",
+    "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 11
   },
   {
-    "source_url": "https://rdmfhrentals.sc.egov.usda.gov/",
-    "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-91b6843f7bd7.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-91b6843f7bd7.png",
+    "source_url": "https://rdmfhrentals.sc.egov.usda.gov",
+    "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-869851dfe7a2.html",
+    "screenshot_path": "",
     "content_type": "text/html;charset=utf-8",
     "snippet_count": 7
   },
   {
     "source_url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=069&st=12",
     "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-504876b55c23.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-504876b55c23.png",
+    "screenshot_path": "",
     "content_type": "text/html;charset=iso-8859-1",
     "snippet_count": 171
   },
   {
     "source_url": "https://rdmfhrentals.sc.egov.usda.gov/RDMFHRentals/projectservlet?cnty=119&st=12",
     "raw_path": "raw_html/rdmfhrentals-sc-egov-usda-gov-fec3e1f71684.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/rdmfhrentals-sc-egov-usda-gov-fec3e1f71684.png",
+    "screenshot_path": "",
     "content_type": "text/html;charset=iso-8859-1",
     "snippet_count": 51
   },
   {
-    "source_url": "https://floridahousingsearch.org/",
-    "raw_path": "raw_html/floridahousingsearch-org-9da5402e1cdb.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/floridahousingsearch-org-9da5402e1cdb.png",
+    "source_url": "https://floridahousingsearch.org",
+    "raw_path": "raw_html/floridahousingsearch-org-3e6bed9d3e1a.html",
+    "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 24
   },
   {
     "source_url": "https://sumtercountyfl.gov/87/Housing",
     "raw_path": "raw_html/sumtercountyfl-gov-c23c975e96f3.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/sumtercountyfl-gov-c23c975e96f3.png",
+    "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 7
   },
   {
     "source_url": "https://sumtercountyfl.gov/243/Rental-Assistance",
     "raw_path": "raw_html/sumtercountyfl-gov-be711e391ecf.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/sumtercountyfl-gov-be711e391ecf.png",
+    "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 7
   },
   {
-    "source_url": "https://www.sumtercountyfl.gov/246/Rental-Assistance-Resources",
-    "raw_path": "raw_html/www-sumtercountyfl-gov-560bb863f0b0.html",
-    "screenshot_path": "/workspace/income_based_housing_research_FL/screenshots/www-sumtercountyfl-gov-560bb863f0b0.png",
+    "source_url": "https://sumtercountyfl.gov/246/Rental-Assistance-Resources",
+    "raw_path": "raw_html/sumtercountyfl-gov-a3af5d4b9da5.html",
+    "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 13
   },
@@ -63,10 +63,444 @@
     "snippet_count": 1
   },
   {
-    "source_url": "https://www.citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php",
-    "raw_path": "raw_html/www-citruscounty-gov-33500c2a918d.html",
+    "source_url": "https://citruscounty.gov/departments/community_services/housing_services/housing_choice_voucher_program/index.php",
+    "raw_path": "raw_html/citruscounty-gov-121d6f30fe79.html",
     "screenshot_path": "",
     "content_type": "text/html; charset=utf-8",
     "snippet_count": 15
+  },
+  {
+    "source_url": "https://lowincomehousing.us/FL/the_villages.html",
+    "raw_path": "raw_html/lowincomehousing-us-79bdb6a7de09.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://affordablehousing.com/lady-lake-fl/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-c48e849dbcd4.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://carmendysquare.com",
+    "raw_path": "raw_html/carmendysquare-com-3872a087f29e.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 8
+  },
+  {
+    "source_url": "https://lowincomehousing.us/fl/lady_lake.html",
+    "raw_path": "raw_html/lowincomehousing-us-2cf97dd330ee.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 12
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/lake-north-apts-ii-2268-lihtc",
+    "raw_path": "raw_html/affordablehousinghub-org-e94336264c60.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/lake-county/lady-lake/cove-at-lady-lake-3583-lihtc",
+    "raw_path": "raw_html/affordablehousinghub-org-23bbfc4f42eb.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://affordablehousingonline.com/housing-search/Florida/Lady-Lake/Lake-North-II/10026139",
+    "raw_path": "raw_html/affordablehousingonline-com-23651c15e6ed.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 12
+  },
+  {
+    "source_url": "https://seniorguidance.org/senior-housing/florida/lady-lake.html",
+    "raw_path": "raw_html/seniorguidance-org-6cf4aeb6f946.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://affordablehousingonline.com/housing-search/Florida/Lady-Lake",
+    "raw_path": "raw_html/affordablehousingonline-com-717a74398656.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://whereyoulivematters.org/find-a-community/pebble-springs-retirement-community",
+    "raw_path": "raw_html/whereyoulivematters-org-27ade274f78d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 8
+  },
+  {
+    "source_url": "http://lakewoodvillasladylake.com",
+    "raw_path": "raw_html/lakewoodvillasladylake-com-2415293cc8f9.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://affordablehousing.com/fruitland-park-fl",
+    "raw_path": "raw_html/affordablehousing-com-a89b2dd61a69.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://publichousing.com/city/fl-fruitland_park",
+    "raw_path": "raw_html/publichousing-com-61098f3f219e.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 9
+  },
+  {
+    "source_url": "https://villages-news.com/2026/05/23/affordable-housing-in-fruitland-park-will-increase-pressure-on-u-s-hwy-27-441",
+    "raw_path": "raw_html/villages-news-com-f823936c6240.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 6
+  },
+  {
+    "source_url": "https://affordablehousing.com/fruitland-park-fl/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-56390430cd8d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/lake-county/fruitland-park",
+    "raw_path": "raw_html/affordablehousinghub-org-b657182f93ee.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 28
+  },
+  {
+    "source_url": "https://lowincomehousing.us/FL/fruitland_park.html",
+    "raw_path": "raw_html/lowincomehousing-us-b540f9461f43.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 12
+  },
+  {
+    "source_url": "https://the-carriage-house.seniorlivinginstyle.com/communities/fruitland-park",
+    "raw_path": "raw_html/the-carriage-house-seniorlivinginstyle-com-0661c90fd49a.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 5
+  },
+  {
+    "source_url": "https://affordablehousing.com/fruitland-park-fl/senior-housing",
+    "raw_path": "raw_html/affordablehousing-com-51fcd0ab34a0.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://aplaceformom.com/assisted-living/florida/fruitland-park",
+    "raw_path": "raw_html/aplaceformom-com-b351519da073.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://lowincomehousing.us/FL/wildwood.html",
+    "raw_path": "raw_html/lowincomehousing-us-f231b8662672.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 12
+  },
+  {
+    "source_url": "https://affordablehousing.com/wildwood-fl/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-55abea71c0a1.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "http://hud.gov/states/florida",
+    "raw_path": "raw_html/hud-gov-d28e71530b6d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://magnoliaatpowell.com",
+    "raw_path": "raw_html/magnoliaatpowell-com-1948855018bb.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 6
+  },
+  {
+    "source_url": "https://homesip.org/home-ownership",
+    "raw_path": "raw_html/homesip-org-785be4ea47f9.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 7
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/sumter-county/wildwood/club-wildwood-3658-lihtc",
+    "raw_path": "raw_html/affordablehousinghub-org-3f16819471e5.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://affordablehousing.com/leesburg-fl",
+    "raw_path": "raw_html/affordablehousing-com-81e94ddb4da6.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://leesburgflorida.gov/my_city/departments/housing/index.php",
+    "raw_path": "raw_html/leesburgflorida-gov-1ad664f77cd6.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 4
+  },
+  {
+    "source_url": "https://cypressoaksapts.net",
+    "raw_path": "raw_html/cypressoaksapts-net-f5ee03de21c2.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 8
+  },
+  {
+    "source_url": "https://affordablehousing.com/leesburg-fl-34748/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-a947a3a37cba.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://cflhands.org/res.section8.php",
+    "raw_path": "raw_html/cflhands-org-95d7e26e7822.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://osceola.org/Services/Housing-Programs/Section-8/Section-8-Neighboring-Housing-Authorities",
+    "raw_path": "raw_html/osceola-org-49954fa1efa0.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 8
+  },
+  {
+    "source_url": "https://windemerevillas.com",
+    "raw_path": "raw_html/windemerevillas-com-7cca95b0820c.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 18
+  },
+  {
+    "source_url": "https://leesburgflorida.gov/my_city/departments/housing/resource_center.php",
+    "raw_path": "raw_html/leesburgflorida-gov-1f8ba079cc40.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 6
+  },
+  {
+    "source_url": "https://lowincomehousing.us/FL/leesburg.html",
+    "raw_path": "raw_html/lowincomehousing-us-48a41f88c5f9.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://publichousing.com/details/turtle_oaks_apartments",
+    "raw_path": "raw_html/publichousing-com-0e8696d4481f.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 15
+  },
+  {
+    "source_url": "https://affordablehousingonline.com/housing-search/Florida/Lake-Panasoffkee",
+    "raw_path": "raw_html/affordablehousingonline-com-00546bf2fe6d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://publichousing.com/city/fl-lake_panasoffkee",
+    "raw_path": "raw_html/publichousing-com-586f56330dd1.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 7
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/sumter/lake-panasoffkee",
+    "raw_path": "raw_html/affordablehousinghub-org-ed8dc5a0516c.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 28
+  },
+  {
+    "source_url": "https://lowincomehousing.us/FL/lake_panasoffkee.html",
+    "raw_path": "raw_html/lowincomehousing-us-b91166d9451c.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://usaspending.gov/award/ASST_NON_A03100141561000_12E3",
+    "raw_path": "raw_html/usaspending-gov-93e8750001e7.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 1
+  },
+  {
+    "source_url": "https://habitatls.org/affordable-housing-part-1-affordable-alternatives",
+    "raw_path": "raw_html/habitatls-org-6cf41c283ad4.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://affordablehousing.com/sumter-county-fl/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-0a0e80c445ad.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://affordablehousingonline.com/housing-search/Florida/Sumter-County",
+    "raw_path": "raw_html/affordablehousingonline-com-5e1a8e4c879d.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 13
+  },
+  {
+    "source_url": "https://affordablehousinghub.org/housing/florida/sumter-county",
+    "raw_path": "raw_html/affordablehousinghub-org-32310b92b9c4.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 28
+  },
+  {
+    "source_url": "https://sumterbusiness.com/housing-in-sumter-county",
+    "raw_path": "raw_html/sumterbusiness-com-897f801a29a4.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 2
+  },
+  {
+    "source_url": "https://uwls.org/help-in-sumter-county-florida",
+    "raw_path": "raw_html/uwls-org-ce623da5d750.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 1
+  },
+  {
+    "source_url": "https://habitatls.org",
+    "raw_path": "raw_html/habitatls-org-51e4d759905e.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 8
+  },
+  {
+    "source_url": "https://sumterha.org",
+    "raw_path": "raw_html/sumterha-org-bab94355607e.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 11
+  },
+  {
+    "source_url": "https://affordablehousing.com/sumter-county-fl/utilities-included",
+    "raw_path": "raw_html/affordablehousing-com-4fcbca46037a.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://sumtercountyfl.gov/AgendaCenter/ViewFile/Item/23512?fileID=57591",
+    "raw_path": "raw_html/sumtercountyfl-gov-0abc8228e13c.pdf",
+    "screenshot_path": "",
+    "content_type": "application/pdf",
+    "snippet_count": 0
+  },
+  {
+    "source_url": "https://usdamortgagesource.com/sumter-florida",
+    "raw_path": "raw_html/usdamortgagesource-com-292920d214c4.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 3
+  },
+  {
+    "source_url": "https://homefinancialgroup.net/locations/sumter/usda-mortgage",
+    "raw_path": "raw_html/homefinancialgroup-net-1ba03744da5e.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 9
+  },
+  {
+    "source_url": "https://affordablehousing.com/lake-county-fl",
+    "raw_path": "raw_html/affordablehousing-com-fe70e3f28c1b.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://lowincomehousing.us/cty/fl-lake",
+    "raw_path": "raw_html/lowincomehousing-us-441da3a821db.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 26
+  },
+  {
+    "source_url": "https://eustishousingauthority.com/housing-programs",
+    "raw_path": "raw_html/eustishousingauthority-com-eaf6edbb0336.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 12
+  },
+  {
+    "source_url": "https://affordablehousing.com/housing-authority-fl/lake-county-housing-agency-1-1309",
+    "raw_path": "raw_html/affordablehousing-com-d5711249caf9.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 28
+  },
+  {
+    "source_url": "https://affordablehousing.com/lake-county-fl/section8-owners",
+    "raw_path": "raw_html/affordablehousing-com-bc7668f04956.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 14
+  },
+  {
+    "source_url": "https://myhousingsearch.com/tenant/FL/Search.html?ch=FL&type=rental&region_id=31066",
+    "raw_path": "raw_html/myhousingsearch-com-1433dcd89600.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 21
+  },
+  {
+    "source_url": "https://lakecountyha.org",
+    "raw_path": "raw_html/lakecountyha-org-e5cc3723e348.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 10
+  },
+  {
+    "source_url": "http://officialhousingauthority.com/florida/tavares-county-housing-authority",
+    "raw_path": "raw_html/officialhousingauthority-com-8fcf23bfcd8a.html",
+    "screenshot_path": "",
+    "content_type": "text/html; charset=utf-8",
+    "snippet_count": 10
+  },
+  {
+    "source_url": "https://uwls.org/help-in-lake-county-florida",
+    "raw_path": "raw_html/uwls-org-c51473c609d8.html",
+    "screenshot_path": "",
+    "content_type": "text/html",
+    "snippet_count": 1
   }
 ]
